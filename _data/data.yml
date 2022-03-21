@@ -3,7 +3,7 @@
 #
 
 sidebar:
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
@@ -69,24 +69,31 @@ experiences:
       time: 2021 - 2021
       company: Observe, Atlanta
       details: |
-        Here again I worked in a multicultural team of three members, a UI / UX designer and two Developers, two of them based in Atlanta and the third, who is me, here in the Dominican Republic. We followed an Agile approach with Sprints and Daily Meetings, during which each one discussed what they had accomplished, the blocking factors, and the next step on the agenda. My job consisted of receiving tickets of a specific price, preparing the screens, passing the evaluations and delivering the code. For this we use React Native, GIT, Vs Code, Github, Android, IOS, Jira and our own library of UI components. We develop both on Mac OS and Linux.
+        Here again I worked in a multicultural team of three members, 
+        a UI / UX designer and two Developers, two of them based in Atlanta and the third, 
+        who is me, here in the Dominican Republic. We followed an Agile approach with Sprints and Daily Meetings, 
+        during which each one discussed what they had accomplished, the blocking factors, and the next step on the agenda. 
+        My job consisted of receiving tickets of a specific price, preparing the screens, 
+        passing the evaluations and delivering the code. 
+        For this we use React Native, GIT, Vs Code, Github, Android, IOS, Jira and our own library of UI components. 
+        We develop both on Mac OS and Linux.
     - role: Angular Developer
       time: 2020 - 2021
       company: Call Center Pros, Santo Domingo
       details: |
         In Call Center Pros we were working on the next release of
         their CRM (Lacsy). This project pretends to solve all of the
-        company’s problems and then to be sell to our clients,
+        companys problems and then to be sell to our clients,
         Winopoly, Banesco, Get A Room and so on. I have been
         signed to migrate the current version of the app built in
         MVC to a standalone component based web application. So
         this is my stack now, VS Code, Angular 10, Typescript, HTML,
         GIT, Bootstrap 4, NPM, PrimeNG, Xtreme (a Visual Template) and
         the best practices that I can come up with.
-      - role: Software Developer II
-        time: 2020 - 2020
-        company: Verizon Enterprise, USA
-        details: |
+    - role: Software Developer II
+      time: 2020 - 2020
+      company: Verizon Enterprise, USA
+      details: |
           Here I gave support to the Verizon’s portal migrations,
           from the Ext JS version to a new version written in angular
           5. My tasks were to migrate part of the Admin Tool, a set of
@@ -96,10 +103,10 @@ experiences:
           (BANs). In order to reach my goals in this role, I have worked
           with VS Code, Angular 5, Typescript, HTML, Bootstrap 4,
           GIT, NPM and PrimeNG.
-      - role: Claro / XpertCode
-        time: 2020 - 2020
-        company: Verizon Enterprise, USA
-        details: |
+    - role: Claro / XpertCode
+      time: 2020 - 2020
+      company: Verizon Enterprise, USA
+      details: |
           I was in charge of maintain a project called Digital Forms
           that runs on every client attention center of the national
           geography. Its base functionality is to retrieve transactions
