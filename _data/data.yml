@@ -4,7 +4,7 @@
 
 sidebar:
     about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
-    education: True # set to False if you want education in main section instead of in sidebar
+    education: False # set to False if you want education in main section instead of in sidebar
 
     # Profile information
     name: Ricardo Osorio
@@ -94,18 +94,18 @@ experiences:
       time: 2020 - 2020
       company: Verizon Enterprise, USA
       details: |
-          Here I gave support to the Verizon’s portal migrations,
-          from the Ext JS version to a new version written in angular
-          5. My tasks were to migrate part of the Admin Tool, a set of
-          tools for admin users, and the Ban Maintenance Module, a
-          set of screens designed to perform different kinds of
-          operations over the customers Billing Account Numbers
-          (BANs). In order to reach my goals in this role, I have worked
-          with VS Code, Angular 5, Typescript, HTML, Bootstrap 4,
-          GIT, NPM and PrimeNG.
-    - role: Claro / XpertCode
-      time: 2020 - 2020
-      company: Verizon Enterprise, USA
+        Here I gave support to the Verizons portal migrations,
+        from the Ext JS version to a new version written in angular
+        5. My tasks were to migrate part of the Admin Tool, a set of
+        tools for admin users, and the Ban Maintenance Module, a
+        set of screens designed to perform different kinds of
+        operations over the customers Billing Account Numbers
+        (BANs). In order to reach my goals in this role, I have worked
+        with VS Code, Angular 5, Typescript, HTML, Bootstrap 4,
+        GIT, NPM and PrimeNG.
+    - role: Java Developer
+      time: 2019 - 2020
+      company: Claro / XpertCode, Santo Domingo
       details: |
           I was in charge of maintain a project called Digital Forms
           that runs on every client attention center of the national
@@ -143,27 +143,3 @@ projects:
         link: "https://www.linkedin.com/posts/ricardo-osorio-soto-32b450183_masteringabrtech-activity-6789607378967949312-3_Yg?utm_source=linkedin_share&utm_medium=member_desktop_web"
         tagline: "A responsive landing page built in completely with HTML5 & CSS3"
 
-skills:
-    title: Skills &amp; Proficiency
-
-    toolset:
-      - name: Java
-        level: 98%
-
-      - name: NodeJS & express
-        level: 98%
-
-      - name: Angular
-        level: 98%
-
-      - name: HTML5 & CSS
-        level: 95%
-
-      - name: Apache Wicket
-        level: 85%
-
-      - name: Apache Maven
-        level: 60%
-      
-      - name: Teams Chatbot Interface
-        level: 50%
