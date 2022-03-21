@@ -13,10 +13,9 @@ sidebar:
 
     # Sidebar links
     email: osorioj842@gmail.com
-    phone: 1 849 361 2817
+    phone: 1-849-361-2817
     citizenship: #do not add http://
-    linkedin: https://www.linkedin.com/in/ricardo-osorio-soto-32b450183/
-    xing: Ricardo
+    linkedin: Ricardo Osorio
     github: rick002
     telegram: Ruy # add your nickname without '@' sign
 
@@ -55,8 +54,8 @@ experiences:
       details: |
         I was hired to develop a series of projects planned by the foundation, such as the reconstruction of its website, a demographic analysis system and a mobile application for patient monitoring. This is intended to feed a context of public policies that favor people with chronic respiratory diseases.
     - role: Software Developer
-      time: 2014 - 2015
-      company: Google, London
+      time: 2021 - present
+      company: Korewireless, Winipeg
       details: |
         Kore is a company that provides IoT solutions for the telecommunications business. Among its clients we can name Orange, AT&T, Verizon and TMobile. During this time, work on the team developing the sim card provisioning process.
 
@@ -66,74 +65,85 @@ experiences:
 
         The technology stack for this role is Apache Kafka, NodeJS, ExpressJS, TypeScript, Angular, GraphQL,
         PostgreSQL, Git, Gitlab, docker, Jira plus a CI / CD infrastructure for each microservice built with TeamCity. The Kubernetes provider we use here is Rancher.
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
+    - role: React Native Developer
+      time: 2021 - 2021
+      company: Observe, Atlanta
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        Here again I worked in a multicultural team of three members, a UI / UX designer and two Developers, two of them based in Atlanta and the third, who is me, here in the Dominican Republic. We followed an Agile approach with Sprints and Daily Meetings, during which each one discussed what they had accomplished, the blocking factors, and the next step on the agenda. My job consisted of receiving tickets of a specific price, preparing the screens, passing the evaluations and delivering the code. For this we use React Native, GIT, Vs Code, Github, Android, IOS, Jira and our own library of UI components. We develop both on Mac OS and Linux.
+    - role: Angular Developer
+      time: 2020 - 2021
+      company: Call Center Pros, Santo Domingo
+      details: |
+        In Call Center Pros we were working on the next release of
+        their CRM (Lacsy). This project pretends to solve all of the
+        company’s problems and then to be sell to our clients,
+        Winopoly, Banesco, Get A Room and so on. I have been
+        signed to migrate the current version of the app built in
+        MVC to a standalone component based web application. So
+        this is my stack now, VS Code, Angular 10, Typescript, HTML,
+        GIT, Bootstrap 4, NPM, PrimeNG, Xtreme (a Visual Template) and
+        the best practices that I can come up with.
+      - role: Software Developer II
+        time: 2020 - 2020
+        company: Verizon Enterprise, USA
+        details: |
+          Here I gave support to the Verizon’s portal migrations,
+          from the Ext JS version to a new version written in angular
+          5. My tasks were to migrate part of the Admin Tool, a set of
+          tools for admin users, and the Ban Maintenance Module, a
+          set of screens designed to perform different kinds of
+          operations over the customers Billing Account Numbers
+          (BANs). In order to reach my goals in this role, I have worked
+          with VS Code, Angular 5, Typescript, HTML, Bootstrap 4,
+          GIT, NPM and PrimeNG.
+      - role: Claro / XpertCode
+        time: 2020 - 2020
+        company: Verizon Enterprise, USA
+        details: |
+          I was in charge of maintain a project called Digital Forms
+          that runs on every client attention center of the national
+          geography. Its base functionality is to retrieve transactions
+          made on five different information systems of the
+          company, then map them into a digital form that will lately
+          send to the customer by email on PDF Format. For this
+          purpose I used to make UML representations of the
+          modules and packages (or build them from scratch if the
+          situation required it). I was work with all of the OO Design
+          principles and patterns that I found could fix those
+          problems. The digital forms technical stack was composed
+          by: Java, wicket, maven, IntelliJ, JDBC, Spring Container,
+          HTML, Bootstrap 4 and GIT.
+      
+          
 projects:
-    title: Projects
+    title: Playing With My Toys
     intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      But wait, I may have a few side projects that you may like to know about
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+      - title: Albums
+        link: "https://www.linkedin.com/posts/ricardo-osorio-soto-32b450183_masteringabrtech-activity-6809633629484965888-Ls-7?utm_source=linkedin_share&utm_medium=member_desktop_web"
+        tagline: "An album application for android, built in react native (UI Only)."
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+      - title: Make Me
+        link: "https://www.linkedin.com/posts/ricardo-osorio-soto-32b450183_masteringabrtech-activity-6809169309651271680-VTZK?utm_source=linkedin_share&utm_medium=member_desktop_web"
+        tagline: "A todo list application for android, built in react native."
 
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+      - title: Telegram Chatbot
+        link: "https://www.linkedin.com/posts/ricardo-osorio-soto-32b450183_telecomunicaciones-interfaces-bots-activity-6871432974882144256-5qap?utm_source=linkedin_share&utm_medium=member_desktop_web"
+        tagline: "An echo telegram chatbot built in with telegraf and express js."
 
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
-publications:
-    title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
-    papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
-
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+      - title: Cafe Oslo
+        link: "https://www.linkedin.com/posts/ricardo-osorio-soto-32b450183_masteringabrtech-activity-6789607378967949312-3_Yg?utm_source=linkedin_share&utm_medium=member_desktop_web"
+        tagline: "A responsive landing page built in completely with HTML5 & CSS3"
 
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
+      - name: Java
         level: 98%
 
-      - name: Javascript & jQuery
+      - name: NodeJS & express
         level: 98%
 
       - name: Angular
@@ -142,11 +152,11 @@ skills:
       - name: HTML5 & CSS
         level: 95%
 
-      - name: Ruby on Rails
+      - name: Apache Wicket
         level: 85%
 
-      - name: Sketch & Photoshop
+      - name: Apache Maven
         level: 60%
-
-footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+      
+      - name: Teams Chatbot Interface
+        level: 50%
