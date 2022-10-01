@@ -194,17 +194,17 @@ skills:
   title: Don't be afraid to rate my skills
   toolset:
     - name: Javascript & Typescript
-      level: 60
+      level: 250
     
     - name: Java + JSF
-      level: 45
+      level: 230
     
     - name: C# + ASP NET CORE
-      level: 50
+      level: 220
     
     - name: NodeJS & Express
-      level: 60
+      level: 300
     
     - name: Angular
-      level: 70
+      level: 320
     
