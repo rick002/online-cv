@@ -15,9 +15,10 @@ sidebar:
     email: osorioj842@gmail.com
     phone: 1-849-361-2817
     citizenship: Dominican, 402-1402577-3 #do not add http://
-    linkedin: Ricardo Osorio Soto
+    linkedin: Ricardo Osorio
+    linkedinURI: ricardo-osorio-soto-32b450183
     github: rick002
-    telegram: Ruy # add your nickname without '@' sign
+    # telegram: Ruy # add your nickname without '@' sign
 
     languages:
       - idiom: English
@@ -27,13 +28,32 @@ sidebar:
         level: Native
 
     interests:
-      - item: Muay Thai
+      - item: Virtual Reality
         link:
-
-      - item: Boxing
+      
+      - item: Augmented Reality
+      
+      - item: Ubisoft Video Games
+      
+      - item: 3D experiences
         link:
 
       - item: Philosophy
+        link:
+
+      - item: UI/UX
+        link:
+
+      - item: NodeJS
+        link:
+      
+      - item: Java
+        link: 
+      
+      - item: C#
+        link:
+      
+      - item: Iot
         link:
 
 career-profile:
@@ -48,6 +68,13 @@ education:
       university: Apec University
       time: 2007 - 2011
 experiences:
+    - role: Senior Java Developer
+      time: 2022 - Present
+      company: Claro / XpertCode, Santo Domingo
+      details: |
+      Recently the CEO of XpertCode SRL requested my re-entry to join PAC, by its acronym in Spanish it means customer service project, whose mission is to unify the dense cloud of systems that run in the Claro network and that are used in the different centers of attention to the client of the national geography.
+
+      In this project we use Java, JSF, Apache Maven, Web Logic and Oracle.  
     - role: Software Developer
       time: 2022 - Present
       company: Pulmonary Hypertension Foundation of the Dominican Republic, Santo Domingo
@@ -65,6 +92,14 @@ experiences:
 
         The technology stack for this role is Apache Kafka, NodeJS, ExpressJS, TypeScript, Angular, GraphQL,
         PostgreSQL, Git, Gitlab, docker, Jira plus a CI / CD infrastructure for each microservice built with TeamCity. The Kubernetes provider we use here is Rancher.
+
+        Later I was reassigned to another team called Dev Services, to participate in an initiative to cultivate the culture of Site Reliability Engineering or SRE, where I built a POC of a Chatbot for Microsoft Teams to support the teams in the procedures that they must have. . place in case of any outage.
+
+        For these purposes, I use Node, Express, and Microsoft Teams as my Chatbot provider.
+
+        Then I was asked to join the team that builds and maintains the rules engine, where I've been ever since.
+
+        Here we use ASP NET Core 3.1, Apache Kafka and PostgressQL.
     - role: React Native Developer
       time: 2021 - 2021
       company: Observe, Atlanta
@@ -138,9 +173,9 @@ experiences:
       
           
 projects:
-    title: Playing With My Toys
+    title: Check my portfolio
     intro: >
-      But wait, I might have a few side projects that you may like to know about
+      These are a just a few projects of my portfolio that you may like to see, just click on the titles.
     assignments:
       - title: Albums
         link: "https://www.linkedin.com/posts/ricardo-osorio-soto-32b450183_masteringabrtech-activity-6809633629484965888-Ls-7?utm_source=linkedin_share&utm_medium=member_desktop_web"
@@ -157,4 +192,8 @@ projects:
       - title: Cafe Oslo
         link: "https://www.linkedin.com/posts/ricardo-osorio-soto-32b450183_masteringabrtech-activity-6789607378967949312-3_Yg?utm_source=linkedin_share&utm_medium=member_desktop_web"
         tagline: "A responsive landing page built in completely with HTML5 & CSS3"
+      
+      - title: FHPRD New Website
+        link: "https://fundacionhprd.herokuapp.com/"
+        tagline: "The new website of the Pulmonary Hypertension Foundation of the Dominican Republic"
 
