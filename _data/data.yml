@@ -28,32 +28,25 @@ sidebar:
         level: Native
 
     interests:
+      - item: User Interface/User Experience
+        link:
+
+      - item: 3D experiences & Animations
+        link:
+
+      - item: Ubisoft Video Games
+        link:
+
+      - item: Internet of Things
+        link:
+
       - item: Virtual Reality
         link:
       
       - item: Augmented Reality
-      
-      - item: Ubisoft Video Games
-      
-      - item: 3D experiences
         link:
 
-      - item: Philosophy
-        link:
-
-      - item: UI/UX
-        link:
-
-      - item: NodeJS
-        link:
-      
-      - item: Java
-        link: 
-      
-      - item: C#
-        link:
-      
-      - item: Iot
+      - item: Greek Philosophy
         link:
 
 career-profile:
@@ -195,5 +188,23 @@ projects:
       
       - title: FHPRD New Website
         link: "https://fundacionhprd.herokuapp.com/"
-        tagline: "The new website of the Pulmonary Hypertension Foundation of the Dominican Republic"
+        tagline: "Landing of the Pulmonary Hypertension Foundation of the Dominican Republic"
 
+skills:
+  title: Don't be afraid to rate my skills
+  toolset:
+    - name: Javascript & Typescript
+      level: 60
+    
+    - name: Java + JSF
+      level: 45
+    
+    - name: C# + ASP NET CORE
+      level: 50
+    
+    - name: NodeJS & Express
+      level: 60
+    
+    - name: Angular
+      level: 70
+    
