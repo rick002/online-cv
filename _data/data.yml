@@ -46,7 +46,7 @@ sidebar:
       - item: Singleton Pattern
         link:
       
-      - item: Continuous Integration/Continuous Delivery
+      - item: CI/CD Pipelines
         link:
       
       - item: REST APIs Design
