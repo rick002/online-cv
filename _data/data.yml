@@ -27,6 +27,31 @@ sidebar:
       - idiom: Spanish
         level: Native
 
+    concepts:
+      - item: Decorator Pattern
+        link:
+      
+      - item: Factory Method Pattern
+        link:
+      
+      - item: Abstract Factory Pattern
+        link:
+      
+      - item: Strategy Pattern
+        link:
+      
+      - item: Observable Pattern
+        link:
+      
+      - item: Singleton Pattern
+        link:
+      
+      - item: CI/CD
+        link:
+      
+      - item: REST APIs
+        link:
+
     interests:
       - item: User Interface/User Experience
         link:
@@ -227,6 +252,12 @@ skills:
     
     - name: Java + JSF
       level: 230
+
+    - name: Java + Apache Wicket
+      level: 230
+    
+    - name: Java + Servlets & JSP
+      level: 250
     
     - name: C# + ASP NET CORE
       level: 220
@@ -234,6 +265,9 @@ skills:
     - name: NodeJS & Express
       level: 300
     
-    - name: Angular
+    - name: Angular + SSR
       level: 320
+    
+    - name: NodeJS & Strapi
+      level: 150
     
