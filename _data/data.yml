@@ -92,7 +92,7 @@ experiences:
 
         Pulmonary Hypertension Foundation of the Dominican Republic:
         
-        I rebuilt the foundation's website, as part of the improvement of its positioning strategy on the web.
+        I rebuilt the foundation's website, as part of the improvement of its positioning strategy on the web, using Angular SSR.
 
         In addition to that, the website has a contact form through which rare lung disease patients can fill out, and thereby obtain help with the treatment of their disease.
 
@@ -101,7 +101,7 @@ experiences:
         This website is hosted in Heroku.
 
         Right now, I'm building a demographic analysis system and a mobile application for patient monitoring. This is intended to feed a context of public policies that favor people with chronic respiratory diseases.
-        
+
     - role: Software Developer I
       time: 2021 - present
       company: Korewireless, Winnipeg
