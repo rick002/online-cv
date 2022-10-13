@@ -46,10 +46,10 @@ sidebar:
       - item: Singleton Pattern
         link:
       
-      - item: CI/CD
+      - item: Continuous Integration/Continuous Delivery
         link:
       
-      - item: REST APIs
+      - item: REST APIs Design
         link:
 
     interests:
