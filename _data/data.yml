@@ -62,17 +62,46 @@ education:
       time: 2007 - 2011
 experiences:
     - role: Senior Java Developer
-      time: 2022 - Present
+      time: 2022 - 2022
       company: Claro / XpertCode, Santo Domingo
       details: |
-        Recently the CEO of XpertCode SRL requested my re-entry to join PAC, by its acronym in Spanish it means customer service project, whose mission is to unify the dense cloud of systems that run in the Claro network and that are used in the different centers of attention to the client of the national geography.
+        Recently, the General Manager of XpertCode SRL requested my reinstatement to join PAC, by its acronym in Spanish it means customer service project, whose mission is to unify the dense cloud of systems that run in the Claro network and that are used in the different customer service centers nationwide.
+
+        During my time in the team, I built considerable improvements in the postpaid suspension modules and the maintenance of some configurations in the administration console.
+
+        As part of the improvements implemented, I worked on the creation of a history of offers, whose data is stored in a cloud solution called Neon, created by a Latin American company called FlyTxT.
+
+        For these purposes, I developed an In House integration solution consisting of an access layer for Neon services and an XML to Java Beans parser.
 
         In this project we use Java, JSF, Apache Maven, Web Logic and Oracle.  
-    - role: Software Developer
-      time: 2022 - Present
-      company: Pulmonary Hypertension Foundation of the Dominican Republic, Santo Domingo
+    - role: Independent Consultant
+      time: 2021 - Present
+      company: Independent
       details: |
-        I was hired to develop a series of projects planned by the foundation, such as the reconstruction of its website, a demographic analysis system and a mobile application for patient monitoring. This is intended to feed a context of public policies that favor people with chronic respiratory diseases.
+        As part of my work as an independent consultant I have developed web-based solutions for small businesses, entrepreneurs and the pulmonary hypertension foundation of the Dominican Republic.
+
+        In this regard, I can list the following projects...
+
+        Prometheus:
+
+        I developed a Rest API for an automation app to send messages to multiple contacts on WhatsApp with Express JS.
+
+        To do this, I connected the API to 360 Dialog, a WhatsApp Business API integration service built for that purpose.
+
+        For this project I used NodeJS with Express, 360 Dialog, Firebase and NPM.
+
+        Pulmonary Hypertension Foundation of the Dominican Republic:
+        
+        I rebuilt the foundation's website, as part of the improvement of its positioning strategy on the web.
+
+        In addition to that, the website has a contact form through which rare lung disease patients can fill out, and thereby obtain help with the treatment of their disease.
+
+        These messages are sent directly to the foundation's email, through an email sending module built with Express JS and Nodemailer.
+
+        This website is hosted in Heroku.
+
+        Right now, I'm building a demographic analysis system and a mobile application for patient monitoring. This is intended to feed a context of public policies that favor people with chronic respiratory diseases.
+        
     - role: Software Developer I
       time: 2021 - present
       company: Korewireless, Winnipeg
