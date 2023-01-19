@@ -73,9 +73,18 @@ education:
     - degree: Software Development Technologist
       university: The Americas Institute Of Technology
       time: 2016 - 2019
+
     - degree: English Course
       university: Apec University
       time: 2007 - 2011
+
+    - degree: NestJS Fundamentals
+      university: Nest.JS Org
+      time: 2022 - 2022
+    
+    - degree: C# 10 & .NET 6
+      university: O'Reilly
+      time: 2022 - 2022
 experiences:
     - role: Senior Java Developer
       time: 2022 - 2022
