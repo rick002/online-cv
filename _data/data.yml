@@ -28,28 +28,19 @@ sidebar:
         level: Native
 
     concepts:
-      - item: Decorator Pattern
-        link:
-      
-      - item: Factory Method Pattern
-        link:
-      
-      - item: Abstract Factory Pattern
-        link:
-      
-      - item: Strategy Pattern
-        link:
-      
-      - item: Observable Pattern
-        link:
-      
-      - item: Singleton Pattern
+      - item: Design Patterns
         link:
       
       - item: CI/CD Pipelines
         link:
+
+      - item: Git Operations
+        link:
       
       - item: REST APIs Design
+        link:
+      
+      - item: Containers Based Clusters
         link:
 
     interests:
@@ -71,7 +62,7 @@ sidebar:
       - item: Augmented Reality
         link:
 
-      - item: Greek Philosophy
+      - item: Philosophy
         link:
 
 career-profile:
@@ -99,6 +90,30 @@ experiences:
         For these purposes, I developed an In House integration solution consisting of an access layer for Neon services and an XML to Java Beans parser.
 
         In this project we use Java, JSF, Apache Maven, Web Logic and Oracle.  
+
+    - role: Software Developer I
+      time: 2021 - present
+      company: Korewireless, Winnipeg
+      details: |
+        Kore is a company that provides IoT solutions for the telecommunications business. Among its clients we can name Orange, AT&T, Verizon and TMobile. During this time, work on the team developing the sim card provisioning process.
+
+        Provisioning, as well as other processes, developed and maintained by other teams, is done with a product called Connectivity Pro, which allows customers to manage their SIM cards.
+
+        What makes CPro great is its immense Microservices-oriented architecture, which allows multiple teams to work on the same product almost independently with the fewest possible failures.
+
+        The technology stack for this role is Apache Kafka, NodeJS, ExpressJS, TypeScript, Angular, GraphQL,
+        PostgreSQL, Git, Gitlab, docker, Jira plus a CI / CD infrastructure for each microservice built with TeamCity. The Kubernetes provider we use here is Rancher.
+
+        Later I was reassigned to another team called Dev Services, to participate in an initiative to cultivate the culture of Site Reliability Engineering or SRE, where I built a POC of a Chatbot for Microsoft Teams to support the teams in the procedures that they must have. . place in case of any outage.
+
+        For these purposes, I use Node, Express, and Microsoft Teams as my Chatbot provider.
+
+        Then I was asked to join the team that builds and maintains the rules engine, where I've been ever since. Here I built a maintenance to store AWS cloud configurations, I prototyped an HPA strategy based on the Kafka Consumer Lag metric, whereby pods in a namespace can automatically scale or descale, depending on load.
+
+        After that, I've been collaborating with Elsa, an open source library for creating applications based on workflows.
+
+        Here we use ASP NET Core 3.1, Apache Kafka, Elsa Workflows and PostgressQL.
+
     - role: Independent Consultant
       time: 2021 - Present
       company: Independent
@@ -125,26 +140,6 @@ experiences:
 
         This website is hosted in Heroku.
 
-    - role: Software Developer I
-      time: 2021 - present
-      company: Korewireless, Winnipeg
-      details: |
-        Kore is a company that provides IoT solutions for the telecommunications business. Among its clients we can name Orange, AT&T, Verizon and TMobile. During this time, work on the team developing the sim card provisioning process.
-
-        Provisioning, as well as other processes, developed and maintained by other teams, is done with a product called Connectivity Pro, which allows customers to manage their SIM cards.
-
-        What makes CPro great is its immense Microservices-oriented architecture, which allows multiple teams to work on the same product almost independently with the fewest possible failures.
-
-        The technology stack for this role is Apache Kafka, NodeJS, ExpressJS, TypeScript, Angular, GraphQL,
-        PostgreSQL, Git, Gitlab, docker, Jira plus a CI / CD infrastructure for each microservice built with TeamCity. The Kubernetes provider we use here is Rancher.
-
-        Later I was reassigned to another team called Dev Services, to participate in an initiative to cultivate the culture of Site Reliability Engineering or SRE, where I built a POC of a Chatbot for Microsoft Teams to support the teams in the procedures that they must have. . place in case of any outage.
-
-        For these purposes, I use Node, Express, and Microsoft Teams as my Chatbot provider.
-
-        Then I was asked to join the team that builds and maintains the rules engine, where I've been ever since.
-
-        Here we use ASP NET Core 3.1, Apache Kafka and PostgressQL.
     - role: React Native Developer
       time: 2021 - 2021
       company: Observe, Atlanta
@@ -245,6 +240,12 @@ projects:
 skills:
   title: What I can provide you
   toolset:
+    - name: C# + ASP NET CORE
+      level: 260
+    
+    - name: Angular + SSR
+      level: 320
+
     - name: Javascript & Typescript
       level: 250
     
@@ -257,15 +258,17 @@ skills:
     - name: Java + Servlets & JSP
       level: 250
     
-    - name: C# + ASP NET CORE
-      level: 220
-    
     - name: NodeJS & Express
       level: 300
-    
-    - name: Angular + SSR
-      level: 320
     
     - name: NodeJS & Strapi
       level: 150
     
+    - name: Apache Kafka
+      level: 180
+    
+    - name: Git
+      level: 180
+    
+    - name: Kubernetes | Rancher | Helm Charts
+      level: 180
