@@ -68,13 +68,13 @@ sidebar:
 career-profile:
     title: Meet My Career Profile
     summary: |
-      I am a software developer specialized mainly in the web. I am targeting companies in the telecommunications, outsourcing and any other kind of sector like yours, which need quality technological solutions, such as UI web applications built in from scratch, business management systems, job portals, landing pages, websites and chatbots, so that you can overcome market challenges, reduce costs, increase the efficiency of your processes, maximize your profits and the satisfaction of your clients.
+      I am a software developer specializing primarily in the web. I address companies in the telecommunications and outsourcing sector that need quality technological solutions, such as UI web applications, business management systems, job portals, landing pages, websites, web scrapers, whatsapp, instagram or telegram chatbots, so that You can overcome the challenges of the market, reduce costs, increase the efficiency of your processes, maximize your profits and the satisfaction of your customers.
 education:
     - degree: Software Development Technologist
       university: The Americas Institute Of Technology
       time: 2016 - 2019
 
-    - degree: English Course
+    - degree: English
       university: Apec University
       time: 2007 - 2011
 
@@ -85,10 +85,48 @@ education:
     - degree: C# 10 & .NET 6
       university: O'Reilly
       time: 2022 - 2022
+    
+    - degree: Web Scraping Fundamentals
+      university: Udemy
+      time: 2023 - 2023
+    
+    - degree: NextJS
+      university: Udemy
+      time: 2023 - present
+
+    - degree: React Native
+      university: Udemy
+      time: 2023 - present
+    
 experiences:
+    - role: Senior .NET Developer
+      time: 2023 - present 
+      company: Claro, Santo Domingo
+      details: |
+        Here I am part of the team of the online store, for which I implemented improvements in the user experience of the store, a new product search method, as well as the solution to several bugs that affected its correct functioning.
+
+        I carried out some investigations that ended with the implementation of new functionalities.
+
+        In addition, as part of the migration that is at hand, support the team in the planning, design and architecture of their new proposal.
+    
+    - role: Software Developer I
+      time: 2021 - 2023
+      company: Korewireless, Winnipeg
+      details: |
+        I developed a mechanism to transform the features of the products of different telephone companies to a standardized format by Kore, as well as a Microsoft Teams ChatBot to support the process of notifying customers in case of failures.
+
+        The technology stack for this role is Apache Kafka, NodeJS, ExpressJS, TypeScript, Angular, GraphQL,
+        PostgreSQL, Git, Gitlab, docker, Jira plus a CI / CD infrastructure for each microservice built with TeamCity. The Kubernetes provider we use here is Rancher.
+
+        Then I was asked to join the team that builds and maintains the rules engine. Here I built a maintenance to store AWS cloud configurations, I prototyped an HPA strategy based on the Kafka Consumer Lag metric, whereby pods in a namespace can automatically scale or descale, depending on load.
+
+        Here we used ASP NET Core 3.1, Apache Kafka, and PostgressQL most of the time. 
+
+        Then I migrated the vast majority of the services from the rules engine architecture to .NET 6, including the homemade libraries, which would later be published in an internal package manager.
+
     - role: Senior Java Developer
       time: 2022 - 2022
-      company: Claro / XpertCode, Santo Domingo
+      company: Claro, Santo Domingo
       details: |
         Recently, the General Manager of XpertCode SRL requested my reinstatement to join PAC, by its acronym in Spanish it means customer service project, whose mission is to unify the dense cloud of systems that run in the Claro network and that are used in the different customer service centers nationwide.
 
@@ -100,30 +138,7 @@ experiences:
 
         In this project we use Java, JSF, Apache Maven, Web Logic and Oracle.  
 
-    - role: Software Developer I
-      time: 2021 - present
-      company: Korewireless, Winnipeg
-      details: |
-        Kore is a company that provides IoT solutions for the telecommunications business. Among its clients we can name Orange, AT&T, Verizon and TMobile. During this time, work on the team developing the sim card provisioning process.
-
-        Provisioning, as well as other processes, developed and maintained by other teams, is done with a product called Connectivity Pro, which allows customers to manage their SIM cards.
-
-        What makes CPro great is its immense Microservices-oriented architecture, which allows multiple teams to work on the same product almost independently with the fewest possible failures.
-
-        The technology stack for this role is Apache Kafka, NodeJS, ExpressJS, TypeScript, Angular, GraphQL,
-        PostgreSQL, Git, Gitlab, docker, Jira plus a CI / CD infrastructure for each microservice built with TeamCity. The Kubernetes provider we use here is Rancher.
-
-        Later I was reassigned to another team called Dev Services, to participate in an initiative to cultivate the culture of Site Reliability Engineering or SRE, where I built a POC of a Chatbot for Microsoft Teams to support the teams in the procedures that they must have. . place in case of any outage.
-
-        For these purposes, I use Node, Express, and Microsoft Teams as my Chatbot provider.
-
-        Then I was asked to join the team that builds and maintains the rules engine, where I've been ever since. Here I built a maintenance to store AWS cloud configurations, I prototyped an HPA strategy based on the Kafka Consumer Lag metric, whereby pods in a namespace can automatically scale or descale, depending on load.
-
-        After that, I've been collaborating with Elsa, an open source library for creating applications based on workflows.
-
-        Here we use ASP NET Core 3.1, Apache Kafka, Elsa Workflows and PostgressQL.
-
-    - role: Independent Consultant
+    - role: Angular & NodeJS Projects
       time: 2021 - Present
       company: Independent
       details: |
@@ -273,11 +288,14 @@ skills:
     - name: NodeJS & Strapi
       level: 150
     
+    - name: NodeJS & NestJS
+      level: 200
+    
     - name: Apache Kafka
       level: 180
     
     - name: Git
       level: 180
     
-    - name: Kubernetes | Rancher | Helm Charts
+    - name: Kubernetes
       level: 180
