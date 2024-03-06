@@ -134,7 +134,7 @@ experiences:
       time: 2022 - 2022
       company: Claro, Remote
       details: |
-        Support the centralized composition of different source systems used in the operations of the different digital channels, dispersed throughout the national geography.
+        Give support to the centralized composition of different source systems used from the digital channel division, into the Attention Client Portal (PAC), dispersed throughout the national geography.
 
         Expand the functionality of the postpaid suspension, sales management and administration console modules.
 
@@ -145,17 +145,17 @@ experiences:
       time: 2021 - Present
       company: Independent
       details: |
-        A social media scheduling app, powered with OpenAI.
+        Social media scheduling app, powered with OpenAI.
 
-        A RESTful API as a layer for sending messages in Batch through the WhatsApp Business API.
+        RESTful API as a layer for sending messages in Batch through the WhatsApp Business API.
 
-        A Landing Page for the Pulmonary Hypertension Foundation of the Dominican Republic.
+        Landing Page for the Pulmonary Hypertension Foundation of the Dominican Republic.
 
-        A Landing Page for a Dominican private security company, of French origin.
+        Landing Page for a Dominican private security company, of French origin.
 
-        A Landing Page for a company that sells medical equipment.
+        Landing Page for a company that sells medical equipment.
 
-        A Landing Page for a call center.
+        Landing Page for a call center.
 
         [ In this role, NodeJS, NestJS, Angular, MongoDB, Relational Databases are used ] 
     - role: React Native Developer
@@ -173,7 +173,7 @@ experiences:
 
         Define the new architecture and implement the migration of the Graphical Interface of a job portal called Jobs.
 
-        [ In this role, Angular, HTML, CSS, TypeScript, RxJS, Ajax, Xtreme Admin Template are used ]
+        [ In this role, Angular, HTML, CSS, TypeScript, RxJS, Ajax, are used ]
     - role: Software Developer II
       time: 2020 - 2020
       company: Verizon Enterprise, Remote
@@ -189,7 +189,7 @@ experiences:
       time: 2019 - 2020
       company: Claro, Santo Domingo
       details: |
-          Redesign a project called Digital Forms, a composite service / component based application that runs on every client attention center of the national geography.
+          Redesign a project called Digital Forms, a composite service / component based web application that runs on every client attention center of the national geography.
           
           Retrieve transactions made on five different information systems of the company, map them into digital forms that will lately send to the customer by email on PDF Format.
 
