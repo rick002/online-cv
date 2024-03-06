@@ -8,7 +8,7 @@ sidebar:
 
     # Profile information
     name: Ricardo Osorio
-    tagline: Software Development Consultant for Telecommunications & Outsourcing.
+    tagline: Senior Software Engineer for Telecommunications & Outsourcing.
     avatar: ricardo-profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -28,7 +28,10 @@ sidebar:
         level: Native
 
     concepts:
-      - item: Design Patterns
+      - item: Microservices
+        link:
+
+      - item: Open API
         link:
       
       - item: CI/CD Pipelines
@@ -37,38 +40,35 @@ sidebar:
       - item: Git Operations
         link:
       
-      - item: REST APIs Design
+      - item: APIs Design
         link:
       
       - item: Containers Based Clusters
+        link:
+      
+      - item: Cloud Native Development
+        link:
+
+      - item: Design Patterns
+        link:
+      
+      - item: CI/CD Pipelines
         link:
 
     interests:
       - item: User Interface/User Experience
         link:
-
-      - item: 3D experiences & Animations
-        link:
-
-      - item: Ubisoft Video Games
-        link:
-
-      - item: Internet of Things
-        link:
-
-      - item: Virtual Reality
+      
+      - item: Philosophy
         link:
       
-      - item: Augmented Reality
-        link:
-
-      - item: Philosophy
+      - item: Anthropology
         link:
 
 career-profile:
     title: Meet My Career Profile
     summary: |
-      I am a software developer specializing primarily in the web. I address companies in the telecommunications and outsourcing sector that need quality technological solutions, such as UI web applications, business management systems, job portals, landing pages, websites, web scrapers, whatsapp, instagram or telegram chatbots, so that You can overcome the challenges of the market, reduce costs, increase the efficiency of your processes, maximize your profits and the satisfaction of your customers.
+      I am a Senior Software Engineer specialized primarily in cloud and web solutions. I address companies in any sector that need quality technological solutions, such as web applications, business management systems, job portals, landing pages, websites, web scrapers, conversational interfaces and integration layers, so that they can overcome the challenges of the market, reduce costs, increase the efficiency of its processes, maximize its profits and the satisfaction of its customers.
 education:
     - degree: Software Development Technologist
       university: The Americas Institute Of Technology
@@ -77,225 +77,186 @@ education:
     - degree: English
       university: Apec University
       time: 2007 - 2011
-
-    - degree: NestJS Fundamentals
-      university: Nest.JS Org
-      time: 2022 - 2022
-    
-    - degree: C# 10 & .NET 6
-      university: O'Reilly
-      time: 2022 - 2022
-    
-    - degree: Web Scraping Fundamentals
-      university: Udemy
-      time: 2023 - 2023
     
     - degree: NextJS
       university: Udemy
-      time: 2023 - present
+      time: 2023 - 2023
 
     - degree: React Native
       university: Udemy
-      time: 2023 - present
+      time: 2021 - 2021
+    
+    - degree: React
+      university: Udemy
+      time: 2021 - 2021
     
 experiences:
-    - role: Senior .NET Developer
-      time: 2023 - present 
+    - role: Engineer IV / Integrations Engineer
+      time: 2024 - present
       company: Claro, Santo Domingo
       details: |
-        Here I am part of the team of the online store, for which I implemented improvements in the user experience of the store, a new product search method, as well as the solution to several bugs that affected its correct functioning.
+        Work on the design and implementation of architectures oriented to microservices that serve as integration layers, respecting architectural standards.
 
-        I carried out some investigations that ended with the implementation of new functionalities.
+        Configure proxies in Apigee to connect services external to the organization to Claro's infrastructure as part of the integration layers.
 
-        In addition, as part of the migration that is at hand, support the team in the planning, design and architecture of their new proposal.
-    
+        [ In this role, Java, Quarkus, Spring Boot, Apache Camel, Apache Kafka, Relational Databases, Kubernetes, and Apigee are used ]
+    - role: Senior .NET Developer
+      time: 2023 - 2024
+      company: Claro, Santo Domingo
+      details: |
+        Design and implement a resilient integration with esim migration services for prepaid & postpaid customers.
+
+        Design and implement a plugin for the creation of automatic cases in the mobile breakdown system, for failed mobile provisioning orders.
+
+        Work on the design and implementation of different improvements to the user experience of the Claro Dominicana online store.
+
+        Design a search method for products capable of providing suggestions of the products added in a period of six months consistent with the search.
+
+        Provide several improvements for bugs in production.
+
+        [ In this role, .NET, C#, NopCommerce, Relational Databases are used ] 
     - role: Software Developer I
       time: 2021 - 2023
-      company: Korewireless, Winnipeg
+      company: Korewireless, Remote
       details: |
-        I developed a mechanism to transform the features of the products of different telephone companies to a standardized format by Kore, as well as a Microsoft Teams ChatBot to support the process of notifying customers in case of failures.
+        Work on a maintenance and transformation process of product features from different telephone companies into a common format.
 
-        The technology stack for this role is Apache Kafka, NodeJS, ExpressJS, TypeScript, Angular, GraphQL,
-        PostgreSQL, Git, Gitlab, docker, Jira plus a CI / CD infrastructure for each microservice built with TeamCity. The Kubernetes provider we use here is Rancher.
+        A Chatbot for Microsoft Teams to help the organization during the process of to notify customers in case of scheduled system failures and outages.
 
-        Then I was asked to join the team that builds and maintains the rules engine. Here I built a maintenance to store AWS cloud configurations, I prototyped an HPA strategy based on the Kafka Consumer Lag metric, whereby pods in a namespace can automatically scale or descale, depending on load.
+        Enable a RESTful services layer for storing configurations of the different cloud services connected to the Rules Engine.
 
-        Here we used ASP NET Core 3.1, Apache Kafka, and PostgressQL most of the time. 
+        Deploy a Kubernetes HPA based on Kafka Consumer Lag metrics to scale and descale cluster pods based on network traffic automatically.
 
-        Then I migrated the vast majority of the services from the rules engine architecture to .NET 6, including the homemade libraries, which would later be published in an internal package manager.
+        Migrate the vast majority of Rules Engine services from .NET Core 3.1 to .NET 6, including home-brewed libraries.
 
+        [ In this role, .NET, C#, Kafka, Kubernetes, NodeJS, Angular, Relational Databases are used ] 
     - role: Senior Java Developer
       time: 2022 - 2022
-      company: Claro, Santo Domingo
+      company: Claro, Remote
       details: |
-        Recently, the General Manager of XpertCode SRL requested my reinstatement to join PAC, by its acronym in Spanish it means customer service project, whose mission is to unify the dense cloud of systems that run in the Claro network and that are used in the different customer service centers nationwide.
+        Support the centralized composition of different source systems used in the operations of the different digital channels, dispersed throughout the national geography.
 
-        During my time in the team, I built considerable improvements in the postpaid suspension modules and the maintenance of some configurations in the administration console.
+        Expand the functionality of the postpaid suspension, sales management and administration console modules.
 
-        As part of the improvements implemented, I worked on the creation of a history of offers, whose data is stored in a cloud solution called Neon, created by a Latin American company called FlyTxT.
+        Design and implement an integration module with Neon from FlyTXT, to obtain offers enabled for the client, during the course of an advertising campaign.
 
-        For these purposes, I developed an In House integration solution consisting of an access layer for Neon services and an XML to Java Beans parser.
-
-        In this project we use Java, JSF, Apache Maven, Web Logic and Oracle.  
-
-    - role: Angular & NodeJS Projects
+        [ In this role, Java, JSF, SOAP, Maven, REST, Relational Databases are used ] 
+    - role: Independent Consultant
       time: 2021 - Present
       company: Independent
       details: |
-        As part of my work as an independent consultant I have developed web-based solutions for small businesses, entrepreneurs and the pulmonary hypertension foundation of the Dominican Republic.
+        A social media scheduling app, powered with OpenAI.
 
-        In this regard, I can list the following projects...
+        A RESTful API as a layer for sending messages in Batch through the WhatsApp Business API.
 
-        Prometheus:
+        A Landing Page for the Pulmonary Hypertension Foundation of the Dominican Republic.
 
-        I developed a Rest API for an automation app to send messages to multiple contacts on WhatsApp with Express JS.
+        A Landing Page for a Dominican private security company, of French origin.
 
-        To do this, I connected the API to 360 Dialog, a WhatsApp Business API integration service built for that purpose.
+        A Landing Page for a company that sells medical equipment.
 
-        For this project I used NodeJS with Express, 360 Dialog, Firebase and NPM.
+        A Landing Page for a call center.
 
-        Pulmonary Hypertension Foundation of the Dominican Republic:
-        
-        I rebuilt the foundation's website, as part of the improvement of its positioning strategy on the web, using Angular SSR.
-
-        In addition to that, the website has a contact form through which rare lung disease patients can fill out, and thereby obtain help with the treatment of their disease.
-
-        These messages are sent directly to the foundation's email, through an email sending module built with Express JS and Nodemailer.
-
-        This website is hosted in Heroku.
-
+        [ In this role, NodeJS, NestJS, Angular, MongoDB, Relational Databases are used ] 
     - role: React Native Developer
       time: 2021 - 2021
-      company: Observe, Atlanta
+      company: Observe, Remote
       details: |
-        Here again I worked in a multicultural team of three members, 
-        a UI / UX designer and two Developers, two of them based in Atlanta and the third, 
-        who is me, here in the Dominican Republic. 
-        
-        We followed an Agile approach with Sprints and Daily Meetings, 
-        during which each one discussed what they had accomplished, the blocking factors, and the next step on the agenda. 
-        My job consisted of receiving tickets of a specific price, preparing the screens, 
-        passing the evaluations and delivering the code. 
+        Prototype the screens for the mobile application of an e-learning platform called Observe.
 
-        For this we use React Native, GIT, Vs Code, Github, Android, IOS, Jira and our own library of UI components. 
-        We develop both on Mac OS and Linux.
+        [ In this role, NodeJS, React Native, Expo, Firebase are used ]
     - role: Angular Developer
       time: 2020 - 2021
       company: Call Center Pros, Santo Domingo
       details: |
-        In Call Center Pros we were working on the next release of
-        their CRM (Lacsy). 
-        
-        This project pretends to solve all of the
-        companys problems and then to be sell to our clients,
-        Winopoly, Banesco, Get A Room and so on. I have been
-        signed to migrate the current version of the app built in
-        MVC to a standalone component based web application.
+        Define the new architecture and implement the migration of the Graphical Interface of a CRM called Laczy.
 
-        So this is my stack now, VS Code, Angular 10, Typescript, HTML,
-        GIT, Bootstrap 4, NPM, PrimeNG, Xtreme (a Visual Template) and
-        the best practices that I can come up with.
+        Define the new architecture and implement the migration of the Graphical Interface of a job portal called Jobs.
+
+        [ In this role, Angular, HTML, CSS, TypeScript, RxJS, Ajax, Xtreme Admin Template are used ]
     - role: Software Developer II
       time: 2020 - 2020
-      company: Verizon Enterprise, USA
+      company: Verizon Enterprise, Remote
       details: |
-        Here I gave support to the Verizons portal migrations,
-        from the Ext JS version to a new version written in angular.
+        Give support to the Verizons portal migration to the 3.0 version.
 
-        My tasks were to migrate part of the Admin Tool, a set of
-        tools for admin users, and the Ban Maintenance Module, a
-        set of screens designed to perform different kinds of
-        operations over the customers Billing Account Numbers
-        (BANs). 
+        Migrate Administration Tool, a set of tools for Verizons portal administrator users.
+
+        Migrate the BAN maintenance module, a set of views designed to operate on the Billing Account Numbers of the carrier's clients.
         
-        In order to reach my goals in this role, I have worked
-        with VS Code, Angular 5, Typescript, HTML, Bootstrap 4,
-        GIT, NPM and PrimeNG.
+        [ In this role, Angular, HTML, CSS, TypeScript, RxJS, Ajax, PrimeNG are used ]
     - role: Java Developer
       time: 2019 - 2020
-      company: Claro / XpertCode, Santo Domingo
+      company: Claro, Santo Domingo
       details: |
-          I was in charge of maintain a project called Digital Forms
-          that runs on every client attention center of the national
-          geography. 
+          Redesign a project called Digital Forms, a composite service / component based application that runs on every client attention center of the national geography.
           
-          Its base functionality is to retrieve transactions
-          made on five different information systems of the
-          company, then map them into a digital form that will lately
-          send to the customer by email on PDF Format.
+          Retrieve transactions made on five different information systems of the company, map them into digital forms that will lately send to the customer by email on PDF Format.
 
-          For this purpose I used to make UML representations of the
-          modules and packages (or build them from scratch if the
-          situation required it). 
+          Model UML representations of the application flows and entities, apply OO Design principles and patterns according to the problem at hand, reducing implementation time from one week to one hour.
 
-          I was work with all of the OO Design principles and patterns that I found could fix those
-          problems. 
-          
-          The digital forms technical stack was composed
-          by: Java, wicket, maven, IntelliJ, JDBC, Spring Container,
-          HTML, Bootstrap 4 and GIT.
-      
-          
+          [ In this role, Java, Wicket, Maven, JDBC, Spring DI Container, HTML, CSS are used ]
+
 projects:
-    title: Check my portfolio
+    title: My Portfolio
     intro: >
-      These are a just a few projects of my portfolio that you may like to see, just click on the titles.
+      These are a just a few projects of my portfolio that you may like to see.
     assignments:
       - title: Albums
-        link: "https://www.linkedin.com/posts/ricardo-osorio-soto-32b450183_masteringabrtech-activity-6809633629484965888-Ls-7?utm_source=linkedin_share&utm_medium=member_desktop_web"
+        link: "https://www.linkedin.com/posts/ricardo-osorio-32b450183_masteringabrtech-activity-6809633629484965888-Ls-7?utm_source=linkedin_share&utm_medium=member_desktop_web"
         tagline: "An album application for android, built in react native (UI Only)."
 
       - title: Make Me
-        link: "https://www.linkedin.com/posts/ricardo-osorio-soto-32b450183_masteringabrtech-activity-6809169309651271680-VTZK?utm_source=linkedin_share&utm_medium=member_desktop_web"
+        link: "https://www.linkedin.com/posts/ricardo-osorio-32b450183_masteringabrtech-activity-6809169309651271680-VTZK?utm_source=linkedin_share&utm_medium=member_desktop_web"
         tagline: "A todo list application for android, built in react native."
 
       - title: Telegram Chatbot
-        link: "https://www.linkedin.com/posts/ricardo-osorio-soto-32b450183_telecomunicaciones-interfaces-bots-activity-6871432974882144256-5qap?utm_source=linkedin_share&utm_medium=member_desktop_web"
+        link: "https://www.linkedin.com/posts/ricardo-osorio-32b450183_telecomunicaciones-interfaces-bots-activity-6871432974882144256-5qap?utm_source=linkedin_share&utm_medium=member_desktop_web"
         tagline: "An echo telegram chatbot built in with telegraf and express js."
 
       - title: Cafe Oslo
-        link: "https://www.linkedin.com/posts/ricardo-osorio-soto-32b450183_masteringabrtech-activity-6789607378967949312-3_Yg?utm_source=linkedin_share&utm_medium=member_desktop_web"
+        link: "https://www.linkedin.com/posts/ricardo-osorio-32b450183_masteringabrtech-activity-6789607378967949312-3_Yg?utm_source=linkedin_share&utm_medium=member_desktop_web"
         tagline: "A responsive landing page built in completely with HTML5 & CSS3"
       
       - title: FHPRD New Website
-        link: "https://fundacionhprd.herokuapp.com/"
+        link: "https://fundacionhprd.org/"
         tagline: "Landing of the Pulmonary Hypertension Foundation of the Dominican Republic"
 
 skills:
-  title: What I can provide you
+  title: Skills
   toolset:
-    - name: C# + ASP NET CORE
-      level: 260
-    
-    - name: Angular + SSR
-      level: 320
-
     - name: Javascript & Typescript
       level: 250
     
-    - name: Java + JSF
-      level: 230
-
-    - name: Java + Apache Wicket
-      level: 230
+    - name: C#
+      level: 260
     
-    - name: Java + Servlets & JSP
-      level: 250
+    - name: Java
+      level: 280
     
-    - name: NodeJS & Express
+    - name: Angular
+      level: 290
+    
+    - name: React
+      level: 280
+    
+    - name: React Native
+      level: 280
+    
+    - name: NodeJS
       level: 300
     
-    - name: NodeJS & Strapi
-      level: 150
+    - name: Strapi.JS
+      level: 250
     
-    - name: NodeJS & NestJS
-      level: 200
+    - name: NestJS
+      level: 300
     
     - name: Apache Kafka
-      level: 180
+      level: 200
     
     - name: Git
-      level: 180
+      level: 200
     
     - name: Kubernetes
-      level: 180
+      level: 200
