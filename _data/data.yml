@@ -173,7 +173,7 @@ experiences:
 
         Define the new architecture and implement the migration of the Graphical Interface of a job portal called Jobs.
 
-        [ In this role, Angular, HTML, CSS, TypeScript, RxJS, Ajax, are used ]
+        [ In this role, Angular, HTML, CSS, TypeScript, RxJS, Ajax, REST are used ]
     - role: Software Developer II
       time: 2020 - 2020
       company: Verizon Enterprise, Remote
