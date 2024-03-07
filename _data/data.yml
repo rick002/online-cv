@@ -225,6 +225,10 @@ projects:
       - title: Meal Trip
         link: "https://www.linkedin.com/feed/update/urn:li:activity:6788920543484674048/"
         tagline: "A hero visual component with a background video completely in HTML5 & CSS3."
+      
+      - title: Online Store
+        link: "https://tienda.claro.com.do/"
+        tagline: "An Ecommerce platform, for the biggest telecomunications company of DR."
 
 skills:
   title: Skills
