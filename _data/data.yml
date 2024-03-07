@@ -203,29 +203,42 @@ projects:
       These are a just a few projects of my portfolio that you may like to see.
     assignments:
       - title: Albums
-        link: "https://www.linkedin.com/posts/ricardo-osorio-32b450183_masteringabrtech-activity-6809633629484965888-Ls-7?utm_source=linkedin_share&utm_medium=member_desktop_web"
+        link: "https://www.linkedin.com/feed/update/urn:li:activity:6809633629484965888/"
         tagline: "An album application for android, built in react native (UI Only)."
 
       - title: Make Me
-        link: "https://www.linkedin.com/posts/ricardo-osorio-32b450183_masteringabrtech-activity-6809169309651271680-VTZK?utm_source=linkedin_share&utm_medium=member_desktop_web"
+        link: "https://www.linkedin.com/feed/update/urn:li:activity:6809169309651271680/"
         tagline: "A todo list application for android, built in react native."
 
       - title: Telegram Chatbot
-        link: "https://www.linkedin.com/posts/ricardo-osorio-32b450183_telecomunicaciones-interfaces-bots-activity-6871432974882144256-5qap?utm_source=linkedin_share&utm_medium=member_desktop_web"
+        link: "https://www.linkedin.com/feed/update/urn:li:activity:6871432974882144256/"
         tagline: "An echo telegram chatbot built in with telegraf and express js."
 
       - title: Cafe Oslo
-        link: "https://www.linkedin.com/posts/ricardo-osorio-32b450183_masteringabrtech-activity-6789607378967949312-3_Yg?utm_source=linkedin_share&utm_medium=member_desktop_web"
-        tagline: "A responsive landing page built in completely with HTML5 & CSS3"
+        link: "https://www.linkedin.com/feed/update/urn:li:activity:6789607378967949312/"
+        tagline: "A responsive landing page built in completely with HTML5 & CSS3."
       
       - title: FHPRD New Website
         link: "https://fundacionhprd.org/"
-        tagline: "Landing of the Pulmonary Hypertension Foundation of the Dominican Republic"
+        tagline: "Landing of the Pulmonary Hypertension Foundation of the Dominican Republic."
+      
+      - title: Meal Trip
+        link: "https://www.linkedin.com/feed/update/urn:li:activity:6788920543484674048/"
+        tagline: "A hero visual component with a background video completely in HTML5 & CSS3."
 
 skills:
   title: Skills
   toolset:
-    - name: Javascript & Typescript
+    - name: HTML
+      level: 280
+
+    - name: CSS
+      level: 280
+
+    - name: Javascript
+      level: 250
+    
+    - name: TypeScript
       level: 250
     
     - name: C#
@@ -260,3 +273,6 @@ skills:
     
     - name: Kubernetes
       level: 200
+    
+    - name: Apigee
+      level: 150
