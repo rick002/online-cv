@@ -99,7 +99,7 @@ experiences:
 
         Configure proxies in Apigee to connect services external to the organization to Claro's infrastructure as part of the integration layers.
 
-        [ In this role, Java, Quarkus, Spring Boot, Apache Camel, Apache Kafka, Relational Databases, Kubernetes, and Apigee are used ]
+        [ In this role, Java, Quarkus, Spring Boot, Maven, Camel, Kafka, Relational Databases, Kubernetes, OpenAPI, SOAP, GraphQL, Apigee are used ]
     - role: Senior .NET Developer
       time: 2023 - 2024
       company: Claro, Santo Domingo
@@ -114,7 +114,7 @@ experiences:
 
         Provide several improvements for bugs in production.
 
-        [ In this role, .NET, C#, NopCommerce, Relational Databases are used ] 
+        [ In this role, .NET, C#, NopCommerce, HTML, CSS, Knockout.JS, ReactJS, MVC, Relational Databases are used ] 
     - role: Software Developer I
       time: 2021 - 2023
       company: Korewireless, Remote
@@ -129,7 +129,7 @@ experiences:
 
         Migrate the vast majority of Rules Engine services from .NET Core 3.1 to .NET 6, including home-brewed libraries.
 
-        [ In this role, .NET, C#, Kafka, Kubernetes, NodeJS, Angular, Relational Databases are used ] 
+        [ In this role, .NET, C#, Kafka, Kubernetes, NodeJS, Angular, GraphQL, OpenAPI, Relational Databases are used ] 
     - role: Senior Java Developer
       time: 2022 - 2022
       company: Claro, Remote
@@ -218,7 +218,7 @@ projects:
         link: "https://www.linkedin.com/feed/update/urn:li:activity:6789607378967949312/"
         tagline: "A responsive landing page built in completely with HTML5 & CSS3."
       
-      - title: FHPRD New Website
+      - title: Foundation Landing
         link: "https://fundacionhprd.org/"
         tagline: "Landing of the Pulmonary Hypertension Foundation of the Dominican Republic."
       
@@ -275,4 +275,19 @@ skills:
       level: 200
     
     - name: Apigee
+      level: 150
+    
+    - name: Railway
+      level: 250
+    
+    - name: Firebase
+      level: 200
+    
+    - name: Heroku
+      level: 200
+    
+    - name: GraphQL
+      level: 230
+    
+    - name: Figma
       level: 150
