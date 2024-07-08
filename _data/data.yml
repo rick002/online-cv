@@ -8,7 +8,7 @@ sidebar:
 
     # Profile information
     name: Ricardo Osorio
-    tagline: Senior Software Engineer for Telecommunications & Outsourcing.
+    tagline: Senior Software Engineer for Telecommunications & BPO.
     avatar: ricardo-profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -32,6 +32,9 @@ sidebar:
         link:
 
       - item: Open API
+        link:
+
+       - item: TMForum
         link:
       
       - item: CI/CD Pipelines
@@ -68,7 +71,7 @@ sidebar:
 career-profile:
     title: Meet My Career Profile
     summary: |
-      I am a Senior Software Engineer specialized primarily in cloud and web solutions. I address companies in any sector that need quality technological solutions, such as web applications, business management systems, job portals, landing pages, websites, web scrapers, conversational interfaces and integration layers, so that they can overcome the challenges of the market, reduce costs, increase the efficiency of its processes, maximize its profits and the satisfaction of its customers.
+      I am a Senior Software Engineer specialized mainly in web, cloud and mobile solutions. I address companies in the Telecommunications and BPO sector that need quality technological solutions, such as web applications, mobile applications, CRMs, ERPs, job portals, landing pages, web scrapers, virtual assistants and integration layers, so that they can overcome market challenges, reduce costs, increase the efficiency of their processes, maximize benefits and customer satisfaction.
 education:
     - degree: Software Development Technologist
       university: The Americas Institute Of Technology
@@ -78,18 +81,6 @@ education:
       university: Apec University
       time: 2007 - 2011
     
-    - degree: NextJS
-      university: Udemy
-      time: 2023 - 2023
-
-    - degree: React Native
-      university: Udemy
-      time: 2021 - 2021
-    
-    - degree: React
-      university: Udemy
-      time: 2021 - 2021
-    
 experiences:
     - role: Engineer IV / Integrations Engineer
       time: 2024 - present
@@ -97,9 +88,11 @@ experiences:
       details: |
         Work on the design and implementation of architectures oriented to microservices that serve as integration layers, respecting architectural standards.
 
+        I successfully implemented a metadata query service, used by all customer-facing systems, which run in all centers of the national geography, in order to standardize the format of the data that travels through the entire infrastructure of the business.
+
         Configure proxies in Apigee to connect services external to the organization to Claro's infrastructure as part of the integration layers.
 
-        [ In this role, Java, Quarkus, Spring Boot, Maven, Camel, Kafka, Relational Databases, Kubernetes, OpenAPI, SOAP, GraphQL, Apigee are used ]
+        [ In this role, Java, Quarkus, Spring Boot, Maven, Camel, Kafka, SQL DBs, Kubernetes, OpenAPI, SOAP, Apigee are used ]
     - role: Senior .NET Developer
       time: 2023 - 2024
       company: Claro, Santo Domingo
@@ -119,17 +112,17 @@ experiences:
       time: 2021 - 2023
       company: Korewireless, Remote
       details: |
-        Work on a maintenance and transformation process of product features from different telephone companies into a common format.
+        Work on a maintenance and transformation process of product features from different carriers into a common format.
 
-        A Chatbot for Microsoft Teams to help the organization during the process of to notify customers in case of scheduled system failures and outages.
+        A Chatbot for Microsoft Teams to help the organization during the process of notifying customers in case of scheduled system failures and outages.
 
-        Enable a RESTful services layer for storing configurations of the different cloud services connected to the Rules Engine.
+        Enable a RESTful service layer for storing configurations of different cloud services connected to the Kores Rules Engine.
 
-        Deploy a Kubernetes HPA based on Kafka Consumer Lag metrics to scale and descale cluster pods based on network traffic automatically.
+        Deploy a Kubernetes HPA based on the Kafka Consumer Lag to scale and descale cluster pods based on network traffic automatically.
 
         Migrate the vast majority of Rules Engine services from .NET Core 3.1 to .NET 6, including home-brewed libraries.
 
-        [ In this role, .NET, C#, Kafka, Kubernetes, NodeJS, Angular, GraphQL, OpenAPI, Relational Databases are used ] 
+        [ In this role, .NET, C#, Kafka, Kubernetes, NodeJS, Angular, GraphQL, OpenAPI, SQL DBs are used ] 
     - role: Senior Java Developer
       time: 2022 - 2022
       company: Claro, Remote
@@ -138,26 +131,28 @@ experiences:
 
         Expand the functionality of the postpaid suspension, sales management and administration console modules.
 
-        Design and implement an integration module with Neon from FlyTXT, to obtain offers enabled for the client, during the course of an advertising campaign.
+        Design and implement an integration module with Neon from FlyTXT, to obtain offers enabled for the client, during the course of Inbound & Outbound advertising campaigns.
 
         [ In this role, Java, JSF, SOAP, Maven, REST, Relational Databases are used ] 
     - role: Independent Consultant
       time: 2021 - Present
       company: Independent
       details: |
-        Social media scheduling app, powered with OpenAI.
+        Social media scheduling app, powered by Artificial Intelligence, for Twitter content creation.
 
-        RESTful API as a layer for sending messages in Batch through the WhatsApp Business API.
+        RESTful API as a layer for sending messages in Batch mode through the WhatsApp Business API.
 
         Landing Page for the Pulmonary Hypertension Foundation of the Dominican Republic.
 
-        Landing Page for a Dominican private security company, of French origin.
+        Landing Page for the first French-Dominican security company.
 
         Landing Page for a company that sells medical equipment.
 
         Landing Page for a call center.
 
-        [ In this role, NodeJS, NestJS, Angular, MongoDB, Relational Databases are used ] 
+        Landing page for personal branding for an insurance and real estate agent.
+
+        [ In this role, NodeJS, NestJS, Angular, MongoDB, SQL DBs are used ] 
     - role: React Native Developer
       time: 2021 - 2021
       company: Observe, Remote
@@ -178,7 +173,7 @@ experiences:
       time: 2020 - 2020
       company: Verizon Enterprise, Remote
       details: |
-        Give support to the Verizons portal migration to the 3.0 version.
+        Give support to the Verizons portal migration.
 
         Migrate Administration Tool, a set of tools for Verizons portal administrator users.
 
@@ -189,11 +184,11 @@ experiences:
       time: 2019 - 2020
       company: Claro, Santo Domingo
       details: |
-          Redesign a project called Digital Forms, a composite service / component based web application that runs on every client attention center of the national geography.
+          Redesign a project called Digital Forms, a composite service & component based web application that runs on every client attention center of the national geography.
           
           Retrieve transactions made on five different information systems of the company, map them into digital forms that will lately send to the customer by email on PDF Format.
 
-          Model UML representations of the application flows and entities, apply OO Design principles and patterns according to the problem at hand, reducing implementation time from one week to one hour.
+          Model UML representations of the application flows and entities, apply OO Design principles and patterns, reducing implementation time from one week to one hour.
 
           [ In this role, Java, Wicket, Maven, JDBC, Spring DI Container, HTML, CSS are used ]
 
@@ -218,7 +213,7 @@ projects:
         link: "https://www.linkedin.com/feed/update/urn:li:activity:6789607378967949312/"
         tagline: "A responsive landing page built in completely with HTML5 & CSS3."
       
-      - title: Foundation Landing
+      - title: Foundation
         link: "https://fundacionhprd.org/"
         tagline: "Landing of the Pulmonary Hypertension Foundation of the Dominican Republic."
       
@@ -226,9 +221,10 @@ projects:
         link: "https://www.linkedin.com/feed/update/urn:li:activity:6788920543484674048/"
         tagline: "A hero visual component with a background video completely in HTML5 & CSS3."
       
-      - title: Online Store
-        link: "https://tienda.claro.com.do/"
-        tagline: "An Ecommerce platform, for the biggest telecomunications company of DR."
+      - title: Prevendom
+        link: "https://www.prevendom.com/"
+        tagline: "Landing Page for the first French-Dominican security company."
+      
 
 skills:
   title: Skills
@@ -240,19 +236,19 @@ skills:
       level: 280
 
     - name: Javascript
-      level: 250
+      level: 400
     
     - name: TypeScript
-      level: 250
+      level: 350
     
     - name: C#
-      level: 260
+      level: 300
     
     - name: Java
-      level: 280
+      level: 410
     
     - name: Angular
-      level: 290
+      level: 320
     
     - name: React
       level: 280
@@ -261,16 +257,16 @@ skills:
       level: 280
     
     - name: NodeJS
-      level: 300
+      level: 400
     
     - name: Strapi.JS
-      level: 250
+      level: 300
     
     - name: NestJS
       level: 300
     
     - name: Apache Kafka
-      level: 200
+      level: 250
     
     - name: Git
       level: 200
@@ -282,16 +278,16 @@ skills:
       level: 150
     
     - name: Railway
-      level: 250
+      level: 300
     
     - name: Firebase
-      level: 200
+      level: 300
     
     - name: Heroku
-      level: 200
+      level: 300
     
     - name: GraphQL
-      level: 230
+      level: 380
     
     - name: Figma
-      level: 150
+      level: 200
