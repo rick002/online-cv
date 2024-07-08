@@ -34,7 +34,7 @@ sidebar:
       - item: Open API
         link:
 
-       - item: TMForum
+      - item: TMForum
         link:
       
       - item: CI/CD Pipelines
