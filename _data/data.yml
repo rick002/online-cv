@@ -236,16 +236,16 @@ skills:
       level: 280
 
     - name: Javascript
-      level: 400
+      level: 330
     
     - name: TypeScript
-      level: 350
+      level: 320
     
     - name: C#
       level: 300
     
     - name: Java
-      level: 410
+      level: 350
     
     - name: Angular
       level: 320
@@ -257,7 +257,7 @@ skills:
       level: 280
     
     - name: NodeJS
-      level: 400
+      level: 340
     
     - name: Strapi.JS
       level: 300
@@ -281,13 +281,13 @@ skills:
       level: 300
     
     - name: Firebase
-      level: 300
+      level: 260
     
     - name: Heroku
-      level: 300
+      level: 250
     
     - name: GraphQL
-      level: 380
+      level: 300
     
     - name: Figma
       level: 200
