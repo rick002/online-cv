@@ -1,219 +1,235 @@
-#
-# Be aware that even a small syntax error here can lead to failures in output.
-#
-
 sidebar:
-    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
-    education: False # set to False if you want education in main section instead of in sidebar
+  about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
+  education: False # set to False if you want education in main section instead of in sidebar
 
-    # Profile information
-    name: Ricardo Osorio
-    tagline: Senior Software Engineer for Telecommunications & BPO.
-    avatar: ricardo-profile.png  # place a 100x100 picture inside the /assets/images/ folder and provide the name of the file below
+  # Profile information
+  name: Ricardo Osorio
+  tagline: Senior Software Engineer for Telecommunications & BPO.
+  avatar: ricardo-profile.png  # place a 100x100 picture inside the /assets/images/ folder and provide the name of the file below
 
-    # Sidebar links
-    email: osorioj842@gmail.com
-    phone: 1-849-361-2817
-    citizenship: Dominican, 402-1402577-3 # do not add http://
-    linkedin: Ricardo Osorio
-    linkedinURI: ricardo-osorio-32b450183
-    github: rick002
-    # telegram: Ruy # add your nickname without '@' sign
+  # Sidebar links
+  email: osorioj842@gmail.com
+  phone: 1-849-361-2817
+  citizenship: Dominican, 402-1402577-3 # do not add http://
+  linkedin: Ricardo Osorio
+  linkedinURI: ricardo-osorio-32b450183
+  github: rick002
+  # telegram: Ruy # add your nickname without '@' sign
 
-    languages:
-      - idiom: English
-        level: Professional
+  languages:
+    - idiom: English
+      level: Professional
 
-      - idiom: Spanish
-        level: Native
+    - idiom: Spanish
+      level: Native
 
-    concepts:
-      - item: Microservices
-        link:
+  concepts:
+    - item: Microservices
+      link:
 
-      - item: Open API
-        link:
+    - item: Open API
+      link:
 
-      - item: TMForum
-        link:
-      
-      - item: CI/CD Pipelines
-        link:
+    - item: TMForum
+      link:
+    
+    - item: CI/CD Pipelines
+      link:
 
-      - item: Git Operations
-        link:
-      
-      - item: API Design
-        link:
-      
-      - item: Containers Based Clusters
-        link:
-      
-      - item: Cloud Native Development
-        link:
+    - item: Git Operations
+      link:
 
-      - item: Design Patterns
-        link:
-      
-      - item: CI/CD Pipelines
-        link:
+    - item: API Design
+      link:
 
-    interests:
-      - item: User Interface/User Experience
-        link:
-      
-      - item: Philosophy
-        link:
-      
-      - item: Anthropology
-        link:
+    - item: Containers Based Clusters
+      link:
+
+    - item: Cloud Native Development
+      link:
+
+    - item: Design Patterns
+      link:
+    
+    - item: CI/CD Pipelines
+      link:
+
+  interests:
+    - item: User Interface/User Experience
+      link:
+
+    - item: Philosophy
+      link:
+
+    - item: Anthropology
+      link:
 
 career-profile:
-    title: Meet My Career Profile
-    summary: |
-      I am a Senior Software Engineer specialized primarily in cloud and web solutions. I assist companies in any sector that need quality technological solutions, such as web applications, business management systems, job portals, landing pages, websites, web scrapers, conversational interfaces, and integration layers, so that they can overcome market challenges, reduce costs, increase process efficiency, maximize profits, and enhance customer satisfaction.
+  title: Meet My Career Profile
+  summary: |
+    I am a Senior Software Engineer specialized primarily in cloud and web solutions. I assist companies in any sector that need quality technological solutions, such as web applications, business management systems, job portals, landing pages, websites, web scrapers, conversational interfaces, and integration layers, so that they can overcome market challenges, reduce costs, increase process efficiency, maximize profits, and enhance customer satisfaction.
 
 education:
-    - degree: Software Development Technologist
-      university: The Americas Institute Of Technology
-      time: 2016 - 2019
+  - degree: Software Development Technologist
+    university: The Americas Institute Of Technology
+    time: 2016 - 2019
 
-    - degree: English
-      university: Apec University
-      time: 2007 - 2011
-    
-experiences: 
-    - role: Senior Software Designer
-      time: March 2024 – August 2024
-      company: FalconTech SRL
-      details: |
-        Designed and implemented an AI-powered content creation application for Twitter, covering all stages: UI/UX, Frontend, Backend, Database, and Deployment.
+  - degree: English
+    university: Apec University
+    time: 2007 - 2011
 
-        Designed and implemented a REST API platform for financial statistics, Central Bank data, and public tenders in the Dominican Republic, covering UI/UX, Frontend, Backend, Database, and Deployment.
-    - role: Engineer IV / Integrations Engineer
-      time: 2024 - present
-      company: Claro, Santo Domingo
-      details: |
-        Successfully implemented a metadata query integration layer, used by all Claro customer-facing systems nationwide, to standardize the data format across the entire business infrastructure.
+experiences:
+  - role: Senior Software Designer
+    time: March 2024 – August 2024
+    company: FalconTech SRL
+    details: |
+      Designed and implemented an AI-powered content creation application for Twitter, covering all stages: UI/UX, Frontend, Backend, Database, and Deployment.
 
-        Successfully developed an integration layer to query field work orders for Claro, enabling seamless access to real-time data across all operational systems and improving efficiency in service delivery.
+      Designed and implemented a REST API platform for financial statistics, Central Bank data, and public tenders in the Dominican Republic, covering UI/UX, Frontend, Backend, Database, and Deployment.
 
-        [ In this role, Java, Quarkus, Spring Boot, Maven, Camel, Kafka, SQL DBs, Kubernetes, OpenAPI, SOAP, Apigee are used ]
-    - role: Senior .NET Developer
-      time: 2023 - 2024
-      company: Claro, Santo Domingo
-      details: |
-        Designed and implemented a resilient integration with eSIM migration services for prepaid and postpaid customers, and developed a plugin for automatic case creation in the mobile breakdown system for failed mobile provisioning orders.
+  - role: Engineer IV / Integrations Engineer
+    time: 2024 - present
+    company: Claro, Santo Domingo
+    details: |
+      Successfully implemented a metadata query integration layer, used by all Claro customer-facing systems nationwide, to standardize the data format across the entire business infrastructure.
 
-        Designed a search method that provides suggestions for products added within the last six months based on the search criteria.
+      Successfully developed an integration layer to query field work orders for Claro, enabling seamless access to real-time data across all operational systems and improving efficiency in service delivery.
 
-        [ In this role, .NET, C#, NopCommerce, HTML, CSS, Knockout.JS, ReactJS, MVC, Relational Databases are used ] 
-    - role: Software Developer I
-      time: 2021 - 2023
-      company: Korewireless, Remote
-      details: |
-        Streamlined and standardized product features from multiple telecom companies into a unified format within a transformation process pipeline.
+      [ In this role, Java, Quarkus, Spring Boot, Maven, Camel, Kafka, SQL DBs, Kubernetes, OpenAPI, SOAP, Apigee are used ]
 
-        Deployed a Kubernetes HPA using the Kafka Consumer Lag metric to automatically scale cluster pods based on network traffic. 
-        
-        Migrated most Rules Engine services from .NET Core 3.1 to .NET 6.
+  - role: Senior .NET Developer
+    time: 2023 - 2024
+    company: Claro, Santo Domingo
+    details: |
+      Designed and implemented a resilient integration with eSIM migration services for prepaid and postpaid customers, and developed a plugin for automatic case creation in the mobile breakdown system for failed mobile provisioning orders.
 
-        [ In this role, .NET, C#, Kafka, Kubernetes, NodeJS, Angular, GraphQL, OpenAPI, SQL DBs are used ] 
-    - role: Senior Java Developer
-      time: 2022 - 2022
-      company: Claro, Remote
-      details: |
-        Expanded the functionality of the postpaid suspension, sales management, and administration console modules.
+      Designed a search method that provides suggestions for products added within the last six months based on the search criteria.
 
-        Designed and implemented an integration module with FlyTXT's Neon to retrieve client offers during inbound and outbound advertising campaigns.
+      [ In this role, .NET, C#, NopCommerce, HTML, CSS, Knockout.JS, ReactJS, MVC, Relational Databases are used ] 
 
-        [ In this role, Java, JSF, SOAP, Maven, REST, Relational Databases are used ] 
-    - role: Independent Consultant
-      time: 2021 - Present
-      company: Independent
-      details: |
-        Social media scheduling app, powered by Artificial Intelligence, for Twitter content creation.
+  - role: Software Developer I
+    time: 2021 - 2023
+    company: Korewireless, Remote
+    details: |
+      Streamlined and standardized product features from multiple telecom companies into a unified format within a transformation process pipeline.
 
-        RESTful API as a layer for sending messages in Batch mode through the WhatsApp Business API.
+      Deployed a Kubernetes HPA using the Kafka Consumer Lag metric to automatically scale cluster pods based on network traffic. 
 
-        Landing Page for the Pulmonary Hypertension Foundation of the Dominican Republic.
+      Migrated most Rules Engine services from .NET Core 3.1 to .NET 6.
 
-        Landing Page for the first French-Dominican security company.
+      [ In this role, .NET, C#, Kafka, Kubernetes, NodeJS, Angular, GraphQL, OpenAPI, SQL DBs are used ] 
 
-        Landing Page for a company that sells medical equipment.
+  - role: Senior Java Developer
+    time: 2022 - 2022
+    company: Claro, Remote
+    details: |
+      Expanded the functionality of the postpaid suspension, sales management, and administration console modules.
 
-        Landing Page for a call center.
+      Designed and implemented an integration module with FlyTXT's Neon to retrieve client offers during inbound and outbound advertising campaigns.
 
-        Landing Page for personal branding for an insurance and real estate agent.
+      [ In this role, Java, JSF, SOAP, Maven, REST, Relational Databases are used ] 
 
-        [ In this role, NodeJS, NestJS, Angular, MongoDB, SQL DBs are used ] 
-    - role: React Native Developer
-      time: 2021 - 2021
-      company: Observe, Remote
-      details: |
-        Prototyped the screens for the mobile application of the e-learning platform, Observe.
+  - role: Independent Consultant
+    time: 2021 - Present
+    company: Independent
+    details: |
+      Social media scheduling app, powered by Artificial Intelligence, for Twitter content creation.
 
-        [ In this role, NodeJS, React Native, Expo, Firebase are used ]
-    - role: Angular Developer
-      time: 2020 - 2021
-      company: Call Center Pros, Santo Domingo
-      details: |
-        Defined the new architecture and implemented the migration of the graphical interface for the Laczy CRM.
+      RESTful API as a layer for sending messages in Batch mode through the WhatsApp Business API.
 
-        Defined the new architecture and implemented the migration of the graphical interface for the Jobs job portal.
+      Landing Page for the Pulmonary Hypertension Foundation of the Dominican Republic.
 
-        [ In this role, Angular, HTML, CSS, TypeScript, RxJS, Ajax, REST are used ]
-    - role: Software Developer II
-      time: 2020 - 2020
-      company: Verizon Enterprise, Remote
-      details: |
-        Migrated the Administration Tool, a set of tools for Verizon's portal administrator users.
+      Landing Page for the first French-Dominican security company.
 
-        Migrated the BAN maintenance module, a set of views designed to manage the Billing Account Numbers of the carrier’s clients.
+      Landing Page for a company that sells medical equipment.
 
-        Migrated the BAN maintenance module, a set of views designed to operate on the Billing Account Numbers of the carrier's clients.
-        
-        [ In this role, Angular, HTML, CSS, TypeScript, RxJS, Ajax, PrimeNG are used ]
-    - role: Java Developer
-      time: 2019 - 2020
-      company: Claro, Santo Domingo
-      details: |
-          Redesigned a project called Digital Forms, a composite, service- and component-based web application that operates across all client service centers nationwide.
-          
-          Retrieved transactions from five different company information systems, mapped them into digital forms, and then sent them to the customer via email in PDF format.
+      Landing Page for a call center.
 
-          Modeled UML representations of application flows and entities, applied OO design principles and patterns, and reduced implementation time from one week to one hour.
+      Landing Page for personal branding for an insurance and real estate agent.
 
-          [ In this role, Java, Wicket, Maven, JDBC, Spring DI Container, HTML, CSS are used ]
+      [ In this role, NodeJS, NestJS, Angular, MongoDB, SQL DBs are used ] 
+
+  - role: React Native Developer
+    time: 2021 - 2021
+    company: Observe, Remote
+    details: |
+      Prototyped the screens for the mobile application of the e-learning platform, Observe.
+
+      [ In this role, NodeJS, React Native, Expo, Firebase are used ]
+
+  - role: Angular Developer
+    time: 2020 - 2021
+    company: Call Center Pros, Santo Domingo
+    details: |
+      Defined the new architecture and implemented the migration of the graphical interface for the Laczy CRM.
+
+      Defined the new architecture and implemented the migration of the graphical interface for the Jobs job portal.
+
+      [ In this role, Angular, HTML, CSS, TypeScript, RxJS, Ajax, REST are used ]
+
+  - role: Software Developer II
+    time: 2020 - 2020
+    company: Verizon Enterprise, Remote
+    details: |
+      Migrated the Administration Tool, a set of tools for Verizon's portal administrator users.
+
+      Migrated the BAN maintenance module, a set of views designed to manage the Billing Account Numbers of the carrier’s clients.
+
+      Migrated the BAN maintenance module, a set of views designed to operate on the Billing Account Numbers of the carrier's clients.
+      
+      [ In this role, Angular, HTML, CSS, TypeScript, RxJS, Ajax, PrimeNG are used ]
+
+  - role: Java Developer
+    time: 2019 - 2020
+    company: Claro, Santo Domingo
+    details: |
+      Redesigned a project called Digital Forms, a composite, service- and component-based web application that operates across all client service centers nationwide.
+
+      Retrieved transactions from five different company information systems, mapped them into digital forms, and then sent them to the customer via email in PDF format.
+
+      Modeled UML representations of application flows and entities, applied OO design principles and patterns, and reduced implementation time from one week to one hour.
+
+      [ In this role, Java, Wicket, Maven, JDBC, Spring DI Container, HTML, CSS are used ]
 
 projects:
-    title: My Portfolio
-    intro: >
-      These are just a few projects from my portfolio that you may like to see.
-    assignments:
-      - title: Albums
-        link: "https://www.linkedin.com/feed/update/urn:li:activity:6809633629484965888/"
-        tagline: "An album application for Android, built in React Native (UI Only)."
+  title: My Portfolio
+  intro: >
+    These are just a few projects from my portfolio that you may like to see.
+  assignments:
+    - title: Albums
+      link: "https://www.linkedin.com/feed/update/urn:li:activity:6809633629484965888/"
+      tagline: "An album application for Android, built in React Native (UI Only)."
 
-      - title: Make Me
-        link: "https://www.linkedin.com/feed/update/urn:li:activity:6809169309651271680/"
-        tagline: "A todo list application for Android, built in React Native."
+    - title: Make Me
+      link: "https://www.linkedin.com/feed/update/urn:li:activity:6809169309651271680/"
+      tagline: "A todo list application for Android, built in React Native."
 
-      - title: Telegram Chatbot
-        link: "https://www.linkedin.com/feed/update/urn:li:activity:6871432974882144256/"
-        tagline: "An echo Telegram chatbot built with Telegraf and Express JS."
+    - title: Telegram Chatbot
+      link: "https://www.linkedin.com/feed/update/urn:li:activity:6871432974882144256/"
+      tagline: "An echo Telegram chatbot built with Telegraf and Express JS."
 
-      - title: Cafe Oslo
-        link: "https://www.linkedin.com/feed/update/urn:li:activity:6789607378967949312/"
-        tagline: "A responsive landing page built completely with HTML5 & CSS3."
-      
-      - title: Foundation
-        link: "https://fundacionhprd.org/"
-        tagline: "Landing page for the Pulmonary Hypertension Foundation of the Dominican Republic."
-      
-      - title: Meal Trip
-        link: "https://www.linkedin.com/feed/update/urn:li:activity:6788920543484674048/"
-        tagline: "A hero visual component with a background video built completely with HTML5
+    - title: Cafe Oslo
+      link: "https://www.linkedin.com/feed/update/urn:li:activity:6789607378967949312/"
+      tagline: "A responsive landing page built completely with HTML5 & CSS3."
+    
+    - title: Foundation
+      link: "https://fundacionhprd.org/"
+      tagline: "Landing page for the Pulmonary Hypertension Foundation of the Dominican Republic."
+    
+    - title: Meal Trip
+      link: "https://www.linkedin.com/feed/update/urn:li:activity:6788920543484674048/"
+      tagline: "A hero visual component with a background video built completely with HTML5."
+
+publications:
+  title: Newsletter
+  intro: >
+    Don't miss Digital Symphony: Art, Design, and Code, for CEOs, CTOs, IT Managers, Recruiters, and telecom enthusiasts. 🌐🎶
+  papers:
+    - title: Symphony '#1 The Art of Telecommunications Da Vinci-Style 🎨📡'
+      link: "https://www.linkedin.com/pulse/sinfon%C3%ADa-1-el-arte-de-las-telecomunicaciones-la-manera-ricardo-osorio-lukne/"
+      authors: Ricardo Osorio
+      conference: In Spanish Completely
+
 
 skills:
   title: Skills
