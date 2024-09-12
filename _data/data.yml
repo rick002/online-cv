@@ -217,7 +217,7 @@ projects:
  
 publications:
   title: Newsletter
-  intro: |
+  intro: >
     Don't miss Digital Symphony: Art, Design, and Code, for CEOs, CTOs, IT Managers, Recruiters, and telecom enthusiasts. 🌐🎶
   papers:
     - title: Symphony '#1 The Art of Telecommunications Da Vinci-Style 🎨📡'
