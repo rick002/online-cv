@@ -214,17 +214,6 @@ projects:
       - title: Meal Trip
         link: "https://www.linkedin.com/feed/update/urn:li:activity:6788920543484674048/"
         tagline: "A hero visual component with a background video built completely with HTML5
- 
-publications:
-  title: Newsletter
-  intro: >
-    Don't miss Digital Symphony: Art, Design, and Code, for CEOs, CTOs, IT Managers, Recruiters, and telecom enthusiasts. 🌐🎶
-  papers:
-    - title: Symphony '#1 The Art of Telecommunications Da Vinci-Style 🎨📡'
-      link: "https://www.linkedin.com/pulse/sinfon%C3%ADa-1-el-arte-de-las-telecomunicaciones-la-manera-ricardo-osorio-lukne/"
-      authors: Ricardo Osorio
-      conference: In Spanish Completely
-
 
 skills:
   title: Skills
