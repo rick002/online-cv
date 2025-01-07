@@ -9,7 +9,7 @@ sidebar:
 
   # Sidebar links
   email: osorioj842@gmail.com
-  phone: 1-849-361-2817
+  phone: 1-809-477-0861
   citizenship: Dominicana, 402-3452514-1 # do not add http://
   linkedin: Julianny Belen
   linkedinURI: julianny-belen-140b54311
@@ -39,6 +39,9 @@ sidebar:
     - item: Empatía
       link: ""
 
+    - item: Puntualidad
+      link: ""
+
   interests:
     - item: Marketing Digital
       link: ""
@@ -46,13 +49,19 @@ sidebar:
     - item: Gastronomía
       link: ""
 
-    - item: Cosmetología
+    - item: Química Cosmética Artesanal
+      link: ""
+
+    - item: Gestión de Equipos
+      link: ""
+
+    - item: Servicio Al Cliente
       link: ""
 
 career-profile:
   title: Te Cuento...
   summary: |
-    Soy gerente general con amplia experiencia en la gestión operativa de un restaurante de comida rápida, graduada en Gastronomía y Turismo, y experta en cosmetología artesanal. Poseo habilidades en atención al cliente, liderazgo de equipos y administración de recursos, y actualmente busco una nueva oportunidad en el sector bancario como cajera. Aspiro a aplicar mis conocimientos para superar los retos del negocio, reducir costos, incrementar la eficiencia de los procesos y elevar la satisfacción del cliente.
+    Soy gerente general con amplia experiencia en la gestión operativa de un restaurante de comida rápida, graduada en Gastronomía y Turismo, y experta en cosmetología artesanal. Poseo habilidades destacadas en atención al cliente, liderazgo de equipos y administración de recursos. Actualmente busco una nueva oportunidad en el sector bancario, donde pueda aplicar mis conocimientos en gestión, resolución de problemas y optimización de procesos para contribuir al logro de los objetivos de la organización, fortalecer la experiencia del cliente y generar impacto positivo en el desempeño del equipo.
 
 education:
   - degree: Psicología General (En Curso)
@@ -157,7 +166,7 @@ experiences:
       Mantuve un conocimiento actualizado sobre los productos y promociones disponibles, ofreciendo información precisa para la toma de decisiones de los clientes.
 
 skills:
-  title: Skills
+  title: Habilidades
   toolset:
     - name: Manejo de Caja
       level: 280
