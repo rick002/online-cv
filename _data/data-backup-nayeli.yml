@@ -1,0 +1,193 @@
+sidebar:
+  about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
+  education: False # set to False if you want education in main section instead of in sidebar
+
+  # Profile information
+  name: Julianny Belen
+  tagline: Gerente General De Pronto Pasta
+  avatar: nayeli-profile.png # place a 100x100 picture inside the /assets/images/ folder and provide the name of the file below
+
+  # Sidebar links
+  email: nayelibelen447@gmail.com
+  phone: 1-809-477-0861
+  citizenship: Dominicana, 402-3452514-1 # do not add http://
+  linkedin: Julianny Belen
+  linkedinURI: julianny-belen-140b54311
+  #github: rick002
+  #telegram: Ruy # add your nickname without '@' sign
+
+  languages:
+    - idiom: Spanish
+      level: Nativo
+
+  concepts:
+    - item: Proactividad
+      link: ""
+
+    - item: Liderazgo
+      link: ""
+
+    - item: Trabajo En Equipo
+      link: ""
+
+    - item: Solidaridad
+      link: ""
+
+    - item: Responsabilidad
+      link: ""
+
+    - item: Empatía
+      link: ""
+
+    - item: Puntualidad
+      link: ""
+
+  interests:
+    - item: Marketing Digital
+      link: ""
+
+    - item: Gastronomía
+      link: ""
+
+    - item: Química Cosmética Artesanal
+      link: ""
+
+    - item: Gestión de Equipos
+      link: ""
+
+    - item: Servicio Al Cliente
+      link: ""
+
+career-profile:
+  title: Te Cuento...
+  summary: |
+    Soy gerente general con amplia experiencia en la gestión operativa de un restaurante de comida rápida, graduada en Gastronomía y Turismo, y experta en cosmetología artesanal. Poseo habilidades destacadas en atención al cliente, liderazgo de equipos y administración de recursos. Actualmente busco una nueva oportunidad en el sector restaurantero, donde pueda aplicar mis conocimientos en gestión, resolución de problemas y optimización de procesos para contribuir al logro de los objetivos de la organización, fortalecer la experiencia del cliente y generar impacto positivo en el desempeño del equipo.
+
+education:
+  - degree: Psicología General (En Curso)
+    university: UAPA
+    time: 2020 - 2022
+
+  - degree: Gastronomía y Turismo
+    university: Politécnico Simón Horozco
+    time: 2016 - 2017
+
+  - degree: Excél Básico
+    university: INFOTEP
+    time: 2024 - 2024
+
+  - degree: Comunicación Efectiva
+    university: INFOTEP
+    time: 2024 - 2024
+
+  - degree: Manipulación de Alimentos
+    university: INFOTEP
+    time: 2024 - 2024
+
+  - degree: Técnicas de Motivación
+    university: INFOTEP
+    time: 2024 - 2024
+
+  - degree: Técnicas de las 5S
+    university: INFOTEP
+    time: 2024 - 2024
+
+  - degree: Diplomado En Química Cosmética
+    university: Academia Harmony Center
+    time: 2024 - 2024
+
+experiences:
+  - role: Gerente General De Pronto Pasta
+    time: Mayo 2024 – Enero 2025
+    company: Reysa Food SRL
+    details: |
+      Responsable de la supervisión integral de inventarios, garantizando la precisión y optimización de recursos en el área de operaciones. 
+
+      Coordiné y gestioné el proceso de compras, asegurando el abastecimiento oportuno a través de relaciones efectivas con proveedores clave. 
+
+      Supervisé la correcta integración de facturas al sistema contable, manteniendo la transparencia y el control financiero.
+
+      Ejercí liderazgo en la dirección del personal, gestionando equipos de alto rendimiento y promoviendo un ambiente de trabajo enfocado en el servicio de calidad al cliente.
+
+      Realicé cuadre de caja de forma sistemática, asegurando la precisión de los procesos financieros diarios.
+
+      Supervisé y optimicé los procedimientos operacionales siguiendo las directrices establecidas por la alta gerencia, logrando una mejora continua en la eficiencia operativa y el cumplimiento de metas.
+
+  - role: Crew Leader | Supervisora
+    time: Febrero 2023 – Mayo 2024
+    company: Reysa Food SRL
+    details: |
+      Encargada de supervisar e integrar de manera eficiente los procesos operativos con el equipo de trabajo, bajo las directrices establecidas por la alta gerencia, asegurando la correcta ejecución de cada etapa en la operación.
+
+      Brindé apoyo al liderazgo intermedio, fomentando la cohesión y optimización del equipo de trabajo para alcanzar los objetivos propuestos.
+
+      Supervisé rigurosamente los procesos de caja, asegurando la precisión de las operaciones financieras diarias, incluido el cuadre efectivo de caja.
+
+      Realicé de manera sistemática y minuciosa el conteo de inventarios, gestionando los recursos para mantener un flujo adecuado de productos y evitar deficiencias operativas.
+
+      Desarrollé habilidades de liderazgo en la gestión de personal, garantizando un ambiente de trabajo orientado a resultados y calidad en el servicio al cliente.
+
+      Fomenté una cultura de servicio al cliente excepcional, asegurando la satisfacción y fidelización de los consumidores, alineando todos los procesos para ofrecer una experiencia coherente y eficiente.
+
+  - role: Asistente de Delivery
+    time: Agosto 2021 – Febrero 2023
+    company: Reysa Food SRL
+    details: |
+      Encargada de la supervisión integral de las plataformas de delivery (Uber Eats, PedidosYa, DiDi, Hugo), realizando revisiones periódicas para asegurar su operatividad continua y alineación con las necesidades del negocio.
+
+      Validé la disponibilidad y el correcto funcionamiento de las plataformas de entrega, garantizando una experiencia fluida para el cliente y una respuesta oportuna ante cualquier inconveniente.
+
+      Llevé a cabo una meticulosa verificación del inventario, asegurando la disponibilidad de los productos antes de la asignación de las órdenes, evitando retrasos o problemas de stock.
+
+      Coordiné el despacho de las órdenes hacia los repartidores correspondientes, garantizando que las entregas se realizasen de forma eficiente y en el tiempo previsto, manteniendo siempre altos estándares de servicio y satisfacción del cliente.
+
+  - role: Vendedora de Comida Callejera
+    time: Agosto 2021 – Febrero 2023
+    company: Autoempleada
+    details: |
+      Responsable de la creación y comercialización de bollería artesanal, incluyendo productos como empanadas, quipes, jugos, bollitos y croquetas, brindando una oferta fresca y auténtica para el mercado local.
+
+      Supervisé de forma integral el manejo de inventarios, asegurando la correcta disponibilidad de insumos y optimizando la rotación de productos.
+
+      Gestioné todo el proceso de producción, garantizando la calidad constante de los productos, desde la preparación hasta la venta final.
+
+      Realicé actividades de venta directas, estableciendo relaciones personales con los clientes y brindando un servicio excepcional que resultó en un alto nivel de fidelización.
+
+      Llevé a cabo tareas de contabilidad básica para el control eficiente de ingresos, egresos y utilidades, permitiendo la correcta gestión financiera del negocio.
+
+  - role: Vendedora de Ropa Deportiva
+    time: Agosto 2021 – Febrero 2023
+    company: Tienda Mayorista Local
+    details: |
+      Brindé atención personalizada a los clientes durante el proceso de compra, guiándolos en la selección de productos y resolviendo dudas sobre características, tallas y precios, asegurando una experiencia de compra satisfactoria y acorde a sus necesidades.
+
+      Fomenté un ambiente de ventas orientado a resultados, promoviendo productos de manera efectiva y generando recomendaciones que ayudaron a incrementar las ventas.
+
+      Mantuve un conocimiento actualizado sobre los productos y promociones disponibles, ofreciendo información precisa para la toma de decisiones de los clientes.
+
+skills:
+  title: Habilidades
+  toolset:
+    - name: Manejo de Caja
+      level: 280
+
+    - name: Atención Al Cliente
+      level: 280
+
+    - name: Gestión De Equipos
+      level: 280
+
+    - name: Office Básico
+      level: 280
+
+    - name: Manejo de Conflictos
+      level: 280
+
+    - name: Comunicación Efectiva
+      level: 280
+
+    - name: Capacidad de Adaptación
+      level: 280
+
+    - name: Manejo de Inventario
+      level: 280

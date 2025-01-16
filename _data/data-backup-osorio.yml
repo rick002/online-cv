@@ -5,7 +5,7 @@ sidebar:
   # Profile information
   name: Ricardo Osorio
   tagline: Senior Software Engineer for Telecommunications & BPO.
-  avatar: ricardo-profile.jpeg # place a 100x100 picture inside the /assets/images/ folder and provide the name of the file below
+  avatar: ricardo-profile.png # place a 100x100 picture inside the /assets/images/ folder and provide the name of the file below
 
   # Sidebar links
   email: osorioj842@gmail.com
@@ -94,14 +94,6 @@ experiences:
       Successfully implemented a metadata query integration layer, used by all Claro customer-facing systems nationwide, to standardize the data format across the entire business infrastructure.
 
       Successfully developed an integration layer to query field work orders for Claro, enabling seamless access to real-time data across all operational systems and improving efficiency in service delivery.
-
-      Designed and implemented a domain service for a REST API to query party interactions of customers with the business’s digital channels, enabling better tracking and analysis of customer engagement.
-
-      Developed an integration with SAP Integration for the efficient handling of CPE codes, streamlining equipment and service provisioning processes.
-
-      Built an integration with a legacy SOAP service to manage provisioning orders for fixed-line telephony customers, ensuring seamless compatibility with existing systems.
-
-      Engineered a composite service to handle call-barring activation codes, covering the entire lifecycle from scaffolding to Kubernetes configurations, Docker images, and GitLab CI pipeline integration, ensuring a robust and scalable deployment process.
 
       [ In this role, Java, Quarkus, Spring Boot, Maven, Camel, Kafka, SQL DBs, Kubernetes, OpenAPI, SOAP, Apigee are used ]
 
