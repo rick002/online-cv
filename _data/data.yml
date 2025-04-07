@@ -46,12 +46,6 @@ sidebar:
     - item: Marketing Digital
       link: ""
 
-    - item: Gastronomía
-      link: ""
-
-    - item: Química Cosmética Artesanal
-      link: ""
-
     - item: Gestión de Equipos
       link: ""
 
@@ -61,7 +55,7 @@ sidebar:
 career-profile:
   title: Te Cuento...
   summary: |
-    Apasionada por el servicio al cliente, con sólida experiencia liderando operaciones en restaurantes de comida rápida. Graduada en Gastronomía y Turismo, y con conocimientos en cosmetología artesanal, me destaco por mi enfoque en la excelencia, la gestión de equipos y la mejora continua.
+    Apasionada por el servicio al cliente, con sólida experiencia liderando operaciones en restaurantes de comida rápida. Destaco por mi enfoque en la excelencia, la gestión de equipos y la mejora continua.
 
     Estoy lista para aportar mi energía, liderazgo y visión en el área de servicio al cliente, creando experiencias memorables y fortaleciendo el rendimiento del equipo.
 
@@ -71,10 +65,6 @@ education:
   - degree: Psicología General (En Curso)
     university: UAPA
     time: 2020 - 2022
-
-  - degree: Gastronomía y Turismo
-    university: Politécnico Simón Horozco
-    time: 2016 - 2017
 
   - degree: Excél Básico
     university: INFOTEP
@@ -94,10 +84,6 @@ education:
 
   - degree: Técnicas de las 5S
     university: INFOTEP
-    time: 2024 - 2024
-
-  - degree: Diplomado En Química Cosmética
-    university: Academia Harmony Center
     time: 2024 - 2024
 
 experiences:
