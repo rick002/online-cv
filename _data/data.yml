@@ -3,319 +3,191 @@ sidebar:
   education: False # set to False if you want education in main section instead of in sidebar
 
   # Profile information
-  name: Ricardo Osorio
-  tagline: Senior Software Engineer for Telecommunications & BPO.
-  avatar: ricardo-profile.jpeg # place a 100x100 picture inside the /assets/images/ folder and provide the name of the file below
+  name: Julianny Belen
+  tagline: Gerente General De Pronto Pasta
+  avatar: nayeli-profile.png # place a 100x100 picture inside the /assets/images/ folder and provide the name of the file below
 
   # Sidebar links
-  email: osorioj842@gmail.com
-  phone: 1-849-361-2817
-  citizenship: Dominican, 402-1402577-3 # do not add http://
-  linkedin: Ricardo Osorio
-  linkedinURI: ricardo-osorio-32b450183
-  github: rick002
-  # telegram: Ruy # add your nickname without '@' sign
+  email: nayelibelen447@gmail.com
+  phone: 1-809-477-0861
+  citizenship: Dominicana, 402-3452514-1 # do not add http://
+  linkedin: Julianny Belen
+  linkedinURI: julianny-belen-140b54311
+  #github: rick002
+  #telegram: Ruy # add your nickname without '@' sign
 
   languages:
-    - idiom: English
-      level: Professional
-
     - idiom: Spanish
-      level: Native
+      level: Nativo
 
   concepts:
-    - item: Microservices
-      link:
+    - item: Proactividad
+      link: ""
 
-    - item: Open API
-      link:
+    - item: Liderazgo
+      link: ""
 
-    - item: TMForum
-      link:
+    - item: Trabajo En Equipo
+      link: ""
 
-    - item: CI/CD Pipelines
-      link:
+    - item: Solidaridad
+      link: ""
 
-    - item: Git Operations
-      link:
+    - item: Responsabilidad
+      link: ""
 
-    - item: API Design
-      link:
+    - item: Empatía
+      link: ""
 
-    - item: Containers Based Clusters
-      link:
-
-    - item: Cloud Native Development
-      link:
-
-    - item: Design Patterns
-      link:
-
-    - item: CI/CD Pipelines
-      link:
+    - item: Puntualidad
+      link: ""
 
   interests:
-    - item: User Interface/User Experience
-      link:
+    - item: Marketing Digital
+      link: ""
 
-    - item: Philosophy
-      link:
+    - item: Gastronomía
+      link: ""
 
-    - item: Anthropology
-      link:
+    - item: Química Cosmética Artesanal
+      link: ""
+
+    - item: Gestión de Equipos
+      link: ""
+
+    - item: Servicio Al Cliente
+      link: ""
 
 career-profile:
-  title: Meet My Career Profile
+  title: Te Cuento...
   summary: |
-    I am a Senior Software Engineer specialized primarily in cloud and web solutions. I assist companies in any sector that need quality technological solutions, such as web applications, business management systems, job portals, landing pages, websites, web scrapers, conversational interfaces, and integration layers, so that they can overcome market challenges, reduce costs, increase process efficiency, maximize profits, and enhance customer satisfaction.
+    Amplia experiencia en la gestión operativa de un restaurante de comida rápida, graduada en Gastronomía y Turismo, y experta en cosmetología artesanal. Poseo habilidades destacadas en atención al cliente, liderazgo de equipos y administración de recursos. Actualmente busco una nueva oportunidad en el sector restaurantero, donde pueda aplicar mis conocimientos en gestión, resolución de problemas y optimización de procesos para contribuir al logro de los objetivos de la organización, fortalecer la experiencia del cliente y generar impacto positivo en el desempeño del equipo.
 
 education:
-  - degree: Software Development Technologist
-    university: The Americas Institute Of Technology
-    time: 2016 - 2019
+  - degree: Psicología General (En Curso)
+    university: UAPA
+    time: 2020 - 2022
 
-  - degree: English
-    university: Apec University
-    time: 2007 - 2011
+  - degree: Gastronomía y Turismo
+    university: Politécnico Simón Horozco
+    time: 2016 - 2017
+
+  - degree: Excél Básico
+    university: INFOTEP
+    time: 2024 - 2024
+
+  - degree: Comunicación Efectiva
+    university: INFOTEP
+    time: 2024 - 2024
+
+  - degree: Manipulación de Alimentos
+    university: INFOTEP
+    time: 2024 - 2024
+
+  - degree: Técnicas de Motivación
+    university: INFOTEP
+    time: 2024 - 2024
+
+  - degree: Técnicas de las 5S
+    university: INFOTEP
+    time: 2024 - 2024
+
+  - degree: Diplomado En Química Cosmética
+    university: Academia Harmony Center
+    time: 2024 - 2024
 
 experiences:
-  - role: Senior Software Designer
-    time: March 2024 – August 2024
-    company: FalconTech SRL
+  - role: Gerente General De Pronto Pasta
+    time: Mayo 2024 – Enero 2025
+    company: Reysa Food SRL
     details: |
-      Designed and implemented an AI-powered content creation application for Twitter, covering all stages: UI/UX, Frontend, Backend, Database, and Deployment.
+      Responsable de la supervisión integral de inventarios, garantizando la precisión y optimización de recursos en el área de operaciones. 
 
-      Designed and implemented a REST API platform for financial statistics, Central Bank data, and public tenders in the Dominican Republic, covering UI/UX, Frontend, Backend, Database, and Deployment.
+      Coordiné y gestioné el proceso de compras, asegurando el abastecimiento oportuno a través de relaciones efectivas con proveedores clave. 
 
-  - role: Engineer IV / Integrations Engineer
-    time: 2024 - present
-    company: Claro, Santo Domingo
+      Supervisé la correcta integración de facturas al sistema contable, manteniendo la transparencia y el control financiero.
+
+      Ejercí liderazgo en la dirección del personal, gestionando equipos de alto rendimiento y promoviendo un ambiente de trabajo enfocado en el servicio de calidad al cliente.
+
+      Realicé cuadre de caja de forma sistemática, asegurando la precisión de los procesos financieros diarios.
+
+      Supervisé y optimicé los procedimientos operacionales siguiendo las directrices establecidas por la alta gerencia, logrando una mejora continua en la eficiencia operativa y el cumplimiento de metas.
+
+  - role: Crew Leader | Supervisora
+    time: Febrero 2023 – Mayo 2024
+    company: Reysa Food SRL
     details: |
-      Successfully implemented a metadata query integration layer, used by all Claro customer-facing systems nationwide, to standardize the data format across the entire business infrastructure.
+      Encargada de supervisar e integrar de manera eficiente los procesos operativos con el equipo de trabajo, bajo las directrices establecidas por la alta gerencia, asegurando la correcta ejecución de cada etapa en la operación.
 
-      Successfully developed an integration layer to query field work orders for Claro, enabling seamless access to real-time data across all operational systems and improving efficiency in service delivery.
+      Brindé apoyo al liderazgo intermedio, fomentando la cohesión y optimización del equipo de trabajo para alcanzar los objetivos propuestos.
 
-      Designed and implemented a domain service for a REST API to query party interactions of customers with the business’s digital channels, enabling better tracking and analysis of customer engagement.
+      Supervisé rigurosamente los procesos de caja, asegurando la precisión de las operaciones financieras diarias, incluido el cuadre efectivo de caja.
 
-      Developed an integration with SAP Integration for the efficient handling of CPE codes, streamlining equipment and service provisioning processes.
+      Realicé de manera sistemática y minuciosa el conteo de inventarios, gestionando los recursos para mantener un flujo adecuado de productos y evitar deficiencias operativas.
 
-      Built an integration with a legacy SOAP service to manage provisioning orders for fixed-line telephony customers, ensuring seamless compatibility with existing systems.
+      Desarrollé habilidades de liderazgo en la gestión de personal, garantizando un ambiente de trabajo orientado a resultados y calidad en el servicio al cliente.
 
-      Engineered a composite service to handle call-barring activation codes, covering the entire lifecycle from scaffolding to Kubernetes configurations, Docker images, and GitLab CI pipeline integration, ensuring a robust and scalable deployment process.
+      Fomenté una cultura de servicio al cliente excepcional, asegurando la satisfacción y fidelización de los consumidores, alineando todos los procesos para ofrecer una experiencia coherente y eficiente.
 
-      [ In this role, Java, Quarkus, Spring Boot, Maven, Camel, Kafka, SQL DBs, Kubernetes, OpenAPI, SOAP, Apigee are used ]
-
-  - role: Senior .NET Developer
-    time: 2023 - 2024
-    company: Claro, Santo Domingo
+  - role: Asistente de Delivery
+    time: Agosto 2021 – Febrero 2023
+    company: Reysa Food SRL
     details: |
-      Designed and implemented a resilient integration with eSIM migration services for prepaid and postpaid customers, and developed a plugin for automatic case creation in the mobile breakdown system for failed mobile provisioning orders.
+      Encargada de la supervisión integral de las plataformas de delivery (Uber Eats, PedidosYa, DiDi, Hugo), realizando revisiones periódicas para asegurar su operatividad continua y alineación con las necesidades del negocio.
 
-      Designed a search method that provides suggestions for products added within the last six months based on the search criteria.
+      Validé la disponibilidad y el correcto funcionamiento de las plataformas de entrega, garantizando una experiencia fluida para el cliente y una respuesta oportuna ante cualquier inconveniente.
 
-      [ In this role, .NET, C#, NopCommerce, HTML, CSS, Knockout.JS, ReactJS, MVC, Relational Databases are used ]
+      Llevé a cabo una meticulosa verificación del inventario, asegurando la disponibilidad de los productos antes de la asignación de las órdenes, evitando retrasos o problemas de stock.
 
-  - role: Software Developer I
-    time: 2021 - 2023
-    company: Korewireless, Remote
+      Coordiné el despacho de las órdenes hacia los repartidores correspondientes, garantizando que las entregas se realizasen de forma eficiente y en el tiempo previsto, manteniendo siempre altos estándares de servicio y satisfacción del cliente.
+
+  - role: Vendedora de Comida Callejera
+    time: Agosto 2021 – Febrero 2023
+    company: Autoempleada
     details: |
-      Streamlined and standardized product features from multiple telecom companies into a unified format within a transformation process pipeline.
+      Responsable de la creación y comercialización de bollería artesanal, incluyendo productos como empanadas, quipes, jugos, bollitos y croquetas, brindando una oferta fresca y auténtica para el mercado local.
 
-      Deployed a Kubernetes HPA using the Kafka Consumer Lag metric to automatically scale cluster pods based on network traffic. 
+      Supervisé de forma integral el manejo de inventarios, asegurando la correcta disponibilidad de insumos y optimizando la rotación de productos.
 
-      Migrated most Rules Engine services from .NET Core 3.1 to .NET 6.
+      Gestioné todo el proceso de producción, garantizando la calidad constante de los productos, desde la preparación hasta la venta final.
 
-      [ In this role, .NET, C#, Kafka, Kubernetes, NodeJS, Angular, GraphQL, OpenAPI, SQL DBs are used ]
+      Realicé actividades de venta directas, estableciendo relaciones personales con los clientes y brindando un servicio excepcional que resultó en un alto nivel de fidelización.
 
-  - role: Senior Java Developer
-    time: 2022 - 2022
-    company: Claro, Remote
+      Llevé a cabo tareas de contabilidad básica para el control eficiente de ingresos, egresos y utilidades, permitiendo la correcta gestión financiera del negocio.
+
+  - role: Vendedora de Ropa Deportiva
+    time: Agosto 2021 – Febrero 2023
+    company: Tienda Mayorista Local
     details: |
-      Expanded the functionality of the postpaid suspension, sales management, and administration console modules.
+      Brindé atención personalizada a los clientes durante el proceso de compra, guiándolos en la selección de productos y resolviendo dudas sobre características, tallas y precios, asegurando una experiencia de compra satisfactoria y acorde a sus necesidades.
 
-      Designed and implemented an integration module with FlyTXT's Neon to retrieve client offers during inbound and outbound advertising campaigns.
+      Fomenté un ambiente de ventas orientado a resultados, promoviendo productos de manera efectiva y generando recomendaciones que ayudaron a incrementar las ventas.
 
-      [ In this role, Java, JSF, SOAP, Maven, REST, Relational Databases are used ]
-
-  - role: Independent Consultant
-    time: 2021 - Present
-    company: Independent
-    details: |
-      Social media scheduling app, powered by Artificial Intelligence, for Twitter content creation.
-
-      RESTful API as a layer for sending messages in Batch mode through the WhatsApp Business API.
-
-      Landing Page for the Pulmonary Hypertension Foundation of the Dominican Republic.
-
-      Landing Page for the first French-Dominican security company.
-
-      Landing Page for a company that sells medical equipment.
-
-      Landing Page for a call center.
-
-      Landing Page for personal branding for an insurance and real estate agent.
-
-      [ In this role, NodeJS, NestJS, Angular, MongoDB, SQL DBs are used ]
-
-  - role: React Native Developer
-    time: 2021 - 2021
-    company: Observe, Remote
-    details: |
-      Prototyped the screens for the mobile application of the e-learning platform, Observe.
-
-      [ In this role, NodeJS, React Native, Expo, Firebase are used ]
-
-  - role: Angular Developer
-    time: 2020 - 2021
-    company: Call Center Pros, Santo Domingo
-    details: |
-      Defined the new architecture and implemented the migration of the graphical interface for the Laczy CRM.
-
-      Defined the new architecture and implemented the migration of the graphical interface for the Jobs job portal.
-
-      [ In this role, Angular, HTML, CSS, TypeScript, RxJS, Ajax, REST are used ]
-
-  - role: Software Developer II
-    time: 2020 - 2020
-    company: Verizon Enterprise, Remote
-    details: |
-      Migrated the Administration Tool, a set of tools for Verizon's portal administrator users.
-
-      Migrated the BAN maintenance module, a set of views designed to manage the Billing Account Numbers of the carrier’s clients.
-
-      Migrated the BAN maintenance module, a set of views designed to operate on the Billing Account Numbers of the carrier's clients.
-
-      [ In this role, Angular, HTML, CSS, TypeScript, RxJS, Ajax, PrimeNG are used ]
-
-  - role: Java Developer
-    time: 2019 - 2020
-    company: Claro, Santo Domingo
-    details: |
-      Redesigned a project called Digital Forms, a composite, service- and component-based web application that operates across all client service centers nationwide.
-
-      Retrieved transactions from five different company information systems, mapped them into digital forms, and then sent them to the customer via email in PDF format.
-
-      Modeled UML representations of application flows and entities, applied OO design principles and patterns, and reduced implementation time from one week to one hour.
-
-      [ In this role, Java, Wicket, Maven, JDBC, Spring DI Container, HTML, CSS are used ]
-
-projects:
-  title: My Portfolio
-  intro: >
-    These are just a few projects from my portfolio that you may like to see.
-  assignments:
-    - title: Albums
-      link: "https://www.linkedin.com/feed/update/urn:li:activity:6809633629484965888/"
-      tagline: "An album application for Android, built in React Native (UI Only)."
-
-    - title: Make Me
-      link: "https://www.linkedin.com/feed/update/urn:li:activity:6809169309651271680/"
-      tagline: "A todo list application for Android, built in React Native."
-
-    - title: Telegram Chatbot
-      link: "https://www.linkedin.com/feed/update/urn:li:activity:6871432974882144256/"
-      tagline: "An echo Telegram chatbot built with Telegraf and Express JS."
-
-    - title: Cafe Oslo
-      link: "https://www.linkedin.com/feed/update/urn:li:activity:6789607378967949312/"
-      tagline: "A responsive landing page built completely with HTML5 & CSS3."
-
-    - title: Foundation
-      link: "https://fundacionhprd.org/"
-      tagline: "Landing page for the Pulmonary Hypertension Foundation of the Dominican Republic."
-
-    - title: Meal Trip
-      link: "https://www.linkedin.com/feed/update/urn:li:activity:6788920543484674048/"
-      tagline: "A hero visual component with a background video built completely with HTML5."
-
-publications:
-  title: LinkedIn Newsletter
-  intro: |
-    Don't miss Digital Symphony: Art, Design, and Code, for CEOs, CTOs, IT Managers, Recruiters, and telecom enthusiasts. 🌐🎶
-  papers:
-    - title: Symphony '#1 The Art of Telecommunications Da Vinci-Style 🎨📡'
-      link: "https://www.linkedin.com/pulse/sinfon%C3%ADa-1-el-arte-de-las-telecomunicaciones-la-manera-ricardo-osorio-lukne/"
-      authors: Ricardo Osorio - September 10, 2024
-      conference: LinkedIn allows translations
-    - title: Symphony '#6 Harmonizing Optimization in Telcos. How does lack of interoperability affect Telcos?'
-      link: "https://www.linkedin.com/pulse/sinfon%C3%ADa-6-armonizando-la-optimizaci%C3%B3n-en-telcos-c%C3%B3mo-ricardo-osorio-n5t8e/?trackingId=SCtZv%2FIqQ2GiaBY7rkqzHQ%3D%3D"
-      authors: Ricardo Osorio - November 21, 2024
-      conference: LinkedIn allows translations
-    - title: Symphony '#7 🏨 Explore the Dark Hallways of the Overlook and Discover How eTOM Transforms Telecommunications… Here’s Johnny!'
-      link: "https://www.linkedin.com/pulse/sinfon%C3%ADa-7-ad%C3%A9ntrate-en-los-oscuros-pasillos-del-overlook-osorio-ny6me/?trackingId=PqW4UckSStqZnD6N1D9YpQ%3D%3D"
-      authors: Ricardo Osorio - November 27, 2024
-      conference: LinkedIn allows translations
-    - title: Symphony '#4 Connectivity with an API Flavor. Chronicles of a French Emperor… Long Live Napoleon.'
-      link: "https://www.linkedin.com/pulse/sinfon%C3%ADa-4-conectividad-con-sabor-api-cr%C3%B3nicas-de-un-emperador-4fije/?trackingId=r7DzZJRuQciHw9S4HtH1zw%3D%3D"
-      authors: Ricardo Osorio - November 13, 2024
-      conference: LinkedIn allows translations
-    - title: Symphony '#8 Epic Lessons of Adaptability to Lead Invincible Teams.'
-      link: "https://www.linkedin.com/pulse/sinfon%C3%ADa-8-lecciones-%C3%A9picas-de-adaptabilidad-para-liderar-osorio-lua1f/?trackingId=IZeJgnOsS02D5khetF3n2A%3D%3D"
-      authors: Ricardo Osorio - December 4, 2024
-      conference: LinkedIn allows translations
+      Mantuve un conocimiento actualizado sobre los productos y promociones disponibles, ofreciendo información precisa para la toma de decisiones de los clientes.
 
 skills:
-  title: Skills
+  title: Habilidades
   toolset:
-    - name: HTML
+    - name: Manejo de Caja
       level: 280
 
-    - name: CSS
+    - name: Atención Al Cliente
       level: 280
 
-    - name: JavaScript
-      level: 330
-
-    - name: TypeScript
-      level: 320
-
-    - name: C#
-      level: 300
-
-    - name: Java
-      level: 350
-
-    - name: Angular
-      level: 320
-
-    - name: React
+    - name: Gestión De Equipos
       level: 280
 
-    - name: React Native
+    - name: Office Básico
       level: 280
 
-    - name: Node.js
-      level: 340
+    - name: Manejo de Conflictos
+      level: 280
 
-    - name: Strapi.js
-      level: 300
+    - name: Comunicación Efectiva
+      level: 280
 
-    - name: NestJS
-      level: 300
+    - name: Capacidad de Adaptación
+      level: 280
 
-    - name: Apache Kafka
-      level: 250
-
-    - name: Git
-      level: 200
-
-    - name: Kubernetes
-      level: 200
-
-    - name: Apigee
-      level: 150
-
-    - name: Railway
-      level: 300
-
-    - name: Firebase
-      level: 260
-
-    - name: Heroku
-      level: 250
-
-    - name: GraphQL
-      level: 300
-
-    - name: Figma
-      level: 200
+    - name: Manejo de Inventario
+      level: 280
