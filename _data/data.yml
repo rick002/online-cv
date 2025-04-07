@@ -52,6 +52,12 @@ sidebar:
     - item: Servicio Al Cliente
       link: ""
 
+    - item: Manejo de Inventario
+      link: ""
+
+    - item: Manejo de Caja
+      link: ""
+
 career-profile:
   title: Te Cuento...
   summary: |
