@@ -4,8 +4,8 @@ sidebar:
 
   # Profile information
   name: Julianny Belen
-  tagline: Gerente General De Pronto Pasta
-  avatar: nayeli-profile.png # place a 100x100 picture inside the /assets/images/ folder and provide the name of the file below
+  tagline: Experta En Servicio Al Cliente
+  avatar: profile.jpeg # place a 100x100 picture inside the /assets/images/ folder and provide the name of the file below
 
   # Sidebar links
   email: nayelibelen447@gmail.com
@@ -61,7 +61,7 @@ sidebar:
 career-profile:
   title: Te Cuento...
   summary: |
-    Amplia experiencia en la gestión operativa de un restaurante de comida rápida, graduada en Gastronomía y Turismo, y experta en cosmetología artesanal. Poseo habilidades destacadas en atención al cliente, liderazgo de equipos y administración de recursos. Actualmente busco una nueva oportunidad en el sector restaurantero, donde pueda aplicar mis conocimientos en gestión, resolución de problemas y optimización de procesos para contribuir al logro de los objetivos de la organización, fortalecer la experiencia del cliente y generar impacto positivo en el desempeño del equipo.
+    Experta en servicio al cliente con amplia experiencia en la gestión operativa de un restaurante de comida rápida, graduada en Gastronomía y Turismo, y experta en cosmetología artesanal. Poseo habilidades destacadas en atención al cliente, liderazgo de equipos y administración de recursos. Actualmente busco una nueva oportunidad en el sector restaurantero, donde pueda aplicar mis conocimientos en gestión, resolución de problemas y optimización de procesos para contribuir al logro de los objetivos de la organización, fortalecer la experiencia del cliente y generar impacto positivo en el desempeño del equipo.
 
 education:
   - degree: Psicología General (En Curso)
