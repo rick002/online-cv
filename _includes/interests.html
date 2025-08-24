@@ -3,10 +3,10 @@
   <h2 class="container-block-title">{{ interests.title }}</h2>
 
   <ul class="list-unstyled interests-list">
-    {% for item in interests.items %} {% if interests.link %}
-    <li><a href="#">{{ item }}</a></li>
+    {% for interest in interests.items %} {% if interest.link %}
+    <li><a href="#">{{ interest.item }}</a></li>
     {% else %}
-    <li>{{ item }}</li>
+    <li>{{ interest.item }}</li>
     {% endif %} {% endfor %}
   </ul>
 </div>
