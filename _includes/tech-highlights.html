@@ -1,0 +1,14 @@
+{% assign highlights = site.data.data.sidebar.tech-highlights %} {% if
+highlights %}
+<div class="interests-container container-block">
+  <h2 class="container-block-title">{{ highlights.title }}</h2>
+
+  <ul class="list-unstyled interests-list">
+    {% for highlight in highlights %} {% if highlights.link %}
+    <li><a href="#">{{ highlight.item }}</a></li>
+    {% else %}
+    <li>{{ highlight.item }}</li>
+    {% endif %} {% endfor %}
+  </ul>
+</div>
+{% endif %}

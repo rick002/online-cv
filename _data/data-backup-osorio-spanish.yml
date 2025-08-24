@@ -1,0 +1,234 @@
+sidebar:
+  about: false
+  education: false
+
+  # Información de perfil
+  name: Ricardo Osorio
+  tagline: Ingeniero de Software Senior · Integración & APIs (Quarkus/Camel/Kafka/Apigee)
+  avatar: ricardo-profile.jpeg
+
+  # Enlaces laterales
+  email: osorioj842@gmail.com
+  phone: 1-849-361-2817
+  citizenship: Dominicano
+  linkedin: Ricardo Osorio
+  linkedinURI: ricardo-osorio-32b450183
+  github: rick002
+
+  languages:
+    - idiom: Inglés
+      level: Profesional
+    - idiom: Español
+      level: Nativo
+
+  concepts:
+    - item: Diseño y Gobernanza de APIs
+    - item: Microservicios
+    - item: TM Forum Open APIs
+    - item: Patrones de Integración (Camel/Kafka)
+    - item: Pipelines CI/CD
+    - item: Desarrollo Cloud-Native & Contenedores (K8s)
+    - item: Patrones de Diseño
+    - item: GitOps
+
+  interests:
+    - item: Interfaz de Usuario / Experiencia de Usuario
+    - item: Arquitectura de Software
+    - item: Antropología
+    - item: Filosofía
+    - item: Historia
+
+career-profile:
+  title: Transformando la Tecnología en Valor de Negocio
+  summary: |
+    Ingeniero de Software Senior especializado en **plataformas de integración y APIs** para entornos de telecomunicaciones y empresariales. 
+
+    Traduzco objetivos de negocio en servicios robustos (Quarkus/Spring, Camel, Kafka, Apigee) que estandarizan datos, 
+    reducen la fricción operativa y aceleran la entrega. 
+
+    He liderado soluciones de extremo a extremo—desde UI/UX hasta backend y despliegue—priorizando la confiabilidad, 
+    mantenibilidad e impacto de negocio medible.
+
+education:
+  - degree: Tecnólogo en Desarrollo de Software
+    university: Instituto Tecnológico de Las Américas (ITLA)
+    time: 2016 - 2019
+  - degree: Inglés
+    university: Universidad APEC
+    time: 2007 - 2011
+
+experiences:
+  - role: Ingeniero IV · Ingeniero de Integración Empresarial
+    time: Ene 2024 – Presente
+    company: Claro, Santo Domingo
+    details: |
+      • Implementé una **capa de integración para consultas de metadatos** utilizada por todos los sistemas de cara al cliente a nivel nacional, 
+        garantizando una única fuente de verdad y reduciendo inconsistencias de datos en toda la infraestructura de negocio.
+
+      • Construí una **capa de integración para consultas de órdenes de trabajo en campo**, habilitando acceso casi en tiempo real a los sistemas operativos 
+        y mejorando la eficiencia en la entrega de servicios.
+
+      • Diseñé y desplegué un **servicio de dominio REST API** para recuperar interacciones de clientes a través de canales digitales, 
+        mejorando el seguimiento, la generación de reportes y el análisis de engagement.
+
+      • Integré con **SAP** para la provisión de equipos y servicios (códigos CPE), optimizando operaciones y reduciendo errores manuales.
+
+      • Desarrollé una integración con **servicios SOAP** para órdenes de provisión de líneas fijas, asegurando continuidad del negocio 
+        y una transición más fluida entre plataformas heredadas y modernas.
+
+      • Entregué un **servicio compuesto** para la activación de códigos de restricción de llamadas, gestionando todo el ciclo de vida desde el desarrollo 
+        hasta el despliegue con Kubernetes, Docker y GitLab CI, logrando mayor estabilidad y despliegues más rápidos.
+
+      • Preparé una **prueba de concepto de una API de comunicaciones multicanal**, permitiendo el envío de mensajes a través de distintos canales 
+        con extensibilidad plug-and-play para incorporar nuevos canales sin impactar las integraciones existentes.
+
+      • Expuse **APIs externas de forma segura mediante Apigee Gateway**, habilitando configuraciones de proxies controlados que mejoraron 
+        la gobernanza y minimizaron riesgos de acceso no controlado.
+
+      • Stack: Java, Quarkus, Spring Boot, Maven, Apache Camel, Kafka, Bases de Datos SQL, Kubernetes, Docker, GitLab CI, 
+        OpenAPI/Swagger, SOAP, Apigee, SAP.
+
+  - role: Diseñador de Software Senior
+    time: Mar 2024 – Ago 2024
+    company: FalconTech SRL
+    details: |
+      • Entregué una **aplicación de creación de contenido para Twitter asistida por IA** de extremo a extremo (UI/UX, frontend, backend, BD, despliegue).
+
+      • Creé una **plataforma REST API** para estadísticas financieras (datos del Banco Central) y licitaciones públicas en la República Dominicana; 
+        asumiendo UI/UX, frontend, backend, BD y despliegue.
+
+  - role: Desarrollador Senior .NET
+    time: 2023 - 2024
+    company: Claro, Santo Domingo
+    details: |
+      • Integré **servicios de migración eSIM** (prepago/postpago) y un plugin para la creación automática de casos en fallos de provisión móvil.
+
+      • Implementé una **búsqueda de productos** con sugerencias basadas en antigüedad (últimos 6 meses).
+
+      • Stack: .NET/C#, NopCommerce, HTML/CSS, Knockout.js, React, MVC, RDBMS.
+
+  - role: Desarrollador Senior Java
+    time: 2022
+    company: Claro, Remoto
+    details: |
+      • Amplié la funcionalidad de los módulos de **suspensión postpago**, gestión de ventas y consola de administración.
+
+      • Construí una integración con **FlyTXT Neon** para recuperar ofertas de clientes en campañas de marketing entrante y saliente.
+
+      • Stack: Java, JSF, SOAP, Maven, REST, RDBMS.
+
+  - role: Desarrollador de Software I
+    time: 2021 - 2023
+    company: Korewireless, Remoto
+    details: |
+      • Estandaricé características de productos de múltiples telcos en un **pipeline de transformación unificado**.
+
+      • Desplegué un **HPA en Kubernetes** basado en métricas de Kafka Consumer Lag para escalar automáticamente pods de clúster según tráfico.
+
+      • Migré servicios del motor de reglas de **.NET Core 3.1 → .NET 6**.
+
+      • Stack: .NET/C#, Kafka, Kubernetes, Node.js, Angular, GraphQL, OpenAPI, SQL.
+
+  - role: Consultor Independiente
+    time: 2021 - Presente
+    company: Independiente
+    details: |
+      • Aplicación de programación de redes sociales (IA) para creación de contenido en Twitter.
+
+      • API RESTful para **envío masivo de mensajes** a través de WhatsApp Business.
+
+      • Varias **landing pages** (ONGs, seguridad, equipos médicos, call center, branding personal).
+
+      • Stack: Node.js, NestJS, Angular, MongoDB, SQL.
+
+  - role: Desarrollador Angular
+    time: 2020 - 2021
+    company: Call Center Pros, Santo Domingo
+    details: |
+      • Definí arquitectura y lideré la **migración de UI** para CRM Laczy y portal de empleos Jobs.
+
+      • Stack: Angular, TypeScript, RxJS, REST.
+
+  - role: Desarrollador de Software II
+    time: 2020
+    company: Verizon Enterprise, Remoto
+    details: |
+      • Migré la suite de **herramientas de administración** y los módulos de **mantenimiento BAN** para clientes corporativos.
+
+      • Stack: Angular, TypeScript, RxJS, PrimeNG.
+
+  - role: Desarrollador Java
+    time: 2019 - 2020
+    company: Claro, Santo Domingo
+    details: |
+      • Rediseñé **Digital Forms**, una aplicación web compuesta utilizada a nivel nacional en centros de servicio.
+
+      • Integré transacciones de 5 sistemas → mapeadas en formularios digitales → enviadas al cliente en **PDF por email**.
+
+      • Modele UML, apliqué patrones de diseño OO; reduje tiempos de implementación **de 1 semana a 1 hora**.
+
+      • Stack: Java, Wicket, Maven, JDBC, Spring DI, HTML/CSS.
+
+publications:
+  title: Newsletter en LinkedIn
+  intro: |
+    Ediciones de **Light Reading** y **Landing Crazy POP**, dos newsletters que combinan visión estratégica, APIs, negocio y creatividad digital.
+
+  papers:
+    - title: "Light Reading #1: Escala o Desaparece — la guía no tan seria para llevar tu negocio al siguiente nivel (con chatbots, apps y un poco de dignidad)"
+      authors: Ricardo Osorio
+      conference: Español
+
+    - title: "Light Reading #2: Construye o Quédate Fuera — la guía cero técnica (pero poderosa) para entender qué es realmente una Plataforma de APIs"
+      authors: Ricardo Osorio
+      conference: Español
+
+    - title: "Landing Crazy POP #1: Lo que Calla el Embudo"
+      authors: Ricardo Osorio
+      conference: Español
+
+    - title: "Landing Crazy POP #2: La Caja Negra de la Conversión"
+      authors: Ricardo Osorio
+      conference: Español
+
+skills:
+  title: Habilidades
+  toolset:
+    - name: Java
+      level: 350
+    - name: Node.js
+      level: 340
+    - name: JavaScript
+      level: 330
+    - name: Quarkus
+      level: 320
+    - name: TypeScript
+      level: 320
+    - name: Angular
+      level: 320
+    - name: Spring Boot
+      level: 300
+    - name: C#
+      level: 300
+    - name: NestJS
+      level: 300
+    - name: Strapi.js
+      level: 300
+    - name: GraphQL
+      level: 300
+    - name: React
+      level: 280
+    - name: React Native
+      level: 280
+    - name: HTML
+      level: 280
+    - name: CSS
+      level: 280
+    - name: Apache Kafka
+      level: 250
+    - name: Kubernetes
+      level: 230
+    - name: GitOps
+      level: 220
+    - name: Apigee
+      level: 210

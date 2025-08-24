@@ -13,7 +13,6 @@ sidebar:
   citizenship: Dominican
   linkedin: Ricardo Osorio
   linkedinURI: ricardo-osorio-32b450183
-  github: rick002
 
   languages:
     - idiom: English
@@ -22,14 +21,50 @@ sidebar:
       level: Native
 
   concepts:
-    - item: API Design & Governance
-    - item: Microservices
-    - item: TM Forum Open APIs
     - item: Integration Patterns (Camel/Kafka)
-    - item: CI/CD Pipelines
     - item: Cloud-Native & Containers (K8s)
+    - item: API Design & Governance
+    - item: TM Forum Open APIs
+    - item: CI/CD Pipelines
     - item: Design Patterns
+    - item: Microservices
     - item: GitOps
+
+  tech-highlights:
+    title: Tech Highlights
+    items:
+      - Frontend: Angular, React
+      - Backend: Java, Node.js, Spring Boot
+      - Cloud & Ops: Kubernetes, Docker, GitLab CI
+      - APIs & Integration: Quarkus, Camel, Kafka, Apigee
+
+  inspiration:
+    title: Inspiration & Philosophy
+    items:
+      - "Simplicity is the ultimate sophistication. — Leonardo da Vinci"
+
+  soft-skills:
+    title: Soft Skills
+    items:
+      - Technical leadership
+      - Clear communication with C-Level
+      - Complex problem solving
+      - Remote & multicultural collaboration
+
+  methodologies:
+    title: Work Methodologies
+    items:
+      - Agile / Scrum
+      - DevOps / CI/CD
+      - API-First Design
+
+  impact:
+    title: Impact in Numbers
+    items:
+      - 1 año y 8 meses en Integración Empresarial
+      - 12+ integraciones implementadas
+      - Millones de usuarios impactados
+      - 20+ aplicativos conectados
 
   interests:
     - item: User Interface / User Experience
@@ -49,6 +84,11 @@ career-profile:
     I’ve led end-to-end solutions—from UI/UX to backend and 
     deployment—prioritizing reliability, maintainability, and measurable business impact.
 
+    Author of 2 newsletters with 900+ subscribers across LatAm and Spain:
+    • **Landing Crazy POP** (conversion & digital storytelling).
+    • **Light Reading** (APIs & strategy).
+
+    **Open to local & global remote roles in Integration & API Platforms.**
 education:
   - degree: Software Development Technologist
     university: The Americas Institute Of Technology
@@ -150,7 +190,7 @@ experiences:
       • Stack: Angular, TypeScript, RxJS, REST.
 
   - role: Software Developer II
-    time: 2020
+    time: 2020 - 2020
     company: Verizon Enterprise, Remote
     details: |
       • Migrated **Administration Tool** suite and **BAN maintenance** modules for carrier clients.
