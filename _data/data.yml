@@ -58,17 +58,35 @@ education:
     time: 2007 - 2011
 
 experiences:
-  - role: Engineer IV · Integrations Engineer
-    time: 2024 - present
+  - role: Engineer IV · Enterprise Integration Engineer
+    time: Jan 2024 – Present
     company: Claro, Santo Domingo
     details: |
       • Implemented a **metadata query integration layer** used by all customer-facing systems nationwide, 
-        unifying formats and simplifying downstream consumption.
+        ensuring a single source of truth and reducing data inconsistencies across the business infrastructure.
 
-      • Built an **integration for field work-order queries**, enabling near real-time visibility across 
-        operational systems and improving service delivery.
+      • Built an **integration layer for field work-order queries**, enabling near real-time access to operational systems 
+        and improving service delivery efficiency.
 
-      • Stack: Java, Quarkus, Spring Boot, Maven, Apache Camel, Kafka, SQL, Kubernetes, OpenAPI/Swagger, SOAP, Apigee.
+      • Designed and deployed a **REST API domain service** to retrieve customer interactions across digital channels, 
+        improving tracking, reporting, and engagement analysis.
+
+      • Integrated with **SAP** for CPE equipment/service provisioning, streamlining operations and reducing manual errors.
+
+      • Developed an integration with **SOAP services** for fixed-line provisioning orders, ensuring business continuity 
+        and smoother coexistence of legacy and modern platforms.
+
+      • Delivered a **composite service** for activating call restriction codes, managing the full lifecycle from 
+        development to deployment with Kubernetes, Docker, and GitLab CI, achieving greater stability and faster rollouts.
+
+      • Prepared a **proof of concept for a multi-channel communications API**, enabling messaging through multiple channels 
+        with plug-and-play extensibility to incorporate new channels without impacting existing integrations.
+
+      • Exposed **external APIs securely through Apigee Gateway**, enabling controlled proxy configurations to improve 
+        governance and minimize access risks.
+
+      • Stack: Java, Quarkus, Spring Boot, Maven, Apache Camel, Kafka, SQL Databases, Kubernetes, Docker, GitLab CI, 
+        OpenAPI/Swagger, SOAP, Apigee, SAP.
 
   - role: Senior Software Designer
     time: Mar 2024 – Aug 2024
@@ -151,30 +169,6 @@ experiences:
 
       • Stack: Java, Wicket, Maven, JDBC, Spring DI, HTML/CSS.
 
-projects:
-  title: My Portfolio
-  intro: >
-    Selected work samples.
-  assignments:
-    - title: Albums
-      link: "https://www.linkedin.com/feed/update/urn:li:activity:6809633629484965888/"
-      tagline: "Android album UI in React Native."
-    - title: Make Me
-      link: "https://www.linkedin.com/feed/update/urn:li:activity:6809169309651271680/"
-      tagline: "Android todo app in React Native."
-    - title: Telegram Chatbot
-      link: "https://www.linkedin.com/feed/update/urn:li:activity:6871432974882144256/"
-      tagline: "Echo bot with Telegraf + Express."
-    - title: Cafe Oslo
-      link: "https://www.linkedin.com/feed/update/urn:li:activity:6789607378967949312/"
-      tagline: "Responsive landing page in HTML5/CSS3."
-    - title: Foundation
-      link: "https://fundacionhprd.org/"
-      tagline: "Pulmonary Hypertension Foundation (DR) landing."
-    - title: Meal Trip
-      link: "https://www.linkedin.com/feed/update/urn:li:activity:6788920543484674048/"
-      tagline: "Hero component with background video (HTML5)."
-
 publications:
   title: LinkedIn Newsletter
   intro: |
@@ -182,22 +176,22 @@ publications:
 
   papers:
     - title: "Light Reading #1: Scale or Disappear — the not-so-serious guide to take your business to the next level (with chatbots, apps, and a bit of dignity)"
-      link: https://www.linkedin.com/pulse/escala-o-desparece-la-gu%25C3%25ADa-tan-seria-para-llevar-tu-negocio-osorio-a8g4e/?trackingId=rGmuJ%2F%2FKTFu5y%2BSU6mi%2FTw%3D%3D
+      link: "https://www.linkedin.com/pulse/escala-o-desparece-la-gu%25C3%25ADa-tan-seria-para-llevar-tu-negocio-osorio-a8g4e/?trackingId=rGmuJ%2F%2FKTFu5y%2BSU6mi%2FTw%3D%3D"
       authors: Ricardo Osorio
       conference: Spanish
 
     - title: "Light Reading #2: Build or Stay Out — the zero-technical (but powerful) guide to understand what an API Platform really is"
-      link: https://www.linkedin.com/pulse/construye-o-qu%25C3%25A9date-afuera-la-gu%25C3%25ADa-cero-t%25C3%25A9cnica-pero-poderosa-osorio-2uole/?trackingId=rGmuJ%2F%2FKTFu5y%2BSU6mi%2FTw%3D%3D
+      link: "https://www.linkedin.com/pulse/construye-o-qu%25C3%25A9date-afuera-la-gu%25C3%25ADa-cero-t%25C3%25A9cnica-pero-poderosa-osorio-2uole/?trackingId=rGmuJ%2F%2FKTFu5y%2BSU6mi%2FTw%3D%3D"
       authors: Ricardo Osorio
       conference: Spanish
 
     - title: "Landing Crazy POP #1: What the Funnel Doesn’t Tell You"
-      link: https://www.linkedin.com/pulse/landing-crazy-pop-1-hoy-presentamos-lo-que-calla-el-embudo-osorio-0ehje/?trackingId=%2F4E73zcCSDiXsPK9cmM03w%3D%3D
+      link: "https://www.linkedin.com/pulse/landing-crazy-pop-1-hoy-presentamos-lo-que-calla-el-embudo-osorio-0ehje/?trackingId=%2F4E73zcCSDiXsPK9cmM03w%3D%3D"
       authors: Ricardo Osorio
       conference: Spanish
 
     - title: "Landing Crazy POP #2: The Black Box of Conversion"
-      link: https://www.linkedin.com/pulse/landing-crazy-pop-2-hoy-presentamos-la-caja-negra-de-ricardo-osorio-knwje/?trackingId=%2F4E73zcCSDiXsPK9cmM03w%3D%3D
+      link: "https://www.linkedin.com/pulse/landing-crazy-pop-2-hoy-presentamos-la-caja-negra-de-ricardo-osorio-knwje/?trackingId=%2F4E73zcCSDiXsPK9cmM03w%3D%3D"
       authors: Ricardo Osorio
       conference: Spanish
 
