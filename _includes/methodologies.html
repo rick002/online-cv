@@ -1,0 +1,14 @@
+{% assign methodologies = site.data.data.sidebar.methodologies %} {% if
+methodologies %}
+<div class="interests-container container-block">
+  <h2 class="container-block-title">{{ methodologies.title }}</h2>
+
+  <ul class="list-unstyled interests-list">
+    {% for item in methodologies.items %} {% if methodologies.link %}
+    <li><a href="#">{{ item }}</a></li>
+    {% else %}
+    <li>{{ item }}</li>
+    {% endif %} {% endfor %}
+  </ul>
+</div>
+{% endif %}
