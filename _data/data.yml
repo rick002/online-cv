@@ -15,7 +15,7 @@ sidebar:
   linkedinURI: ricardo-osorio-32b450183
 
   languages:
-    title: 🌐 Languages
+    title: Languages
     idioms:
       - idiom: 🇬🇧 English
         level: Professional
@@ -23,7 +23,7 @@ sidebar:
         level: Native
 
   concepts:
-    title: 🧩 Core Strengths
+    title: Core Strengths
     items:
       - item: Integration Patterns (Camel/Kafka)
       - item: Cloud-Native & Containers (K8s)
@@ -35,7 +35,7 @@ sidebar:
       - item: GitOps
 
   tech-highlights:
-    title: 🚀 Tech Highlights
+    title: Tech Highlights
     items:
       - item: "Frontend: Angular"
       - item: "Backend: Java, Node.js, Spring Boot, Servlets, Strapi, NestJS, .NET"
@@ -43,7 +43,7 @@ sidebar:
       - item: "APIs & Integration: Quarkus, Camel, Kafka, Apigee"
 
   inspiration:
-    title: 📜 Inspiration & Philosophy
+    title: Inspiration & Philosophy
     items:
       - "Simplicity is the ultimate sophistication. — Leonardo da Vinci"
       - "If people knew how hard I worked to gain my mastery, it wouldn’t seem so wonderful at all. — Michelangelo"
@@ -51,7 +51,7 @@ sidebar:
       - "Life can only be understood backwards; but it must be lived forwards. — Søren Kierkegaard"
 
   soft-skills:
-    title: 🤝 Soft Skills
+    title: Soft Skills
     items:
       - Technical leadership
       - Complex problem solving
@@ -59,14 +59,14 @@ sidebar:
       - Remote & multicultural collaboration
 
   methodologies:
-    title: 🛠️ Work Methodologies
+    title: Work Methodologies
     items:
       - Agile / Scrum
       - DevOps / CI/CD
       - API-First Design
 
   impact:
-    title: 📊 Impact in Numbers
+    title: Impact in Numbers
     items:
       - 1 year and 8 months in Enterprise Integration
       - 12+ integrations delivered
@@ -74,7 +74,7 @@ sidebar:
       - 10M+ of users impacted
 
   interests:
-    tile: 🎯 Interests
+    title: Interests
     items:
       - item: User Interface / User Experience
       - item: Software Architecture
