@@ -31,12 +31,10 @@ sidebar:
     - item: GitOps
 
   tech-highlights:
-    title: Tech Highlights
-    items:
-      - Frontend: Angular, React
-      - Backend: Java, Node.js, Spring Boot
-      - Cloud & Ops: Kubernetes, Docker, GitLab CI
-      - APIs & Integration: Quarkus, Camel, Kafka, Apigee
+    - item: "Frontend: Angular, React"
+    - item: "Backend: Java, Node.js, Spring Boot"
+    - item: "Cloud & Ops: Kubernetes, Docker, GitLab CI"
+    - item: "APIs & Integration: Quarkus, Camel, Kafka, Apigee"
 
   inspiration:
     title: Inspiration & Philosophy
