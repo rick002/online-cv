@@ -2,28 +2,28 @@ sidebar:
   about: false
   education: false
 
-  # Profile information
+  # Información de perfil
   name: Ricardo Osorio
-  tagline: Senior Software Engineer · Integration & APIs and SaaS (Quarkus/Camel/Kafka/Apigee)
+  tagline: Ingeniero de Software Senior · Integración & APIs y SaaS (Quarkus/Camel/Kafka/Apigee)
   avatar: ricardo-profile.jpeg
 
-  # Sidebar links
+  # Enlaces de contacto
   email: osorioj842@gmail.com
   phone: 1-849-361-2817
-  citizenship: Dominican
+  citizenship: Dominicano
   linkedin: Ricardo Osorio
   linkedinURI: ricardo-osorio-32b450183
 
   languages:
-    title: Languages
+    title: Idiomas
     idioms:
-      - idiom: 🇬🇧 English
-        level: Professional
-      - idiom: 🇪🇸 Spanish
-        level: Native
+      - idiom: 🇬🇧 Inglés
+        level: Profesional
+      - idiom: 🇪🇸 Español
+        level: Nativo
 
   concepts:
-    title: Core Strengths
+    title: Fortalezas Clave
     items:
       - item: Integration Patterns (Camel/Kafka)
       - item: Cloud-Native & Containers (K8s)
@@ -35,190 +35,190 @@ sidebar:
       - item: GitOps
 
   tech-highlights:
-    title: Tech Highlights
+    title: Destacados Tecnológicos
     items:
       - item: "Frontend: Angular"
       - item: "Backend: Java, Node.js, Spring Boot, Servlets, Strapi, NestJS, .NET"
       - item: "Cloud & Ops: Kubernetes, Docker, Podman, GitLab CI"
-      - item: "APIs & Integration: Quarkus, Camel, Kafka, Apigee"
+      - item: "APIs & Integración: Quarkus, Camel, Kafka, Apigee"
 
   inspiration:
-    title: Inspiration & Philosophy
+    title: Inspiración & Filosofía
     items:
-      - "Simplicity is the ultimate sophistication. — Leonardo da Vinci"
-      - "If people knew how hard I worked to gain my mastery, it wouldn’t seem so wonderful at all. — Michelangelo"
-      - "It is not true that people stop pursuing dreams because they grow old; they grow old because they stop pursuing dreams. — Gabriel García Márquez"
-      - "Life can only be understood backwards; but it must be lived forwards. — Søren Kierkegaard"
+      - "La simplicidad es la máxima sofisticación. — Leonardo da Vinci"
+      - "Si la gente supiera cuánto trabajé para alcanzar mi maestría, no parecería tan maravillosa. — Miguel Ángel"
+      - "No es verdad que las personas dejen de perseguir sus sueños porque envejecen; envejecen porque dejan de perseguir sus sueños. — Gabriel García Márquez"
+      - "La vida solo puede ser entendida mirando hacia atrás; pero debe vivirse hacia adelante. — Søren Kierkegaard"
 
   soft-skills:
-    title: Soft Skills
+    title: Habilidades Blandas
     items:
-      - Technical leadership
-      - Complex problem solving
-      - Clear communication with C-Levels
-      - Remote & multicultural collaboration
+      - Liderazgo técnico
+      - Resolución de problemas complejos
+      - Comunicación clara con C-Levels
+      - Colaboración remota y multicultural
 
   methodologies:
-    title: Work Methodologies
+    title: Metodologías de Trabajo
     items:
       - Agile / Scrum
       - DevOps / CI/CD
       - API-First Design
 
   impact:
-    title: Impact in Numbers
+    title: Impacto en Números
     items:
-      - 1 year and 8 months in Enterprise Integration
-      - 12+ integrations delivered
-      - 20+ applications connected
-      - 10M+ of users impacted
+      - 1 año y 8 meses en Integración Empresarial
+      - 12+ integraciones entregadas
+      - 20+ aplicaciones conectadas
+      - 10M+ de usuarios impactados
 
   interests:
-    title: Interests
+    title: Intereses
     items:
-      - item: User Interface / User Experience
-      - item: Software Architecture
-      - item: Anthropology
-      - item: Philosophy
-      - item: History
+      - item: Interfaz de Usuario / Experiencia de Usuario
+      - item: Arquitectura de Software
+      - item: Antropología
+      - item: Filosofía
+      - item: Historia
 
   certifications:
-    title: Certifications
+    title: Certificaciones
     items:
-      - Java — **In Progress**
-      - Docker — To Be Started
-      - Podman — To Be Started
-      - Kubernetes — To Be Started
-      - .NET — To Be Started
+      - Java — **En Progreso**
+      - Docker — Por Iniciar
+      - Podman — Por Iniciar
+      - Kubernetes — Por Iniciar
+      - .NET — Por Iniciar
 
 career-profile:
-  title: Turning Technology into Business Value
+  title: Transformando Tecnología en Valor de Negocio
   summary: |
-    Senior Software Engineer focused on **integration platforms and APIs** for telecom and enterprise environments. 
+    Ingeniero de Software Senior enfocado en **plataformas de integración y APIs** para entornos de telecomunicaciones y empresariales. 
 
-    I translate business goals into robust services (Quarkus/Spring, Camel, Kafka, Apigee) that standardize data, 
-    reduce operational friction, and accelerate delivery. 
+    Traduzco objetivos de negocio en servicios robustos (Quarkus/Spring, Camel, Kafka, Apigee) que estandarizan datos, 
+    reducen fricciones operativas y aceleran la entrega. 
 
-    I’ve led end-to-end solutions—from UI/UX to backend and 
-    deployment—prioritizing reliability, maintainability, and measurable business impact.
+    He liderado soluciones end-to-end—desde UI/UX hasta backend y despliegue—priorizando confiabilidad, mantenibilidad 
+    e impacto medible en el negocio.
 
-    Author of 2 newsletters with 900+ subscribers across Latam and Spain:
-    • **Landing Crazy POP** (conversion & digital storytelling).
-    • **Light Reading** (APIs & strategy).
+    Autor de 2 newsletters con 900+ suscriptores en Latam y España:
+    • **Landing Crazy POP** (conversión & storytelling digital).
+    • **Light Reading** (APIs & estrategia).
 
-    **Open to local & global remote roles in Integration & API and SaaS Platforms.**
+    **Abierto a roles locales y globales en remoto en Integración, APIs y SaaS Platforms.**
 
 achieve-goals:
-  title: Achieve Goals
+  title: Objetivos Por Lograr
   summary: |
-    My next chapter is about scaling the impact of integration beyond code — turning APIs and platforms 
-    into strategic assets that drive business growth.
+    Mi próximo capítulo trata de escalar el impacto de la integración más allá del código — convertir las APIs y plataformas 
+    en activos estratégicos que impulsen el crecimiento del negocio.
 
-    I want to partner with **C-Level**, **Tech Leaders** and **Teams** to translate complexity into clarity, ensuring that 
-    every technology decision contributes to measurable outcomes: efficiency, scalability, and customer trust.  
+    Quiero asociarme con **C-Level**, **Líderes Técnicos** y **Equipos** para traducir la complejidad en claridad, asegurando que 
+    cada decisión tecnológica contribuya a resultados medibles: eficiencia, escalabilidad y confianza del cliente.  
 
-    Along the way, I aim to foster collaboration across functions, mentor the next generation of engineers, 
-    and keep building bridges between strategy and execution through thought leadership.  
+    En el camino, busco fomentar la colaboración entre funciones, mentorizar a la próxima generación de ingenieros 
+    y seguir construyendo puentes entre estrategia y ejecución a través del liderazgo de pensamiento.  
 
-    My long-term aspiration is to become a **prodigious architect**, capable of designing not only robust 
-    technical systems but also digital ecosystems that inspire trust, resilience, and innovation at scale.  
+    Mi aspiración a largo plazo es convertirme en un **arquitecto prodigioso**, capaz de diseñar no solo sistemas técnicos robustos, 
+    sino también ecosistemas digitales que inspiren confianza, resiliencia e innovación a escala.  
 
-    **My goal: to grow as a global reference in Integration & API and SaaS Platforms, while helping organizations 
-    create ecosystems that scale without breaking.**
+    **Mi objetivo: crecer como una referencia global en Integración, APIs y SaaS Platforms, mientras ayudo a las organizaciones 
+    a crear ecosistemas que escalen sin romperse.**
 
 education:
-  title: Education
+  title: Educación
   graduation:
-    - degree: Software Development Technologist
-      university: The Americas Institute Of Technology
+    - degree: Tecnólogo en Desarrollo de Software
+      university: Instituto Tecnológico de Las Américas
       time: 2016 - 2019
-    - degree: English
-      university: Apec University
+    - degree: Inglés
+      university: Universidad APEC
       time: 2007 - 2011
 
 experiences:
-  title: Experiences
+  title: Experiencia
   roles:
-    - role: Engineer IV · Enterprise Integration Engineer
-      time: Jan 2024 – Present
+    - role: Engineer IV · Ingeniero de Integración Empresarial
+      time: Ene 2024 – Presente
       company: Claro, Santo Domingo
       details: |
-        • Implemented a **metadata query integration layer** used by all customer-facing systems nationwide, 
-          ensuring a single source of truth and reducing data inconsistencies across the business infrastructure.
+        • Implementé una **capa de integración de consultas de metadatos** utilizada por todos los sistemas de cara al cliente a nivel nacional, 
+          garantizando una única fuente de verdad y reduciendo inconsistencias de datos en toda la infraestructura de negocio.
 
-        • Built an **integration layer for field work-order queries**, enabling near real-time access to operational systems 
-          and improving service delivery efficiency.
+        • Construí una **capa de integración para consultas de órdenes de trabajo de campo**, habilitando acceso casi en tiempo real 
+          a sistemas operativos y mejorando la eficiencia en la entrega de servicios.
 
-        • Designed and deployed a **REST API domain service** to retrieve customer interactions across digital channels, 
-          improving tracking, reporting, and engagement analysis.
+        • Diseñé y desplegué un **servicio de dominio REST API** para recuperar interacciones de clientes en canales digitales, 
+          mejorando el seguimiento, reportes y análisis de engagement.
 
-        • Integrated with **SAP** for CPE equipment/service provisioning, streamlining operations and reducing manual errors.
+        • Integré con **SAP** para la provisión de equipos/servicios CPE, agilizando operaciones y reduciendo errores manuales.
 
-        • Developed an integration with **SOAP services** for fixed-line provisioning orders, ensuring business continuity 
-          and smoother coexistence of legacy and modern platforms.
+        • Desarrollé una integración con **servicios SOAP** para órdenes de provisión de líneas fijas, asegurando continuidad del negocio 
+          y una transición fluida entre plataformas legacy y modernas.
 
-        • Delivered a **composite service** for activating call restriction codes, managing the full lifecycle from 
-          development to deployment with Kubernetes, Docker, and GitLab CI, achieving greater stability and faster rollouts.
+        • Entregué un **servicio compuesto** para la activación de códigos de restricción de llamadas, gestionando el ciclo de vida completo 
+          desde el desarrollo hasta el despliegue con Kubernetes, Docker y GitLab CI, logrando mayor estabilidad y despliegues más rápidos.
 
-        • Prepared a **proof of concept for a multi-channel communications API**, enabling messaging through multiple channels 
-          with plug-and-play extensibility to incorporate new channels without impacting existing integrations.
+        • Preparé un **POC para una API de comunicaciones multicanal**, habilitando mensajería a través de múltiples canales con extensibilidad plug-and-play 
+          para incorporar nuevos canales sin afectar las integraciones existentes.
 
-        • Exposed **external APIs securely through Apigee Gateway**, enabling controlled proxy configurations to improve 
-          governance and minimize access risks.
+        • Expuse **APIs externas de manera segura a través de Apigee Gateway**, permitiendo configuraciones de proxy controladas para mejorar 
+          la gobernanza y minimizar riesgos de acceso.
 
         • Stack: Java, Quarkus, Spring Boot, Maven, Apache Camel, Kafka, SQL Databases, Kubernetes, Docker, GitLab CI, 
           OpenAPI/Swagger, SOAP, Apigee, SAP.
 
     - role: Senior Software Designer
-      time: Mar 2024 – Aug 2024
+      time: Mar 2024 – Ago 2024
       company: FalconTech SRL
       details: |
-        • Delivered an **AI-assisted Twitter content app** end-to-end (UI/UX, frontend, backend, DB, deploy).
+        • Entregué una aplicación de **contenido para Twitter asistida por IA** end-to-end (UI/UX, frontend, backend, DB, deploy).
 
-        • Created a **REST API platform** for financial statistics (Central Bank data) and public tenders in the DR; 
-          owned UI/UX, frontend, backend, DB, and deployment.
+        • Creé una **plataforma REST API** para estadísticas financieras (datos del Banco Central) y licitaciones públicas en la RD; 
+          lideré UI/UX, frontend, backend, DB y despliegue.
 
     - role: Senior .NET Developer
       time: 2023 - 2024
       company: Claro, Santo Domingo
       details: |
-        • Integrated **eSIM migration services** (prepaid/postpaid) and automated case creation for failed mobile provisioning.
+        • Integré **servicios de migración eSIM** (prepago/postpago) y creación automática de casos para provisiones fallidas.
 
-        • Implemented a **product search** with recency-based suggestions (last 6 months).
+        • Implementé una **búsqueda de productos** con sugerencias basadas en recencia (últimos 6 meses).
 
         • Stack: .NET/C#, NopCommerce, HTML/CSS, Knockout.js, React, MVC, RDBMS.
 
     - role: Senior Java Developer
       time: 2022
-      company: Claro, Remote
+      company: Claro, Remoto
       details: |
-        • Extended **postpaid suspension**, sales management and admin console modules.
+        • Extendí módulos de **suspensión postpago**, gestión de ventas y consola administrativa.
 
-        • Built integration with **FlyTXT Neon** to retrieve client offers for inbound/outbound campaigns.
+        • Construí integración con **FlyTXT Neon** para recuperar ofertas de clientes en campañas inbound/outbound.
 
         • Stack: Java, JSF, SOAP, Maven, REST, RDBMS.
 
     - role: Software Developer I
       time: 2021 - 2023
-      company: Korewireless, Remote
+      company: Korewireless, Remoto
       details: |
-        • Standardized multi-telco product features into a **unified transformation pipeline**.
+        • Estandaricé características de productos multi-telco en un **pipeline de transformación unificado**.
 
-        • Deployed **K8s HPA** driven by Kafka consumer lag for auto-scaling based on traffic.
+        • Desplegué **K8s HPA** impulsado por lag de consumidores Kafka para autoescalado basado en tráfico.
 
-        • Migrated Rules Engine services from **.NET Core 3.1 → .NET 6**.
+        • Migré servicios del Rules Engine de **.NET Core 3.1 → .NET 6**.
 
         • Stack: .NET/C#, Kafka, Kubernetes, Node.js, Angular, GraphQL, OpenAPI, SQL.
 
-    - role: Independent Consultant
-      time: 2021 - present
-      company: Independent
+    - role: Consultor Independiente
+      time: 2021 - Presente
+      company: Independiente
       details: |
-        • Social media scheduling app (AI-assisted) for Twitter content creation.
+        • Aplicación de programación de publicaciones en redes sociales (asistida por IA) para creación de contenido en Twitter.
 
-        • RESTful API for **batch WhatsApp Business** messaging.
+        • API RESTful para **mensajería masiva en WhatsApp Business**.
 
-        • Multiple **landing pages** (non-profits, security, medical equipment, call center, personal branding).
+        • Varias **landing pages** (ONGs, seguridad, equipos médicos, call center, marca personal).
 
         • Stack: Node.js, NestJS, Angular, MongoDB, SQL.
 
@@ -226,15 +226,15 @@ experiences:
       time: 2020 - 2021
       company: Call Center Pros, Santo Domingo
       details: |
-        • Defined architecture and led **UI migration** for Laczy CRM and Jobs portal.
+        • Definí arquitectura y lideré la **migración UI** para el CRM Laczy y portal de empleos.
 
         • Stack: Angular, TypeScript, RxJS, REST.
 
     - role: Software Developer II
       time: 2020 - 2020
-      company: Verizon Enterprise, Remote
+      company: Verizon Enterprise, Remoto
       details: |
-        • Migrated **Administration Tool** suite and **BAN maintenance** modules for carrier clients.
+        • Migré el **suite de herramientas de Administración** y módulos de mantenimiento BAN para clientes carrier.
 
         • Stack: Angular, TypeScript, RxJS, PrimeNG.
 
@@ -242,42 +242,42 @@ experiences:
       time: 2019 - 2020
       company: Claro, Santo Domingo
       details: |
-        • Redesigned **Digital Forms**, a composite web app used nationwide in service centers.
+        • Rediseñé **Formularios Digitales**, una aplicación compuesta usada a nivel nacional en centros de servicio.
 
-        • Aggregated transactions from 5 systems → mapped to digital forms → **PDF via email** to customers.
+        • Agregué transacciones de 5 sistemas → mapeadas a formularios digitales → **PDF vía email** a clientes.
 
-        • Modeled UML, applied OO patterns; reduced implementation time **from 1 week to 1 hour**.
+        • Modele UML, apliqué patrones OO; reduje tiempo de implementación **de 1 semana a 1 hora**.
 
         • Stack: Java, Wicket, Maven, JDBC, Spring DI, HTML/CSS.
 
 publications:
-  title: LinkedIn Newsletter
+  title: Newsletter en LinkedIn
   intro: |
-    Editions of **Light Reading** and **Landing Crazy POP**, two newsletters that combine strategic vision, APIs, business insights, and creative digital storytelling.
+    Ediciones de **Light Reading** y **Landing Crazy POP**, dos newsletters que combinan visión estratégica, APIs, insights de negocio y storytelling digital creativo.
 
   papers:
-    - title: "Light Reading #1: Scale or Disappear — the not-so-serious guide to take your business to the next level (with chatbots, apps, and a bit of dignity)"
+    - title: "Light Reading #1: Escala o Desaparece — la guía (no tan seria) para llevar tu negocio al siguiente nivel (con chatbots, apps y un poco de dignidad)"
       link: "https://www.linkedin.com/pulse/escala-o-desparece-la-gu%25C3%25ADa-tan-seria-para-llevar-tu-negocio-osorio-a8g4e/?trackingId=rGmuJ%2F%2FKTFu5y%2BSU6mi%2FTw%3D%3D"
       authors: Ricardo Osorio
-      conference: Spanish
+      conference: Español
 
-    - title: "Light Reading #2: Build or Stay Out — the zero-technical (but powerful) guide to understand what an API Platform really is"
+    - title: "Light Reading #2: Construye o Quédate Fuera — la guía cero técnica (pero poderosa) para entender qué es realmente una Plataforma de APIs"
       link: "https://www.linkedin.com/pulse/construye-o-qu%25C3%25A9date-afuera-la-gu%25C3%25ADa-cero-t%25C3%25A9cnica-pero-poderosa-osorio-2uole/?trackingId=rGmuJ%2F%2FKTFu5y%2BSU6mi%2FTw%3D%3D"
       authors: Ricardo Osorio
-      conference: Spanish
+      conference: Español
 
-    - title: "Landing Crazy POP #1: What the Funnel Doesn’t Tell You"
+    - title: "Landing Crazy POP #1: Lo Que Calla el Embudo"
       link: "https://www.linkedin.com/pulse/landing-crazy-pop-1-hoy-presentamos-lo-que-calla-el-embudo-osorio-0ehje/?trackingId=%2F4E73zcCSDiXsPK9cmM03w%3D%3D"
       authors: Ricardo Osorio
-      conference: Spanish
+      conference: Español
 
-    - title: "Landing Crazy POP #2: The Black Box of Conversion"
+    - title: "Landing Crazy POP #2: La Caja Negra de la Conversión"
       link: "https://www.linkedin.com/pulse/landing-crazy-pop-2-hoy-presentamos-la-caja-negra-de-ricardo-osorio-knwje/?trackingId=%2F4E73zcCSDiXsPK9cmM03w%3D%3D"
       authors: Ricardo Osorio
-      conference: Spanish
+      conference: Español
 
 skills:
-  title: Skills
+  title: Habilidades
   toolset:
     - name: Java
       level: 350
