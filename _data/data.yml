@@ -202,12 +202,16 @@ skills:
       level: 350
     - name: Node.js
       level: 340
+    - name: JavaScript
+      level: 330
+    - name: Quarkus
+      level: 320
     - name: TypeScript
       level: 320
     - name: Angular
       level: 320
-    - name: JavaScript
-      level: 330
+    - name: Spring Boot
+      level: 300
     - name: C#
       level: 300
     - name: NestJS
@@ -216,11 +220,19 @@ skills:
       level: 300
     - name: GraphQL
       level: 300
+    - name: React
+      level: 280
+    - name: React Native
+      level: 280
+    - name: HTML
+      level: 280
+    - name: CSS
+      level: 280
     - name: Apache Kafka
       level: 250
     - name: Kubernetes
-      level: 200
+      level: 230
     - name: GitOps
-      level: 200
+      level: 220
     - name: Apigee
-      level: 150
+      level: 210
