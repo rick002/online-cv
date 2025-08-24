@@ -5,7 +5,7 @@ certifications %}
 
   <ul class="list-unstyled interests-list">
     {% for certification in certifications.items %} {% if certification.link %}
-    <li><a href="#">{{ certification}}</a></li>
+    <li><a href="#">{{ certification }}</a></li>
     {% else %}
     <li>{{ certification }}</li>
     {% endif %} {% endfor %}
