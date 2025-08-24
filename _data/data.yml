@@ -137,116 +137,118 @@ education:
       time: 2007 - 2011
 
 experiences:
-  - role: Engineer IV · Enterprise Integration Engineer
-    time: Jan 2024 – Present
-    company: Claro, Santo Domingo
-    details: |
-      • Implemented a **metadata query integration layer** used by all customer-facing systems nationwide, 
-        ensuring a single source of truth and reducing data inconsistencies across the business infrastructure.
+  title: Experiences
+  roles:
+    - role: Engineer IV · Enterprise Integration Engineer
+      time: Jan 2024 – Present
+      company: Claro, Santo Domingo
+      details: |
+        • Implemented a **metadata query integration layer** used by all customer-facing systems nationwide, 
+          ensuring a single source of truth and reducing data inconsistencies across the business infrastructure.
 
-      • Built an **integration layer for field work-order queries**, enabling near real-time access to operational systems 
-        and improving service delivery efficiency.
+        • Built an **integration layer for field work-order queries**, enabling near real-time access to operational systems 
+          and improving service delivery efficiency.
 
-      • Designed and deployed a **REST API domain service** to retrieve customer interactions across digital channels, 
-        improving tracking, reporting, and engagement analysis.
+        • Designed and deployed a **REST API domain service** to retrieve customer interactions across digital channels, 
+          improving tracking, reporting, and engagement analysis.
 
-      • Integrated with **SAP** for CPE equipment/service provisioning, streamlining operations and reducing manual errors.
+        • Integrated with **SAP** for CPE equipment/service provisioning, streamlining operations and reducing manual errors.
 
-      • Developed an integration with **SOAP services** for fixed-line provisioning orders, ensuring business continuity 
-        and smoother coexistence of legacy and modern platforms.
+        • Developed an integration with **SOAP services** for fixed-line provisioning orders, ensuring business continuity 
+          and smoother coexistence of legacy and modern platforms.
 
-      • Delivered a **composite service** for activating call restriction codes, managing the full lifecycle from 
-        development to deployment with Kubernetes, Docker, and GitLab CI, achieving greater stability and faster rollouts.
+        • Delivered a **composite service** for activating call restriction codes, managing the full lifecycle from 
+          development to deployment with Kubernetes, Docker, and GitLab CI, achieving greater stability and faster rollouts.
 
-      • Prepared a **proof of concept for a multi-channel communications API**, enabling messaging through multiple channels 
-        with plug-and-play extensibility to incorporate new channels without impacting existing integrations.
+        • Prepared a **proof of concept for a multi-channel communications API**, enabling messaging through multiple channels 
+          with plug-and-play extensibility to incorporate new channels without impacting existing integrations.
 
-      • Exposed **external APIs securely through Apigee Gateway**, enabling controlled proxy configurations to improve 
-        governance and minimize access risks.
+        • Exposed **external APIs securely through Apigee Gateway**, enabling controlled proxy configurations to improve 
+          governance and minimize access risks.
 
-      • Stack: Java, Quarkus, Spring Boot, Maven, Apache Camel, Kafka, SQL Databases, Kubernetes, Docker, GitLab CI, 
-        OpenAPI/Swagger, SOAP, Apigee, SAP.
+        • Stack: Java, Quarkus, Spring Boot, Maven, Apache Camel, Kafka, SQL Databases, Kubernetes, Docker, GitLab CI, 
+          OpenAPI/Swagger, SOAP, Apigee, SAP.
 
-  - role: Senior Software Designer
-    time: Mar 2024 – Aug 2024
-    company: FalconTech SRL
-    details: |
-      • Delivered an **AI-assisted Twitter content app** end-to-end (UI/UX, frontend, backend, DB, deploy).
+    - role: Senior Software Designer
+      time: Mar 2024 – Aug 2024
+      company: FalconTech SRL
+      details: |
+        • Delivered an **AI-assisted Twitter content app** end-to-end (UI/UX, frontend, backend, DB, deploy).
 
-      • Created a **REST API platform** for financial statistics (Central Bank data) and public tenders in the DR; 
-        owned UI/UX, frontend, backend, DB, and deployment.
+        • Created a **REST API platform** for financial statistics (Central Bank data) and public tenders in the DR; 
+          owned UI/UX, frontend, backend, DB, and deployment.
 
-  - role: Senior .NET Developer
-    time: 2023 - 2024
-    company: Claro, Santo Domingo
-    details: |
-      • Integrated **eSIM migration services** (prepaid/postpaid) and automated case creation for failed mobile provisioning.
+    - role: Senior .NET Developer
+      time: 2023 - 2024
+      company: Claro, Santo Domingo
+      details: |
+        • Integrated **eSIM migration services** (prepaid/postpaid) and automated case creation for failed mobile provisioning.
 
-      • Implemented a **product search** with recency-based suggestions (last 6 months).
+        • Implemented a **product search** with recency-based suggestions (last 6 months).
 
-      • Stack: .NET/C#, NopCommerce, HTML/CSS, Knockout.js, React, MVC, RDBMS.
+        • Stack: .NET/C#, NopCommerce, HTML/CSS, Knockout.js, React, MVC, RDBMS.
 
-  - role: Senior Java Developer
-    time: 2022
-    company: Claro, Remote
-    details: |
-      • Extended **postpaid suspension**, sales management and admin console modules.
+    - role: Senior Java Developer
+      time: 2022
+      company: Claro, Remote
+      details: |
+        • Extended **postpaid suspension**, sales management and admin console modules.
 
-      • Built integration with **FlyTXT Neon** to retrieve client offers for inbound/outbound campaigns.
+        • Built integration with **FlyTXT Neon** to retrieve client offers for inbound/outbound campaigns.
 
-      • Stack: Java, JSF, SOAP, Maven, REST, RDBMS.
+        • Stack: Java, JSF, SOAP, Maven, REST, RDBMS.
 
-  - role: Software Developer I
-    time: 2021 - 2023
-    company: Korewireless, Remote
-    details: |
-      • Standardized multi-telco product features into a **unified transformation pipeline**.
+    - role: Software Developer I
+      time: 2021 - 2023
+      company: Korewireless, Remote
+      details: |
+        • Standardized multi-telco product features into a **unified transformation pipeline**.
 
-      • Deployed **K8s HPA** driven by Kafka consumer lag for auto-scaling based on traffic.
+        • Deployed **K8s HPA** driven by Kafka consumer lag for auto-scaling based on traffic.
 
-      • Migrated Rules Engine services from **.NET Core 3.1 → .NET 6**.
+        • Migrated Rules Engine services from **.NET Core 3.1 → .NET 6**.
 
-      • Stack: .NET/C#, Kafka, Kubernetes, Node.js, Angular, GraphQL, OpenAPI, SQL.
+        • Stack: .NET/C#, Kafka, Kubernetes, Node.js, Angular, GraphQL, OpenAPI, SQL.
 
-  - role: Independent Consultant
-    time: 2021 - present
-    company: Independent
-    details: |
-      • Social media scheduling app (AI-assisted) for Twitter content creation.
+    - role: Independent Consultant
+      time: 2021 - present
+      company: Independent
+      details: |
+        • Social media scheduling app (AI-assisted) for Twitter content creation.
 
-      • RESTful API for **batch WhatsApp Business** messaging.
+        • RESTful API for **batch WhatsApp Business** messaging.
 
-      • Multiple **landing pages** (non-profits, security, medical equipment, call center, personal branding).
+        • Multiple **landing pages** (non-profits, security, medical equipment, call center, personal branding).
 
-      • Stack: Node.js, NestJS, Angular, MongoDB, SQL.
+        • Stack: Node.js, NestJS, Angular, MongoDB, SQL.
 
-  - role: Angular Developer
-    time: 2020 - 2021
-    company: Call Center Pros, Santo Domingo
-    details: |
-      • Defined architecture and led **UI migration** for Laczy CRM and Jobs portal.
+    - role: Angular Developer
+      time: 2020 - 2021
+      company: Call Center Pros, Santo Domingo
+      details: |
+        • Defined architecture and led **UI migration** for Laczy CRM and Jobs portal.
 
-      • Stack: Angular, TypeScript, RxJS, REST.
+        • Stack: Angular, TypeScript, RxJS, REST.
 
-  - role: Software Developer II
-    time: 2020 - 2020
-    company: Verizon Enterprise, Remote
-    details: |
-      • Migrated **Administration Tool** suite and **BAN maintenance** modules for carrier clients.
+    - role: Software Developer II
+      time: 2020 - 2020
+      company: Verizon Enterprise, Remote
+      details: |
+        • Migrated **Administration Tool** suite and **BAN maintenance** modules for carrier clients.
 
-      • Stack: Angular, TypeScript, RxJS, PrimeNG.
+        • Stack: Angular, TypeScript, RxJS, PrimeNG.
 
-  - role: Java Developer
-    time: 2019 - 2020
-    company: Claro, Santo Domingo
-    details: |
-      • Redesigned **Digital Forms**, a composite web app used nationwide in service centers.
+    - role: Java Developer
+      time: 2019 - 2020
+      company: Claro, Santo Domingo
+      details: |
+        • Redesigned **Digital Forms**, a composite web app used nationwide in service centers.
 
-      • Aggregated transactions from 5 systems → mapped to digital forms → **PDF via email** to customers.
+        • Aggregated transactions from 5 systems → mapped to digital forms → **PDF via email** to customers.
 
-      • Modeled UML, applied OO patterns; reduced implementation time **from 1 week to 1 hour**.
+        • Modeled UML, applied OO patterns; reduced implementation time **from 1 week to 1 hour**.
 
-      • Stack: Java, Wicket, Maven, JDBC, Spring DI, HTML/CSS.
+        • Stack: Java, Wicket, Maven, JDBC, Spring DI, HTML/CSS.
 
 publications:
   title: LinkedIn Newsletter
