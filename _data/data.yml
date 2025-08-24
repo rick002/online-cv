@@ -33,9 +33,9 @@ sidebar:
   tech-highlights:
     title: Tech Highlights
     items:
-      - item: "Frontend: Angular, React"
+      - item: "Frontend: Angular"
       - item: "Backend: Java, Node.js, Spring Boot"
-      - item: "Cloud & Ops: Kubernetes, Docker, GitLab CI"
+      - item: "Cloud & Ops: Kubernetes, Docker, Podman, GitLab CI"
       - item: "APIs & Integration: Quarkus, Camel, Kafka, Apigee"
 
   inspiration:

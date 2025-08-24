@@ -1,0 +1,14 @@
+{% assign inspiration = site.data.data.sidebar.inspiration %} {% if inspiration
+%}
+<div class="interests-container container-block">
+  <h2 class="container-block-title">{{ inspiration.title }}</h2>
+
+  <ul class="list-unstyled interests-list">
+    {% for node in inspiration.items %} {% if node.link %}
+    <li><a href="#">{{ node.item }}</a></li>
+    {% else %}
+    <li>{{ node.item }}</li>
+    {% endif %} {% endfor %}
+  </ul>
+</div>
+{% endif %}
