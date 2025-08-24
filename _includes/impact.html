@@ -1,0 +1,13 @@
+{% assign impact = site.data.data.sidebar.impact %} {% if impact %}
+<div class="interests-container container-block">
+  <h2 class="container-block-title">{{ impact.title }}</h2>
+
+  <ul class="list-unstyled interests-list">
+    {% for item in impact.items %} {% if impact.link %}
+    <li><a href="#">{{ item }}</a></li>
+    {% else %}
+    <li>{{ item }}</li>
+    {% endif %} {% endfor %}
+  </ul>
+</div>
+{% endif %}

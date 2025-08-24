@@ -36,7 +36,7 @@ sidebar:
     title: Tech Highlights
     items:
       - item: "Frontend: Angular"
-      - item: "Backend: Java, Node.js, Spring Boot"
+      - item: "Backend: Java, Node.js, Spring Boot, Servlets, Strapi, NestJS, .NET"
       - item: "Cloud & Ops: Kubernetes, Docker, Podman, GitLab CI"
       - item: "APIs & Integration: Quarkus, Camel, Kafka, Apigee"
 
@@ -49,8 +49,8 @@ sidebar:
     title: Soft Skills
     items:
       - Technical leadership
-      - Clear communication with C-Level
       - Complex problem solving
+      - Clear communication with C-Levels
       - Remote & multicultural collaboration
 
   methodologies:
