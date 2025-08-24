@@ -5,7 +5,7 @@ sidebar:
   # Profile information
   name: Ricardo Osorio
   tagline: Senior Software Engineer · Integration & APIs (Quarkus/Camel/Kafka/Apigee)
-  avatar: ricardo-profile.png
+  avatar: ricardo-profile.jpeg
 
   # Sidebar links
   email: osorioj842@gmail.com
@@ -33,15 +33,20 @@ sidebar:
 
   interests:
     - item: User Interface / User Experience
-    - item: Philosophy
+    - item: Software Architecture
     - item: Anthropology
+    - item: Philosophy
+    - item: History
 
 career-profile:
   title: Meet My Career Profile
   summary: |
     Senior Software Engineer focused on **integration platforms and APIs** for telecom and enterprise environments. 
+
     I translate business goals into robust services (Quarkus/Spring, Camel, Kafka, Apigee) that standardize data, 
-    reduce operational friction, and accelerate delivery. I’ve led end-to-end solutions—from UI/UX to backend and 
+    reduce operational friction, and accelerate delivery. 
+
+    I’ve led end-to-end solutions—from UI/UX to backend and 
     deployment—prioritizing reliability, maintainability, and measurable business impact.
 
 education:
@@ -59,8 +64,10 @@ experiences:
     details: |
       • Implemented a **metadata query integration layer** used by all customer-facing systems nationwide, 
         unifying formats and simplifying downstream consumption.
+
       • Built an **integration for field work-order queries**, enabling near real-time visibility across 
         operational systems and improving service delivery.
+
       • Stack: Java, Quarkus, Spring Boot, Maven, Apache Camel, Kafka, SQL, Kubernetes, OpenAPI/Swagger, SOAP, Apigee.
 
   - role: Senior Software Designer
@@ -68,6 +75,7 @@ experiences:
     company: FalconTech SRL
     details: |
       • Delivered an **AI-assisted Twitter content app** end-to-end (UI/UX, frontend, backend, DB, deploy).
+
       • Created a **REST API platform** for financial statistics (Central Bank data) and public tenders in the DR; 
         owned UI/UX, frontend, backend, DB, and deployment.
 
@@ -76,7 +84,9 @@ experiences:
     company: Claro, Santo Domingo
     details: |
       • Integrated **eSIM migration services** (prepaid/postpaid) and automated case creation for failed mobile provisioning.
+
       • Implemented a **product search** with recency-based suggestions (last 6 months).
+
       • Stack: .NET/C#, NopCommerce, HTML/CSS, Knockout.js, React, MVC, RDBMS.
 
   - role: Senior Java Developer
@@ -84,7 +94,9 @@ experiences:
     company: Claro, Remote
     details: |
       • Extended **postpaid suspension**, sales management and admin console modules.
+
       • Built integration with **FlyTXT Neon** to retrieve client offers for inbound/outbound campaigns.
+
       • Stack: Java, JSF, SOAP, Maven, REST, RDBMS.
 
   - role: Software Developer I
@@ -92,8 +104,11 @@ experiences:
     company: Korewireless, Remote
     details: |
       • Standardized multi-telco product features into a **unified transformation pipeline**.
+
       • Deployed **K8s HPA** driven by Kafka consumer lag for auto-scaling based on traffic.
+
       • Migrated Rules Engine services from **.NET Core 3.1 → .NET 6**.
+
       • Stack: .NET/C#, Kafka, Kubernetes, Node.js, Angular, GraphQL, OpenAPI, SQL.
 
   - role: Independent Consultant
@@ -101,21 +116,19 @@ experiences:
     company: Independent
     details: |
       • Social media scheduling app (AI-assisted) for Twitter content creation.
-      • RESTful API for **batch WhatsApp Business** messaging.
-      • Multiple **landing pages** (non-profits, security, medical equipment, call center, personal branding).
-      • Stack: Node.js, NestJS, Angular, MongoDB, SQL.
 
-  - role: React Native Developer
-    time: 2021
-    company: Observe, Remote
-    details: |
-      • Prototyped core screens for e-learning mobile app (React Native/Expo/Firebase).
+      • RESTful API for **batch WhatsApp Business** messaging.
+
+      • Multiple **landing pages** (non-profits, security, medical equipment, call center, personal branding).
+
+      • Stack: Node.js, NestJS, Angular, MongoDB, SQL.
 
   - role: Angular Developer
     time: 2020 - 2021
     company: Call Center Pros, Santo Domingo
     details: |
       • Defined architecture and led **UI migration** for Laczy CRM and Jobs portal.
+
       • Stack: Angular, TypeScript, RxJS, REST.
 
   - role: Software Developer II
@@ -123,6 +136,7 @@ experiences:
     company: Verizon Enterprise, Remote
     details: |
       • Migrated **Administration Tool** suite and **BAN maintenance** modules for carrier clients.
+
       • Stack: Angular, TypeScript, RxJS, PrimeNG.
 
   - role: Java Developer
@@ -130,8 +144,11 @@ experiences:
     company: Claro, Santo Domingo
     details: |
       • Redesigned **Digital Forms**, a composite web app used nationwide in service centers.
+
       • Aggregated transactions from 5 systems → mapped to digital forms → **PDF via email** to customers.
+
       • Modeled UML, applied OO patterns; reduced implementation time **from 1 week to 1 hour**.
+
       • Stack: Java, Wicket, Maven, JDBC, Spring DI, HTML/CSS.
 
 projects:
@@ -161,11 +178,27 @@ projects:
 publications:
   title: LinkedIn Newsletter
   intro: |
-    Don’t miss **Digital Symphony: Art, Design & Code** — for CEOs, CTOs, IT Managers, Recruiters, and telecom leaders.
+    Editions of **Light Reading** and **Landing Crazy POP**, two newsletters that combine strategic vision, APIs, business insights, and creative digital storytelling.
+
   papers:
-    - title: "Symphony #1: The Art of Telecommunications, Da Vinci-Style 🎨📡"
-      link: "https://www.linkedin.com/pulse/sinfon%C3%ADa-1-el-arte-de-las-telecomunicaciones-la-manera-ricardo-osorio-lukne/"
-      authors: Ricardo Osorio — September 10, 2024
+    - title: "Light Reading #1: Scale or Disappear — the not-so-serious guide to take your business to the next level (with chatbots, apps, and a bit of dignity)"
+      link: https://www.linkedin.com/pulse/escala-o-desparece-la-gu%25C3%25ADa-tan-seria-para-llevar-tu-negocio-osorio-a8g4e/?trackingId=rGmuJ%2F%2FKTFu5y%2BSU6mi%2FTw%3D%3D
+      authors: Ricardo Osorio
+      conference: Spanish
+
+    - title: "Light Reading #2: Build or Stay Out — the zero-technical (but powerful) guide to understand what an API Platform really is"
+      link: https://www.linkedin.com/pulse/construye-o-qu%25C3%25A9date-afuera-la-gu%25C3%25ADa-cero-t%25C3%25A9cnica-pero-poderosa-osorio-2uole/?trackingId=rGmuJ%2F%2FKTFu5y%2BSU6mi%2FTw%3D%3D
+      authors: Ricardo Osorio
+      conference: Spanish
+
+    - title: "Landing Crazy POP #1: What the Funnel Doesn’t Tell You"
+      link: https://www.linkedin.com/pulse/landing-crazy-pop-1-hoy-presentamos-lo-que-calla-el-embudo-osorio-0ehje/?trackingId=%2F4E73zcCSDiXsPK9cmM03w%3D%3D
+      authors: Ricardo Osorio
+      conference: Spanish
+
+    - title: "Landing Crazy POP #2: The Black Box of Conversion"
+      link: https://www.linkedin.com/pulse/landing-crazy-pop-2-hoy-presentamos-la-caja-negra-de-ricardo-osorio-knwje/?trackingId=%2F4E73zcCSDiXsPK9cmM03w%3D%3D
+      authors: Ricardo Osorio
       conference: Spanish
 
 skills:
@@ -189,19 +222,11 @@ skills:
       level: 300
     - name: GraphQL
       level: 300
-    - name: React
-      level: 280
-    - name: React Native
-      level: 280
-    - name: HTML
-      level: 280
-    - name: CSS
-      level: 280
     - name: Apache Kafka
       level: 250
     - name: Kubernetes
       level: 200
-    - name: Git
+    - name: GitOps
       level: 200
     - name: Apigee
       level: 150
