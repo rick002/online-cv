@@ -1,9 +1,9 @@
 {% assign concepts = site.data.data.sidebar.concepts %} {% if concepts %}
 <div class="interests-container container-block">
-  <h2 class="container-block-title">Concepts</h2>
+  <h2 class="container-block-title">{{ concepts.title }}</h2>
 
   <ul class="list-unstyled interests-list">
-    {% for concept in concepts %} {% if concept.link %}
+    {% for concept in concepts.items %} {% if concept.link %}
     <li><a href="#">{{ concept.item }}</a></li>
     {% else %}
     <li>{{ concept.item }}</li>

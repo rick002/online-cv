@@ -21,14 +21,16 @@ sidebar:
       level: Native
 
   concepts:
-    - item: Integration Patterns (Camel/Kafka)
-    - item: Cloud-Native & Containers (K8s)
-    - item: API Design & Governance
-    - item: TM Forum Open APIs
-    - item: CI/CD Pipelines
-    - item: Design Patterns
-    - item: Microservices
-    - item: GitOps
+    title: Core Strengths
+    items:
+      - item: Integration Patterns (Camel/Kafka)
+      - item: Cloud-Native & Containers (K8s)
+      - item: API Design & Governance
+      - item: TM Forum Open APIs
+      - item: CI/CD Pipelines
+      - item: Design Patterns
+      - item: Microservices
+      - item: GitOps
 
   tech-highlights:
     title: Tech Highlights
