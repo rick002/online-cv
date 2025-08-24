@@ -82,6 +82,15 @@ sidebar:
       - item: Philosophy
       - item: History
 
+  certifications:
+    title: Certifications
+    items:
+      - Java — **In Progress**
+      - Docker — To Be Started
+      - Podman — To Be Started
+      - Kubernetes — To Be Started
+      - .NET — To Be Started
+
 career-profile:
   title: Turning Technology into Business Value
   summary: |
@@ -93,7 +102,7 @@ career-profile:
     I’ve led end-to-end solutions—from UI/UX to backend and 
     deployment—prioritizing reliability, maintainability, and measurable business impact.
 
-    Author of 2 newsletters with 900+ subscribers across LatAm and Spain:
+    Author of 2 newsletters with 900+ subscribers across Latam and Spain:
     • **Landing Crazy POP** (conversion & digital storytelling).
     • **Light Reading** (APIs & strategy).
 
