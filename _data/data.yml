@@ -127,12 +127,14 @@ achieve-goals:
     create ecosystems that scale without breaking.**
 
 education:
-  - degree: Software Development Technologist
-    university: The Americas Institute Of Technology
-    time: 2016 - 2019
-  - degree: English
-    university: Apec University
-    time: 2007 - 2011
+  title: Education
+  graduation:
+    - degree: Software Development Technologist
+      university: The Americas Institute Of Technology
+      time: 2016 - 2019
+    - degree: English
+      university: Apec University
+      time: 2007 - 2011
 
 experiences:
   - role: Engineer IV · Enterprise Integration Engineer
