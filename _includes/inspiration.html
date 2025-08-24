@@ -4,10 +4,10 @@
   <h2 class="container-block-title">{{ inspiration.title }}</h2>
 
   <ul class="list-unstyled interests-list">
-    {% for node in inspiration.items %} {% if node.link %}
-    <li><a href="#">{{ node.item }}</a></li>
+    {% for item in inspiration.items %} {% if item.link %}
+    <li><a href="#">{{ item }}</a></li>
     {% else %}
-    <li>{{ node.item }}</li>
+    <li>{{ item }}</li>
     {% endif %} {% endfor %}
   </ul>
 </div>
