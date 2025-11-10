@@ -2,223 +2,204 @@ sidebar:
   about: false
   education: false
 
-  # Información de perfil
   name: Ricardo Osorio
-  tagline: Ingeniero de Software Senior · Integración & APIs y SaaS (Quarkus/Camel/Kafka/Apigee)
+  tagline: Senior Software Engineer · Integration & APIs in Telecom (Quarkus/Camel/Kafka/Apigee)
   avatar: ricardo-profile.jpeg
 
-  # Enlaces de contacto
   email: osorioj842@gmail.com
   phone: 1-849-361-2817
-  citizenship: Dominicano
+  citizenship: Dominican
   linkedin: Ricardo Osorio
   linkedinURI: ricardo-osorio-32b450183
 
   languages:
-    title: Idiomas
+    title: Languages
     idioms:
-      - idiom: 🇬🇧 Inglés
-        level: Profesional
-      - idiom: 🇪🇸 Español
-        level: Nativo
+      - idiom: 🇬🇧 English
+        level: Professional
+      - idiom: 🇪🇸 Spanish
+        level: Native
 
   concepts:
-    title: Fortalezas Clave
+    title: Core Strengths
     items:
+      - item: BSS/OSS Integrations (Netcracker, Ericsson, Amdocs)
       - item: Integration Patterns (Camel/Kafka)
-      - item: Cloud-Native & Containers (K8s)
       - item: API Design & Governance
       - item: TM Forum Open APIs
-      - item: CI/CD Pipelines
-      - item: Design Patterns
-      - item: Microservices
-      - item: GitOps
+      - item: Cloud-Native & Containers (K8s)
+      - item: CI/CD & GitOps
+      - item: Microservices Architecture
 
   tech-highlights:
-    title: Destacados Tecnológicos
+    title: Tech Highlights
     items:
       - item: "Frontend: Angular"
-      - item: "Backend: Java, Node.js, Spring Boot, Servlets, Strapi, NestJS, .NET"
-      - item: "Cloud & Ops: Kubernetes, Docker, Podman, GitLab CI"
-      - item: "APIs & Integración: Quarkus, Camel, Kafka, Apigee"
+      - item: "Backend: Java, Node.js, Spring Boot, NestJS, .NET"
+      - item: "Integration: Quarkus, Camel, Kafka, Apigee"
+      - item: "Cloud & Ops: Kubernetes, Docker, GitLab CI"
+      - item: "Standards: TM Forum, REST/SOAP, OpenAPI, GraphQL"
 
   inspiration:
-    title: Inspiración & Filosofía
+    title: Inspiration & Philosophy
     items:
-      - "La simplicidad es la máxima sofisticación. — Leonardo da Vinci"
-      - "Si la gente supiera cuánto trabajé para alcanzar mi maestría, no parecería tan maravillosa. — Miguel Ángel"
-      - "No es verdad que las personas dejen de perseguir sus sueños porque envejecen; envejecen porque dejan de perseguir sus sueños. — Gabriel García Márquez"
-      - "La vida solo puede ser entendida mirando hacia atrás; pero debe vivirse hacia adelante. — Søren Kierkegaard"
+      - "Simplicity is the ultimate sophistication. — Leonardo da Vinci"
+      - "If people knew how hard I worked to gain my mastery, it wouldn’t seem so wonderful at all. — Michelangelo"
+      - "Life can only be understood backwards; but it must be lived forwards. — Søren Kierkegaard"
 
   soft-skills:
-    title: Habilidades Blandas
+    title: Soft Skills
     items:
-      - Liderazgo técnico
-      - Resolución de problemas complejos
-      - Comunicación clara con C-Levels
-      - Colaboración remota y multicultural
+      - Technical leadership
+      - Complex problem solving
+      - Clear communication with C-Levels
+      - Remote & multicultural collaboration
 
   methodologies:
-    title: Metodologías de Trabajo
+    title: Work Methodologies
     items:
       - Agile / Scrum
       - DevOps / CI/CD
       - API-First Design
 
   impact:
-    title: Impacto en Números
+    title: Impact in Numbers
     items:
-      - 1 año y 8 meses en Integración Empresarial
-      - 12+ integraciones entregadas
-      - 20+ aplicaciones conectadas
-      - 10M+ de usuarios impactados
+      - 1 year and 8 months in Enterprise Integration
+      - 12+ telecom-grade integrations delivered
+      - 20+ applications connected
+      - 10M+ users impacted
 
   interests:
-    title: Intereses
+    title: Interests
     items:
-      - item: Interfaz de Usuario / Experiencia de Usuario
-      - item: Arquitectura de Software
-      - item: Antropología
-      - item: Filosofía
-      - item: Historia
-
-  certifications:
-    title: Certificaciones
-    items:
-      - Java — **En Progreso**
-      - Docker — Por Iniciar
-      - Podman — Por Iniciar
-      - Kubernetes — Por Iniciar
-      - .NET — Por Iniciar
+      - item: Telecommunications Systems
+      - item: UI/UX & Digital Design
+      - item: Software Architecture
+      - item: History & Philosophy
 
 career-profile:
-  title: Transformando Tecnología en Valor de Negocio
+  title: Bridging Telecom Systems through Integration & APIs
   summary: |
-    Ingeniero de Software Senior enfocado en **plataformas de integración y APIs** para entornos de telecomunicaciones y empresariales. 
+    Senior Software Engineer specialized in **telecom-grade integration platforms (BSS/OSS)** and **API-driven ecosystems**.  
+    Experienced collaborating with **telecom operators, vendors, and enterprise clients** across the Americas.  
 
-    Traduzco objetivos de negocio en servicios robustos (Quarkus/Spring, Camel, Kafka, Apigee) que estandarizan datos, 
-    reducen fricciones operativas y aceleran la entrega. 
+    My work connects systems like **Netcracker, Ericsson, and Amdocs** to core business processes—enabling provisioning, 
+    service activation, and customer lifecycle automation.  
 
-    He liderado soluciones end-to-end—desde UI/UX hasta backend y despliegue—priorizando confiabilidad, mantenibilidad 
-    e impacto medible en el negocio.
+    I combine backend mastery (Quarkus, Camel, Kafka, Apigee) with strategic understanding of **telecom operations**, 
+    ensuring integrations translate directly into business value.  
 
-    Autor de 2 newsletters con 900+ suscriptores en Latam y España:
-    • **Landing Crazy POP** (conversión & storytelling digital).
-    • **Light Reading** (APIs & estrategia).
-
-    **Abierto a roles locales y globales en remoto en Integración, APIs y SaaS Platforms.**
+    Author of two newsletters with 900+ readers across LATAM and Spain:  
+    • **Landing Crazy POP** (conversion & digital storytelling).  
+    • **Lectura Ligera** (APIs & business strategy).
 
 achieve-goals:
-  title: Objetivos Por Lograr
+  title: Achieve Goals
   summary: |
-    Mi próximo capítulo trata de escalar el impacto de la integración más allá del código — convertir las APIs y plataformas 
-    en activos estratégicos que impulsen el crecimiento del negocio.
+    My next chapter is about **expanding integration excellence in telecom** — driving synergy between business systems, 
+    APIs, and customer experience platforms.  
 
-    Quiero asociarme con **C-Level**, **Líderes Técnicos** y **Equipos** para traducir la complejidad en claridad, asegurando que 
-    cada decisión tecnológica contribuya a resultados medibles: eficiencia, escalabilidad y confianza del cliente.  
+    I aim to help telecom operators and enterprises modernize their **BSS/OSS stacks**, enabling faster time-to-market, 
+    more resilient services, and transparent digital ecosystems.  
 
-    En el camino, busco fomentar la colaboración entre funciones, mentorizar a la próxima generación de ingenieros 
-    y seguir construyendo puentes entre estrategia y ejecución a través del liderazgo de pensamiento.  
-
-    Mi aspiración a largo plazo es convertirme en un **arquitecto prodigioso**, capaz de diseñar no solo sistemas técnicos robustos, 
-    sino también ecosistemas digitales que inspiren confianza, resiliencia e innovación a escala.  
-
-    **Mi objetivo: crecer como una referencia global en Integración, APIs y SaaS Platforms, mientras ayudo a las organizaciones 
-    a crear ecosistemas que escalen sin romperse.**
-
-education:
-  title: Educación
-  graduation:
-    - degree: Tecnólogo en Desarrollo de Software
-      university: Instituto Tecnológico de Las Américas
-      time: 2016 - 2019
-    - degree: Inglés
-      university: Universidad APEC
-      time: 2007 - 2011
+    Long-term, I aspire to become a **telecom solutions architect**, leading cross-domain integrations that 
+    balance reliability, scalability, and business impact.
 
 experiences:
-  title: Experiencia
+  title: Experiences
   roles:
-    - role: Engineer IV · Ingeniero de Integración Empresarial
-      time: Ene 2024 – Presente
+    - role: Engineer IV · Enterprise Integration Engineer
+      time: Jan 2024 – Present
       company: Claro, Santo Domingo
       details: |
-        • Implementé una **capa de integración de consultas de metadatos** utilizada por todos los sistemas de cara al cliente a nivel nacional, 
-          garantizando una única fuente de verdad y reduciendo inconsistencias de datos en toda la infraestructura de negocio.
+        • Designed and delivered integrations connecting **BSS/OSS systems (Netcracker, Ericsson)** with internal 
+          customer-care and provisioning layers to ensure unified service orchestration.
 
-        • Construí una **capa de integración para consultas de órdenes de trabajo de campo**, habilitando acceso casi en tiempo real 
-          a sistemas operativos y mejorando la eficiencia en la entrega de servicios.
+        • Built **metadata and operational query services** used by multiple front-office systems, standardizing 
+          data retrieval across CRM, billing, and order management domains.
 
-        • Diseñé y desplegué un **servicio de dominio REST API** para recuperar interacciones de clientes en canales digitales, 
-          mejorando el seguimiento, reportes y análisis de engagement.
+        • Integrated with **SAP and legacy fixed-line OSS** for provisioning workflows, automating end-to-end activation.
 
-        • Integré con **SAP** para la provisión de equipos/servicios CPE, agilizando operaciones y reduciendo errores manuales.
+        • Delivered **REST APIs** for customer interaction tracking, enhancing reporting and omnichannel engagement.
 
-        • Desarrollé una integración con **servicios SOAP** para órdenes de provisión de líneas fijas, asegurando continuidad del negocio 
-          y una transición fluida entre plataformas legacy y modernas.
+        • Developed a **composite API** for call restriction and service feature activation, deployed via Kubernetes, 
+          with CI/CD in GitLab and governance through Apigee Gateway.
 
-        • Entregué un **servicio compuesto** para la activación de códigos de restricción de llamadas, gestionando el ciclo de vida completo 
-          desde el desarrollo hasta el despliegue con Kubernetes, Docker y GitLab CI, logrando mayor estabilidad y despliegues más rápidos.
+        • Partnered with technical and business stakeholders to align integrations with regulatory and operational KPIs.
 
-        • Preparé un **POC para una API de comunicaciones multicanal**, habilitando mensajería a través de múltiples canales con extensibilidad plug-and-play 
-          para incorporar nuevos canales sin afectar las integraciones existentes.
-
-        • Expuse **APIs externas de manera segura a través de Apigee Gateway**, permitiendo configuraciones de proxy controladas para mejorar 
-          la gobernanza y minimizar riesgos de acceso.
-
-        • Stack: Java, Quarkus, Spring Boot, Maven, Apache Camel, Kafka, SQL Databases, Kubernetes, Docker, GitLab CI, 
-          OpenAPI/Swagger, SOAP, Apigee, SAP.
+        • Stack: Java, Quarkus, Spring Boot, Apache Camel, Kafka, SOAP, Apigee, SAP, Docker, Kubernetes, GitLab CI.
 
     - role: Senior Software Designer
-      time: Mar 2024 – Ago 2024
+      time: Mar 2024 – Aug 2024
       company: FalconTech SRL
       details: |
-        • Entregué una aplicación de **contenido para Twitter asistida por IA** end-to-end (UI/UX, frontend, backend, DB, deploy).
+        • Led design and delivery of **AI-assisted SaaS solutions** with a strong focus on user experience and 
+          creative interface design.
 
-        • Creé una **plataforma REST API** para estadísticas financieras (datos del Banco Central) y licitaciones públicas en la RD; 
-          lideré UI/UX, frontend, backend, DB y despliegue.
+        • Acted as technical lead for financial data and analytics APIs in the Dominican Republic public sector.
+
+        • Promoted modern UI/UX standards, responsive design, and design system consistency across products.
 
     - role: Senior .NET Developer
       time: 2023 - 2024
       company: Claro, Santo Domingo
       details: |
-        • Integré **servicios de migración eSIM** (prepago/postpago) y creación automática de casos para provisiones fallidas.
+        • Developed and integrated **eSIM provisioning workflows** connected with **Ericsson provisioning gateways** 
+          and internal CRM/BSS services for prepaid and postpaid migrations.
 
-        • Implementé una **búsqueda de productos** con sugerencias basadas en recencia (últimos 6 meses).
+        • Automated **case management creation** for failed activation scenarios via API triggers.
 
-        • Stack: .NET/C#, NopCommerce, HTML/CSS, Knockout.js, React, MVC, RDBMS.
+        • Technologies: .NET/C#, NopCommerce, React, MVC, SQL Server, Ericsson APIs.
 
     - role: Senior Java Developer
       time: 2022
-      company: Claro, Remoto
+      company: Claro, Remote
       details: |
-        • Extendí módulos de **suspensión postpago**, gestión de ventas y consola administrativa.
+        • Integrated with **FlyTXT Neon (Amdocs)** for campaign and offer management.  
 
-        • Construí integración con **FlyTXT Neon** para recuperar ofertas de clientes en campañas inbound/outbound.
+        • Enhanced **postpaid suspension and provisioning modules**, improving data sync between BSS and 
+          external marketing systems.
 
-        • Stack: Java, JSF, SOAP, Maven, REST, RDBMS.
+        • Collaborated with customer experience teams to align backend flows with operational KPIs.
+
+        • Stack: Java, JSF, SOAP, Maven, REST.
 
     - role: Software Developer I
       time: 2021 - 2023
-      company: Korewireless, Remoto
+      company: Korewireless, Remote
       details: |
-        • Estandaricé características de productos multi-telco en un **pipeline de transformación unificado**.
+        • Connected **multi-carrier BSS stacks** (AT&T, Verizon, T-Mobile, Orange) to a unified IoT SaaS platform, 
+          standardizing event flows and product features across regions.
 
-        • Desplegué **K8s HPA** impulsado por lag de consumidores Kafka para autoescalado basado en tráfico.
+        • Migrated core **Rules Engine** (.NET Core 3.1 → .NET 6) handling SIM provisioning logic across carriers.
 
-        • Migré servicios del Rules Engine de **.NET Core 3.1 → .NET 6**.
+        • Implemented **Kafka-based auto-scaling (HPA)** in Kubernetes, adjusting resources by consumer lag metrics.
 
-        • Stack: .NET/C#, Kafka, Kubernetes, Node.js, Angular, GraphQL, OpenAPI, SQL.
+        • Collaborated with product and ops teams to ensure SLA adherence and provisioning stability.
 
-    - role: Consultor Independiente
-      time: 2021 - Presente
-      company: Independiente
+        • Stack: .NET/C#, Kafka, Kubernetes, Node.js, Angular, GraphQL, SQL.
+
+    - role: Software Developer II
+      time: 2020
+      company: Verizon Enterprise, Remote
       details: |
-        • Aplicación de programación de publicaciones en redes sociales (asistida por IA) para creación de contenido en Twitter.
+        • Migrated **BAN maintenance and admin tools** for enterprise clients, ensuring seamless integration 
+          between customer data systems and internal BSS interfaces.
 
-        • API RESTful para **mensajería masiva en WhatsApp Business**.
+        • Supported interoperation between Verizon’s CRM and third-party billing/OSS layers.
 
-        • Varias **landing pages** (ONGs, seguridad, equipos médicos, call center, marca personal).
+        • Stack: Angular, TypeScript, PrimeNG, REST APIs.
+
+    - role: Independent Consultant
+      time: 2021 - Present
+      company: Independent
+      details: |
+        • Led SaaS and web development projects with emphasis on **architecture, usability, and branding**.
+
+        • Created REST APIs for messaging, automation, and analytics platforms.
+
+        • Directed end-to-end delivery for **marketing and data-driven applications**.
 
         • Stack: Node.js, NestJS, Angular, MongoDB, SQL.
 
@@ -226,94 +207,56 @@ experiences:
       time: 2020 - 2021
       company: Call Center Pros, Santo Domingo
       details: |
-        • Definí arquitectura y lideré la **migración UI** para el CRM Laczy y portal de empleos.
+        • Defined architecture and led **UI modernization** for CRM and job portal systems.
+
+        • Mentored junior developers in component-based design and UX consistency.
 
         • Stack: Angular, TypeScript, RxJS, REST.
-
-    - role: Software Developer II
-      time: 2020 - 2020
-      company: Verizon Enterprise, Remoto
-      details: |
-        • Migré el **suite de herramientas de Administración** y módulos de mantenimiento BAN para clientes carrier.
-
-        • Stack: Angular, TypeScript, RxJS, PrimeNG.
 
     - role: Java Developer
       time: 2019 - 2020
       company: Claro, Santo Domingo
       details: |
-        • Rediseñé **Formularios Digitales**, una aplicación compuesta usada a nivel nacional en centros de servicio.
+        • Rebuilt **Digital Forms platform**, centralizing customer documentation across multiple BSS systems.
 
-        • Agregué transacciones de 5 sistemas → mapeadas a formularios digitales → **PDF vía email** a clientes.
+        • Reduced implementation time from one week to one hour through automated mapping and integration patterns.
 
-        • Modele UML, apliqué patrones OO; reduje tiempo de implementación **de 1 semana a 1 hora**.
-
-        • Stack: Java, Wicket, Maven, JDBC, Spring DI, HTML/CSS.
+        • Stack: Java, Wicket, Maven, Spring DI, JDBC.
 
 publications:
-  title: Newsletter en LinkedIn
+  title: LinkedIn Newsletter
   intro: |
-    Ediciones de **Light Reading** y **Landing Crazy POP**, dos newsletters que combinan visión estratégica, APIs, insights de negocio y storytelling digital creativo.
-
-  papers:
-    - title: "Light Reading #1: Escala o Desaparece — la guía (no tan seria) para llevar tu negocio al siguiente nivel (con chatbots, apps y un poco de dignidad)"
-      link: "https://www.linkedin.com/pulse/escala-o-desparece-la-gu%25C3%25ADa-tan-seria-para-llevar-tu-negocio-osorio-a8g4e/?trackingId=rGmuJ%2F%2FKTFu5y%2BSU6mi%2FTw%3D%3D"
-      authors: Ricardo Osorio
-      conference: Español
-
-    - title: "Light Reading #2: Construye o Quédate Fuera — la guía cero técnica (pero poderosa) para entender qué es realmente una Plataforma de APIs"
-      link: "https://www.linkedin.com/pulse/construye-o-qu%25C3%25A9date-afuera-la-gu%25C3%25ADa-cero-t%25C3%25A9cnica-pero-poderosa-osorio-2uole/?trackingId=rGmuJ%2F%2FKTFu5y%2BSU6mi%2FTw%3D%3D"
-      authors: Ricardo Osorio
-      conference: Español
-
-    - title: "Landing Crazy POP #1: Lo Que Calla el Embudo"
-      link: "https://www.linkedin.com/pulse/landing-crazy-pop-1-hoy-presentamos-lo-que-calla-el-embudo-osorio-0ehje/?trackingId=%2F4E73zcCSDiXsPK9cmM03w%3D%3D"
-      authors: Ricardo Osorio
-      conference: Español
-
-    - title: "Landing Crazy POP #2: La Caja Negra de la Conversión"
-      link: "https://www.linkedin.com/pulse/landing-crazy-pop-2-hoy-presentamos-la-caja-negra-de-ricardo-osorio-knwje/?trackingId=%2F4E73zcCSDiXsPK9cmM03w%3D%3D"
-      authors: Ricardo Osorio
-      conference: Español
+    Author of **Light Reading** and **Landing Crazy POP**, newsletters exploring the intersection of APIs, 
+    telecom integration, and digital strategy.
 
 skills:
-  title: Habilidades
+  title: Skills
   toolset:
     - name: Java
       level: 350
     - name: Node.js
       level: 340
-    - name: JavaScript
-      level: 330
+    - name: Apache Camel
+      level: 340
     - name: Quarkus
       level: 320
     - name: TypeScript
       level: 320
     - name: Angular
       level: 320
+    - name: C#
+      level: 310
+    - name: .NET
+      level: 310
     - name: Spring Boot
       level: 300
-    - name: C#
-      level: 300
-    - name: NestJS
-      level: 300
-    - name: Strapi.js
-      level: 300
-    - name: GraphQL
-      level: 300
-    - name: React
-      level: 280
-    - name: React Native
-      level: 280
-    - name: HTML
-      level: 280
-    - name: CSS
-      level: 280
-    - name: Apache Kafka
-      level: 250
-    - name: Kubernetes
-      level: 230
-    - name: GitOps
-      level: 220
     - name: Apigee
-      level: 210
+      level: 280
+    - name: Kafka
+      level: 280
+    - name: Kubernetes
+      level: 260
+    - name: REST/SOAP APIs
+      level: 260
+    - name: Design Leadership
+      level: 240
